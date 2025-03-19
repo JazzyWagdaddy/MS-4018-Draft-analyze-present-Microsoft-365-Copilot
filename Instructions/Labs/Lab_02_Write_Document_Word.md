@@ -20,7 +20,11 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
     > [!NOTE]
     > If you don't have notes you want to import, proceed to **Draft your content**.
 
-1. Enter the prompt *Draft a project report update based on the notes about Mystic Spice Premium Chai Tea in OneNote.* in the Copilot pane. Copilot pulls the requested information from OneNote and drafts the start of the report in the Copilot pane.
+1. Enter the following prompt in the Copilot pane:
+
+    +++Draft a project report update based on the notes about Mystic Spice Premium Chai Tea in OneNote.+++
+
+    Copilot pulls the requested information from OneNote and drafts the start of the report in the Copilot pane.
 
 1. Select the **Insert** option to copy this text into the Word document.
 
@@ -34,11 +38,14 @@ Let's create a project report using the Market Analysis you've already gathered.
 
 1. Select the on-canvas **Copilot** experience at the top of the blank document.
 
-1. Enter the prompt: *Create a project report based on the content in /Market Analysis Report for Mystic Spice Premium Chai Tea.docx. Include an executive summary, introduction, project objectives, and discussion.*
+1. Enter the following prompt:
+
+    +++Create a project report based on the content in /Market Analysis Report for Mystic Spice Premium Chai Tea.docx. Include an executive summary, introduction, project objectives, and discussion.+++
 
 1. Review the drafted content and select **Keep it**.
 
 1. As you're reviewing the content of your document, you may find that some text needs to be edited or rewritten. The Product Description section seems to be fairly short, and technical. Let's edit the text so it's more engaging for our readers.
+
 1. Highlight the paragraph, select the **Copilot** icon that appears to the left of the text.
 
 1. Select **Auto Rewrite** from the menu. Copilot generates several options. Review each, and select to:
@@ -48,7 +55,9 @@ Let's create a project report using the Market Analysis you've already gathered.
     - **Regenerate** the suggestions if you don't like any of the suggestions, you can select to regenerate them, and Copilot provides you three more options from which to choose.
     - Enter text describing the update you're looking for in the **What do you want Copilot to change?** field.
 
-1. Let's enter a specific prompt to get the results we want. In the **What do you want Copilot to Change** field, enter *Rewrite this paragraph to add more detail about the product. The tone of this paragraph should be professional and engaging*.
+1. Let's enter a specific prompt to get the results we want. In the **What do you want Copilot to Change** field, enter:
+
+    +++Rewrite this paragraph to add more detail about the product. The tone of this paragraph should be professional and engaging.+++
 
 1. Review the rewritten options, choose the one you most prefer, and select **Replace**.
 
@@ -58,7 +67,7 @@ While the content in your document may be accurate, consider its readability. Wo
 
 Let's see this transformation in action.
 
-1. Ask Copilot to *Add a list of project milestones and their deadlines* using the on-canvas Copilot option.
+1. Ask Copilot to +++Add a list of project milestones and their deadlines+++ using the on-canvas Copilot option.
 
 1. Select **Keep it** to add the section to your Project Plan.
 
@@ -68,7 +77,7 @@ Let's see this transformation in action.
 
 1. Select **Visualize as a table** from the menu. The result looks great, overall, but let's make sure there's a column for when the task is successfully completed.
 
-1. Type *Add a third column, Task Completed, to the table.* in the Copilot dialog.
+1. Type +++Add a third column, Task Completed, to the table.+++ in the Copilot dialog.
 
 1. Select **Keep it** to insert the table into your document.
 
@@ -78,7 +87,9 @@ Let's see this transformation in action.
 
 As you complete your document, you want to ensure that your key points are presented clearly. A good way to do this is to see a summary of the document. Likewise, should you receive a large Word document that you don't have time to read in its entirety, the summary feature is key. Let's create a summary at the end of our document.
 
-1. Prompt Copilot to *Summarize this document. Highlight the top three points made.* using the Copilot pane.
+1. Enter the following prompt:
+
+    +++Summarize this document. Highlight the top three points made.* using the Copilot pane.+++
 
 1. Review the generated summary, and select **Insert** if you want to include the summary in your document.
 
