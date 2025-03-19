@@ -1,0 +1,98 @@
+# Lab 3 - Manage collaboration from start to finish with Copilot in Teams
+
+Imagine you're a manager at Contoso. Your team relies on effective communication to collaborate and achieve goals. You want to rally the team behind a new idea for the Contoso Connect product launch, and need to send a message to your team about how to incorporate this idea before the product launch deadline. Use Copilot to draft, rewrite, and adjust your message to ensure it's clear, concise, and professional. As you brainstorm options in the chat, you can pull key information and ideas that you want to discuss in a Teams meeting. Then, following the meeting, you can use Copilot to help clarify action items for each team member.
+
+#### Exercise 1 - Write an engaging message to introduce your idea
+
+1. To start, create a new channel in  your team's chat for this conversation. Select **New channel** from the Chat dropdown menu and name this channel *Contoso Connect*.
+
+1. Write your message in the box at the bottom of the chat or channel. Enter *Hi Team! I've been thinking about Contoso Connect, and how we can make the product launch more exciting for our customers. I have a couple of ideas, and want to hear more from each of you. What do you think would make our customers excited and ready to work with Connect?*
+
+1. Select the **Rewrite with Copilot** icon at the bottom of the message box.
+
+1. Choose the **Rewrite** option to generate another version of your message that improves its grammar and style. You can rewrite your message up to 10 times, each time generating a new version. Use the left and right arrows below the text to navigate through versions.
+
+1. While this message is adequate, it lacks the enthusiasm you're trying to convey.
+
+1. Select **Adjust** then select from the options Copilot presents to edit and update your message. You can customize the message if it's still not quite right.
+
+1. Select **Custom** from the **Adjust** option. Try custom tones like *instructive* or *engaging*.
+
+1. Select **Replace** when you're satisfied with the new message. If you selected a partial section, only that text updates.
+
+1. Select **X** at the top right of the Copilot window to reject the suggestions if you prefer your original message.
+
+1. Once you replace the original message, select **Send**.
+
+The team receives your message and is excited to contribute! Everyone contributes ideas and discusses potential issues in the Teams chat.
+
+#### Exercise 2 - Review the Team chat and gather information
+
+Once everyone has a chance to chime in, you want to gather all of the information and schedule a meeting to discuss their points. Let's have Copilot help gather information so you don't have to wade through all of the messages.
+
+1. Go to Chat on the left side of Teams, then select the Product Launch chat from the list.
+
+1. Select Open Copilot in the upper-right corner of the chat.
+
+1. Under the compose box to the right of your chat, select **More prompts** to choose from the following options:
+
+    - *Highlights from the past day.*
+    - *Highlights from the past seven days.*
+    - *Highlights from the past 30 days.*
+    - *What decisions were made?*
+    - *What are the open items?*
+
+    Type a prompt in the compose box, then select **Send**. Try these prompts:
+
+    - *What did [a member of the chat] say?*
+    - *What links were shared?*
+    - *What are some more suggestions for the product launch's success?*
+    - *What are the points we need to consider that may inhibit the launch?*
+
+#### Exercise 3 - Schedule a meeting in Outlook
+
+Once you collect insights from the chat, you want to schedule a meeting to brainstorm the suggestions further. You can use Copilot in Outlook to find the best time based on your team's availability, and draft the body of the meeting invite to include the key points you prompted Copilot to answer from your meeting chat.
+
+1. Open Microsoft Outlook.
+
+1. Select the **Copilot** icon from the **Home** ribbon to open the Copilot pane.
+
+1. Ask Copilot to suggest the best time for the meeting by entering *Schedule a meeting next week based on attendees' availability.* Copilot searches the calendars of your email recipients, and suggests a time based on their availability.
+
+1. Review the suggested time.
+
+1. Select **Edit** to add context to the meeting invite.
+
+1. Select the **Draft with Copilot** option and paste the key details to discuss from your Copilot responses in Teams.
+
+1. Select the on-canvas **Copilot** icon.
+
+1. Prompt Copilot to *Add an agenda and rewrite this email in a professional tone.*
+
+1. Review Copilot's suggestion and select to **Keep it**.
+
+1. **Send** the invite to your attendees.
+
+When you host the meeting, be sure to record it to enable Copilot.
+
+#### Exercise 4 - Delegate follow-up action items based on your meeting
+
+Once your meeting is complete, you can ask Copilot in Teams to summarize the meeting, to detail questions that were asked, but not answered, or to list ideas generated by specific team members.
+
+1. Navigate to the meeting and select **View recap** to open the notes, summary, and transcript generated.
+
+1. ​​​​​​​Open Copilot.
+
+1. Prompt Copilot to *Create a list of all ideas generated in this meeting. Indicate if the idea was promoted or rejected.*
+
+1. Retrieve more insights by trying your own variations of the following prompts:
+
+    - *What questions were asked, answered, and unresolved?*
+    - *What was the mood of the meeting?*
+    - *Summarize what people said, in a less technical way.*
+    - *Why did [a meeting participant] say that this idea was a good one?*
+    - *For each participant, what was the biggest concern? What were they most excited about?*
+    - *What ideas did [a meeting participant] have that I can share with the product team?*
+    - *Draft an email to the meeting participants that summarizes the meeting and includes the action items.*
+
+By using Copilot in Team's capabilities, you can effortlessly draft, rewrite, and adjust messages, gather insights from team chats, and schedule meetings efficiently. Now, you can confidently use these tools to streamline your workflow and achieve your collaboration goals with ease.
