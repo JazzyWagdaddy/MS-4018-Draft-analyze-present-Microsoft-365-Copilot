@@ -1,4 +1,4 @@
-# Lab 1 - Build a presentation from start to finish with Copilot inf PowerPoint
+# Lab 1 - Build a presentation from start to finish with Copilot in PowerPoint
 
 Imagine you're a marketing manager at a company called Contoso. Your team is preparing for an important client meeting where you need to present the company's strategy for a new Chai Tea product line to be sold in Latin America Your goal is to create a compelling presentation that highlights the product's features, benefits, and use cases, while ensuring it adheres to the company's branding standards. You've already developed a business plan for this product, and want to use that content when preparing for your meeting. You need to collaborate with your team and get the presentation reviewed by your manager before the meeting.
 
@@ -14,7 +14,9 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 1. Open PowerPoint and start a new presentation.
 
-1. Select the **Copilot** icon, then use Copilot to generate a draft presentation. Prompt Copilot to *Create a presentation about Contoso's Chai Tea based on /Promotion Plan for Chai Tea in Latin America.docx.*
+1. Select the **Copilot** icon, then use Copilot to generate a draft presentation using the following prompt:
+
+    +++Create a presentation about Contoso's Chai Tea based on /Promotion Plan for Chai Tea in Latin America.docx.+++
 
 1. Copilot displays a presentation outline showing the potential slides and bulleted points to be included on each slide. Review the suggested topic and select **Generate slides** to continue. Copilot generates slides and content for each. It displays the results in the **Slide Sorter** view.
 
