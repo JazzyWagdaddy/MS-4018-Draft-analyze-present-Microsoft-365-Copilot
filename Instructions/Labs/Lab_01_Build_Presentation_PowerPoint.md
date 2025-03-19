@@ -32,11 +32,17 @@ Because this presentation will be given both in-person and virtually, let's give
 
 1. Return to the **Home** ribbon view.
 
-1. Open the Copilot pane and enter *Can you help me brainstorm an icebreaker question that would be good for a global audience? Provide three options for me to choose from.* Copilot responds with suggestions for your icebreaker. If none of these questions fit what you're looking for, prompt Copilot to generate more suggestions.
+1. Open the Copilot pane and enter the following prompt:
+
+     +++Can you help me brainstorm an icebreaker question that would be good for a global audience? Provide three options for me to choose from.+++
+
+     Copilot responds with suggestions for your icebreaker. If none of these questions fit what you're looking for, prompt Copilot to generate more suggestions.
 
      The first question looks great for our audience, so let's ask Copilot to generate a slide with this question, a corresponding image, and to insert this as the first slide in the presentation.
 
-1. Enter *Use question 1 as the icebreaker, and generate a slide that includes a complementary image. Insert this slide the first slide in the presentation.*
+1. Enter the following prompt:
+
+    +++Use question 1 as the icebreaker, and generate a slide that includes a complementary image. Insert this slide the first slide in the presentation.+++
 
     Now, you've got a great way to start a conversation among your meeting participants. Let's look at the presentation now, and see how we can make it even more powerful.
 
@@ -48,7 +54,10 @@ While Copilot includes images as it creates slides, you may want to add or edit 
 
 1. Navigate to the title slide that Copilot generated.
 
-1. Enter *Replace the image on the Title slide with an image of a person sipping a warm cup of tea.* in the Copilot pane.
+1. Enter the following prompt in the Copilot pane:
+
+    +++Replace the image on the Title slide with an image of a person sipping a warm cup of tea.+++
+
     > [!NOTE]
     > Feel free to experiment with your own prompt to generate an image  you think would work best for the presentation. The more details you provide, the better.
 
@@ -64,7 +73,9 @@ As you're reviewing the presentation, you may decide the text Copilot generated 
 
 1. Navigate to the **Overview and Benefits** slide.
 
-1. In the Copilot pane, enter the prompt *Edit the text on the Overview and Benefits slide to make it more conversational.*
+1. In the Copilot pane, enter the following prompt:
+
+    +++Edit the text on the Overview and Benefits slide to make it more conversational.+++
 
 1. Review the suggestions provided by Copilot, then cut and paste it onto the slide, and make any necessary adjustments.
 
@@ -72,7 +83,9 @@ As you're reviewing the presentation, you may decide the text Copilot generated 
 
 As you're reviewing the presentation, you may find that the topics in your presentation need to be more clearly identified. You can use Copilot in PowerPoint to inject this clarity.
 
-1. In the Copilot pane, enter the prompt *Organize this presentation.*
+1. In the Copilot pane, enter the following prompt:
+
+    +++Organize this presentation.+++
 
 1. Copilot responds, indicating that organizing the slides replaces existing sections. Select **Yes, please** to continue.
 
@@ -86,7 +99,11 @@ Once you're satisfied with your presentation, use Copilot in Outlook to draft an
 
 1. Select the **Copilot** icon in the email composition window.
 
-1. Enter the prompt *Draft an email to my manager, [Manager's Name]. Ask for a review of the presentation that I attached to this email. Write the email in a casual tone* and choose **Draft with Copilot**.
+1. Enter the following prompt:
+
+    +++Draft an email to my manager, [Manager's Name]. Ask for a review of the presentation that I attached to this email. Write the email in a casual tone+++
+
+1. Select **Draft with Copilot**.
 
 1. Review the email draft, make any necessary edits, and send it.
 
