@@ -16,8 +16,8 @@ Follow the steps below to upload all files needed to **OneDrive**:
 2. In the Windows taskbar, select **Microsoft Edge**.
 3. In the address bar, enter `https://onedrive.live.com/login`.
 4. Under **Welcome to Microsoft 365**, select **Sign in**.
-5. At the **Sign-in prompt**, enter `+++@lab.CloudPortalCredential(User1).Username+++` (username and tenant provided by your tenant provided) and select **Next**.
-6. At the **Enter password** screen, enter `+++@lab.CloudPortalCredential(User1).Password+++`, then select **Sign in**.
+5. At the **Sign-in prompt**, enter userx@yourtenant.onmicrosoft.com (username and tenant provided by your tenant provided) and select **Next**.
+6. At the **Enter password** screen,  enter the password for userxuserx@yourtenant.onmicrosoft.com (provided by tenant provider) for the User account, then select **Sign in**.
 7. If prompted to **Stay signed in**, select **Don't show this again** and then **Yes**.
 8. In **OneDrive**, in the top-left corner, select **+** (add new) > **File upload**.
 
