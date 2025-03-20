@@ -69,7 +69,7 @@ While Copilot includes images as it creates slides, you may want to add or edit 
 
 #### Exercise 4 - Edit the text
 
-As you're reviewing the presentation, you may decide the text Copilot generated isn't quite right for you. Use Copilot to help you refine the text on your slides. For instance, you can type *Edit the text on this slide to make it more concise* or *Make this text more engaging for the reader* Let's see how:
+As you're reviewing the presentation, you may decide the text Copilot generated isn't right for you. Use Copilot to help you refine the text on your slides. For instance, you can type *Edit the text on this slide to make it more concise* or *Make this text more engaging for the reader* Let's see how:
 
 1. Navigate to the **Overview and Benefits** slide.
 
