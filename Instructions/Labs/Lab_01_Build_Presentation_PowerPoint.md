@@ -42,7 +42,7 @@ Because this presentation will be given both in-person and virtually, let's give
 
 1. Enter the following prompt:
 
-    +++Use question 1 as the icebreaker, and generate a slide that includes a complementary image. Insert this slide the first slide in the presentation.+++
+    +++Use question 1 as the icebreaker, and generate a slide that includes a complementary image. Insert this slide as the first slide in the presentation.+++
 
     Now, you've got a great way to start a conversation among your meeting participants. Let's look at the presentation now, and see how we can make it even more powerful.
 
@@ -101,7 +101,7 @@ Once you're satisfied with your presentation, use Copilot in Outlook to draft an
 
 1. Enter the following prompt:
 
-    +++Draft an email to my manager, [Manager's Name]. Ask for a review of the presentation that I attached to this email. Write the email in a casual tone+++
+    +++Draft an email to my manager, [Manager's Name]. Ask for a review of the presentation that I attached to this email. Write the email in a casual tone.+++
 
 1. Select **Draft with Copilot**.
 

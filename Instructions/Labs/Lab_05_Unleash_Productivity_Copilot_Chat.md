@@ -39,13 +39,13 @@ As you learn about the company, you see this position could be a great opportuni
 
 1. Enter the following prompt:
 
-    +++Generate a list of potential questions i may be asked in the interview.+++
+    +++Generate a list of potential questions I may be asked in the interview.+++
 
 1. Review and refine the list of questions provided by Copilot.
 
 #### Exercise 4 - Generate answers
 
-Task: Now that you've got an idea of potential questions, you can consider your personal responses. To help craft answers that align with the department's messaging and your personal voice, you can use Copilot Chat to generate answers for each anticipated question.
+Now that you've got an idea of potential questions, you can consider your personal responses. To help craft answers that align with the department's messaging and your personal voice, you can use Copilot Chat to generate answers for each anticipated question.
 
 1. In the same Copilot Chat, prompt Copilot to
 
@@ -84,3 +84,5 @@ These answers are great, and you're feeling confident before your interview. Now
 1. Review the draft and make any necessary adjustments to personalize it.
 
 1. Add your recipients and send your email.
+
+**End of Lab 5**

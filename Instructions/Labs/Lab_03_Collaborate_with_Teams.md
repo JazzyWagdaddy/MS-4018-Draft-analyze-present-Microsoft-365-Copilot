@@ -30,8 +30,6 @@ Imagine you're a manager at Contoso. Your team relies on effective communication
 
 1. Select **Replace** when you're satisfied with the new message. If you selected a partial section, only that text updates.
 
-1. Select **X** at the top right of the Copilot window to reject the suggestions if you prefer your original message.
-
 1. Once you replace the original message, select **Post**.
 
 The team receives your message and is excited to contribute! Everyone contributes ideas and discusses potential issues in the Teams chat.
@@ -60,8 +58,10 @@ You now want to schedule a meeting to brainstorm some feedback with your team. Y
 
 1. Copilot will create a draft of the meeting invite. Review the suggestion but don't select **Keep it**. Instead, enter the following prompt:
 
-    +++rewrite this email in a professional tone.+++
+    +++Rewrite this email in a professional tone.+++
 
 1. Review Copilot's suggestion and select to **Keep it**.
 
 By using Copilot in Team's capabilities, you can effortlessly draft, rewrite, and adjust messages, gather insights from team chats, and schedule meetings efficiently. Now, you can confidently use these tools to streamline your workflow and achieve your collaboration goals with ease.
+
+**End of Lab 3**

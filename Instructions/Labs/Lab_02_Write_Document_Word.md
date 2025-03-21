@@ -87,9 +87,9 @@ Let's see this transformation in action.
 
 As you complete your document, you want to ensure that your key points are presented clearly. A good way to do this is to see a summary of the document. Likewise, should you receive a large Word document that you don't have time to read in its entirety, the summary feature is key. Let's create a summary at the end of our document.
 
-1. Enter the following prompt:
+1. Enter the following prompt in the Copilot pane:
 
-    +++Summarize this document. Highlight the top three points made.* using the Copilot pane.+++
+    +++Summarize this document. Highlight the top three points made.+++
 
 1. Review the generated summary, and select **Insert** if you want to include the summary in your document.
 
@@ -99,3 +99,5 @@ As you complete your document, you want to ensure that your key points are prese
 You can then manually make adjustments to the text, or highlight the summary paragraph and use Copilot to **Auto Rewrite**  as needed. You can also use this summary as the starting point to a Teams or Outlook message when you share your project report with your stakeholders.
 
 Save your document for future reference. You're ready to share for review, or you can use this document as the starting point for a PowerPoint presentation.
+
+**End of Lab 2**

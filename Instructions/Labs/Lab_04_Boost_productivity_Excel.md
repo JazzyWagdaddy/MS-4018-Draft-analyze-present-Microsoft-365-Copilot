@@ -22,7 +22,7 @@ To get an idea of market trends, you must first understand  the overall performa
 
     +++Summarize the dataset and provide an overview of the key metrics.+++
 
-    Copilot responds with both a table that you can add to a new sheet, and reply that details the key metrics.
+    Copilot responds with both a table that you can add to a new sheet, and a reply that details the key metrics.
 
 1. Select **Add to a new sheet** to include this data in your Excel workbook.
 
@@ -115,3 +115,5 @@ Once you collect insights on market trends, you can share the information with y
 1. Send the email to your stakeholders.
 
 You now have hands-on experience using Copilot in Excel to analyze market trends, identify patterns, and generate valuable insights from your data. Continue trying new prompts in your Excel files to gain more practice.
+
+**End of Lab 4**
