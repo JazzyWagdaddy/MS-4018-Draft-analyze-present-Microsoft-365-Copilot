@@ -6,12 +6,12 @@ Imagine you're a manager at Contoso. Your team relies on effective communication
 
 1. Open Microsoft Teams by navigating to the following URL: [https://teams.microsoft.com](https://teams.microsoft.com).
 
-1. To start, create a new channel in  your team's chat for this conversation. Select **New channel** from the Chat dropdown menu.
+1. To start, create a new Team in your team's chat for this conversation. Select **New Team** from the Chat dropdown menu.
 
-    - Add the channel to a team: **People & Culture**
-    - Channel name: +++Contoso Connect+++.
+    - Add the Team:  +++People and Culture+++
     - Description: leave blank
-    - Channel Type: **Private**
+    - Team Type: **Private**
+    - Channel name: +++Contoso Connect+++
     - Add members: select **Skip**
 
 1. Select **Start a post** to open the chat window.
