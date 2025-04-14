@@ -49,7 +49,7 @@ Now that you've got an idea of potential questions, you can consider your person
 
 1. In the same Copilot Chat, prompt Copilot to
 
-    +++Draft answers for the following questions: [List of Questions].+++
+    +++Draft answers for the following questions: [copy and paste list of questions here].+++
 
     Because Copilot Chat is an iterative experience, it considers the context of previous chat interactions in the same window.
 
@@ -59,17 +59,21 @@ Now that you've got an idea of potential questions, you can consider your person
 
 These answers are great, and you're feeling confident before your interview. Now, let's create a single source of truth to reference at a later point. Use Copilot in Word to compile the questions and answers into an FAQ document.
 
-1. Open Microsoft Word and start a new document.
+1. In the same Copilot Chat window, prompt Copilot to 
 
-1. Select the Copilot icon in the Home ribbon. The Copilot pane opens on the right side of the screen.
+    +++Create a Word document with this output.+++
 
-1. Enter the following prompt:
+    Copilot generates a new Word document titled **FAQ Document**.
 
-    +++Create an FAQ document with the following questions and answers: [List of Questions and Answers copied from Copilot Chat].+++
+1. Open this document to review.
 
-1. Review and format the document as needed.
+1. Enable editing to verify and updatae the document as necessary. 
 
-#### Exercise 6 - Send a thank you email using Copilot in Outlook
+1. Select **File > Save As**. Browse and navigate to your OneDrive folder.
+
+1. Save the document as **FAQ Document**.
+   
+#### (Optional) Exercise 6 - Send a thank you email using Copilot in Outlook
 
 1. Open Outlook and select **New email** button to start composing your thank you note.
 
