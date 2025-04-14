@@ -16,8 +16,10 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 1. Select the **Copilot** icon, then use Copilot to generate a draft presentation using the following prompt:
 
-    +++Create a presentation about Contoso's Chai Tea based on /Promotion Plan for Chai Tea in Latin America.docx.+++
+    +++Create a presentation about Contoso's Chai Tea based on +++
 
+1. In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(Promotion Plan for Chai Tea in Latin America.docx)**. If the file doesn't populate in the list, select the up arrow then **Attach cloud files**. Navigate to **My files** and select the document from your OneDrive folder.
+   
 1. Copilot displays a presentation outline showing the potential slides and bulleted points to be included on each slide. Review the suggested topic and select **Generate slides** to continue. Copilot generates slides and content for each. It displays the results in the **Slide Sorter** view.
 
 1. Review the slides and select **Keep it** to continue.
@@ -71,11 +73,13 @@ While Copilot includes images as it creates slides, you may want to add or edit 
 
 As you're reviewing the presentation, you may decide the text Copilot generated isn't right for you. Use Copilot to help you refine the text on your slides. For instance, you can type *Edit the text on this slide to make it more concise* or *Make this text more engaging for the reader* Let's see how:
 
-1. Navigate to the **Overview and Benefits** slide.
+1. Navigate to the slide containing the text you may want to edit.
 
 1. In the Copilot pane, enter the following prompt:
 
-    +++Edit the text on the Overview and Benefits slide to make it more conversational.+++
+    +++Edit this text to make it more conversational.+++
+
+1. Copy and paste the text you want to edit in the Copilot prompt dialog, then select **Send**.
 
 1. Review the suggestions provided by Copilot, then cut and paste it onto the slide, and make any necessary adjustments.
 
