@@ -16,7 +16,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 1. Select the **Copilot** icon, then use Copilot to generate a draft presentation using the following prompt:
 
-    +++Create a presentation about Contoso's Chai Tea based on +++
+    +++Create a presentation about Contoso's Chai Tea based on+++
 
 1. In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(Promotion Plan for Chai Tea in Latin America.docx)**. If the file doesn't populate in the list, select the up arrow then **Attach cloud files**. Navigate to **My files** and select the document from your OneDrive folder.
    
