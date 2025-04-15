@@ -18,7 +18,7 @@ Imagine you're a manager at Contoso. Your team relies on effective communication
 
 1. Write your message in the box at the bottom of the chat or channel. Enter +++Hi Team! I've been thinking about Contoso Connect, and how we can make the product launch more exciting for our customers. I have a couple of ideas, and want to hear more from each of you. What do you think would make our customers excited and ready to work with Connect?+++
 
-1. Select the **Rewrite with Copilot** icon at the bottom of the message box.
+1. Before you post the message, select the **Rewrite with Copilot** icon at the bottom of the message box.
 
 1. Choose the **Rewrite** option to generate another version of your message that improves its grammar and style. You can rewrite your message up to 10 times, each time generating a new version. Use the left and right arrows below the text to navigate through versions.
 
@@ -54,7 +54,7 @@ You now want to schedule a meeting to brainstorm some feedback with your team. Y
 
     +++to discuss the upcoming product launch, review the project timeline, and assign tasks.+++
 
-    Once done, select **Send** or press enter on your keyboard.
+    Once done, select **Generate** or press enter on your keyboard.
 
 1. Copilot will create a draft of the meeting invite. Review the suggestion but don't select **Keep it**. Instead, enter the following prompt:
 
