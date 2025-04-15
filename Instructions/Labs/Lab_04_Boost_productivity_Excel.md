@@ -14,7 +14,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 To get an idea of market trends, you must first understand  the overall performance of Contoso's Chai products. Your first step is to get an overview of the data and identify key metrics that can guide your analysis.
 
-1. Open the sample file you downloaded.
+1. Open the sample file you downloaded from your OneDrive.
 
 1. Select the **Copilot** icon on the **Home** to open the Copilot pane.
 
@@ -40,7 +40,7 @@ As a sales manager, you need to identify trends in the sales data to make inform
 
 1. Review Copilot's response, and if you want, add the PivotChart to a new sheet.
 
-1. If you added a new PivotChart, select **Go back to data** to return to Sheet 1.
+1. If you added a new PivotChart, review the chart then select **Go back to data** to return to Sheet 1.
    
 1. To get a quick view of the months with the most successful sales, enter the following prompt:
 
@@ -64,7 +64,7 @@ To optimize your product offerings, you need to compare the sales of different c
    
 Summer months can see a wide variance of sales. To understand what type of tea is selling best, you can ask Copilot to determine which product category performed better overall by entering the following prompt:
 
-    +++Summarize the total sales (units) for Artisanal Chai and Premade Chai over the summer.+++
+   +++Summarize the total sales (units) for Artisanal Chai and Premade Chai over the summer.+++
 
 #### Exercise 4 - Calculate total sales
 
