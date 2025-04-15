@@ -4,7 +4,7 @@ Imagine you're a manager at Contoso. Your team relies on effective communication
 
 #### Exercise 1 - Write an engaging message to introduce your idea
 
-1. Open Microsoft Teams by navigating to the following URL: [https://teams.microsoft.com](https://teams.microsoft.com).
+1. Open Microsoft Teams by navigating to the following URL: [teams.microsoft.com](https://teams.microsoft.com) or through the desktop application.
 
 1. To start, create a new Team in your team's chat for this conversation. Select **New Team** from the Chat dropdown menu.
 
@@ -38,7 +38,7 @@ The team receives your message and is excited to contribute! Everyone contribute
 
 You now want to schedule a meeting to brainstorm some feedback with your team. You can use Copilot in Outlook to find the best time based on your team's availability, and draft the body of the meeting invite to include the key points you prompted Copilot to answer from your meeting chat.
 
-1. Open Microsoft Outlook by navigating to the following URL: [https://outlook.office.com](https://outlook.office.com).
+1. Open Microsoft Outlook from your browser [outlook.office.com](https://outlook.office.com) or desktop application.
 
 1. Select the **Copilot** icon from the **Home** ribbon to open the Copilot pane.
 
