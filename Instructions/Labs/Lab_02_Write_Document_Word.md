@@ -40,10 +40,12 @@ Let's create a project report using the Market Analysis you've already gathered.
 
 1. Enter the following prompt:
 
-    +++Create a project report that includes an executive summary, introduction, project objectives, and discussion. Use the linked document as a content resource. /Market Analysis Report for Mystic Spice Premium Chai Tea.docx.+++
+    +++Create a project report that includes an executive summary, introduction, project objectives, and discussion. Use the linked document as a content resource.+++
 
-1. Add the document reference to your prompt by manually entering a forward slash followed by the document name: **/Promotion Plan for Chai Tea in Latin America.docx**. Alternately, you can select the file from the dropdown list once it is available in OneDrive.
+1. Add the document reference to your prompt by manually entering a forward slash followed by the document name: **/Promotion Plan for Chai Tea in Latin America.docx**. Alternately, you can select **Reference a file** and the file from the dropdown list once it is available in OneDrive.
    
+1. Select **Generate**.
+
 1. Review the drafted content and select **Keep it**.
 
 1. As you're reviewing the content of your document, you may find that some text needs to be edited or rewritten. The Product Description section seems to be fairly short, and technical. Let's edit the text so it's more engaging for our readers.
@@ -89,11 +91,11 @@ Let's see this transformation in action.
 
 As you complete your document, you want to ensure that your key points are presented clearly. A good way to do this is to see a summary of the document. Likewise, should you receive a large Word document that you don't have time to read in its entirety, the summary feature is key. Let's create a summary at the end of our document.
 
-1. Enter the following prompt in the Copilot pane:
+1. Open the Copilot pane and enter the following prompt:
 
     +++Summarize this document. Highlight the top three points made.+++
 
-1. Review the generated summary, and select **Insert** if you want to include the summary in your document. You can also highlight any portion of the text, then copy and paste it into your document.
+1. Review the generated summary, and select **Insert** if you want to include the entire summary in your document. You can also highlight any portion of the text, then copy and paste it into your document.
 
 > [!IMPORTANT]
 > The text Copilot generates is inserted at your cursor's location in the document. Make sure you have navigated to the end of the document before you select to insert the content.
