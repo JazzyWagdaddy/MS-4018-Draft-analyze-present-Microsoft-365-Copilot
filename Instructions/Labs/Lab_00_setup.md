@@ -14,29 +14,22 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
 1. Log into the virtual machine provided by your tenant provider as the local **Administrator** account with the password `Pa55w.rd`.
 
-2. In the Windows taskbar, select **Microsoft Edge**.
+2. Open the **OneDrive** application by entering **OneDrive** in the Windows search bar.
 
-3. In the address bar, enter `https://onedrive.live.com/login`.
+3. At the **Email address** prompt, enter userx@yourtenant.onmicrosoft.com (provided by your tenant provider) and select **Sign in**.
 
-4. Under **Welcome to Microsoft 365**, select **Sign in**.
+4. At the **Enter password** screen, enter Password1 (provided by your tenant provider), then select **Sign in**.
 
-5. At the **Sign-in prompt**, enter userx@yourtenant.onmicrosoft.com (provided by your tenant provider) and select **Next**.
+5. If prompted to **Automatically sign in to all desktop apps and websites on this device?**, select **Yes, all apps**.
 
-6. At the **Enter password** screen, enter Password1 (provided by your tenant provider), then select **Sign in**.
+6. Open your OneDrive folder.
+   
+7. In a new instance of **File Explorer**, select **This PC** > **Local Disk (C:)** and open the **ResourceFiles** folder.
 
-7. If prompted to **Stay signed in**, select **Don't show this again** and then **Yes**.
+8. Select all files within the **ResourceFiles** folder, then drag and drop them into your OneDrive folder.
 
-8. In **OneDrive**, in the top-left corner, select **+** (add new) > **File upload**.
+9. When the upload is complete, you should see **Uploaded 29 items to My files** in the bottom center of the screen.
 
-    ![Screenshot of add new file](../Labs/Media/add_new.png)
-
-9. In **File Explorer**, select **This PC** > **Local Disk (C:)** and open the **ResourceFiles** folder.
-
-10. Select all files within the **ResourceFiles** folder, then select **Open** to upload them to **OneDrive**.
-
-11. When the upload is complete, you should see **Uploaded 29 items to My files** in the bottom center of the screen.
-
-12. Leave **Edge** open and move on to the next task.
 
 ### Referencing files
 
