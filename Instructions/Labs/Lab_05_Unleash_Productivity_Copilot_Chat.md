@@ -57,7 +57,7 @@ Now that you've got an idea of potential questions, you can consider your person
 
 #### Exercise 5 - Create an FAQ document
 
-These answers are great, and you're feeling confident before your interview. Now, let's create a single source of truth to reference at a later point. Use Copilot in Word to compile the questions and answers into an FAQ document.
+These answers are great, and you're feeling confident before your interview. Now, let's create a single source of truth to reference at a later point. Use Copilot to compile the questions and answers into an FAQ Word document.
 
 1. In the same Copilot Chat window, prompt Copilot to 
 
