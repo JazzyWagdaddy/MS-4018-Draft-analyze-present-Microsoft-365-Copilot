@@ -13,7 +13,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 #### (Optional) Exercise 1 - Import notes 
 
-1. Open Microsoft Word and create a new document.
+1. Open Microsoft Word from your browser [word.new](https://word.new) or use the desktop application and create a new document.
 
 1. Activate Copilot by selecting the Copilot button in the **Home** tab.
 
