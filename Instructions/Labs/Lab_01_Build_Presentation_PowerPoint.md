@@ -12,7 +12,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 #### Exercise 1 - Create a new presentation based on a Word document
 
-1. Open PowerPoint and start a new presentation.
+1. Open PowerPoint using the desktop application or from your browser at [powerpoint.new](https://powerpoint.new) and start a new presentation.
 
 1. Select the **Copilot** icon, then use Copilot to generate a draft presentation using the following prompt:
 
@@ -99,17 +99,17 @@ As you're reviewing the presentation, you may find that the topics in your prese
 
 Once you're satisfied with your presentation, use Copilot in Outlook to draft an email to your manager for review.
 
-1. Navigate to Outlook and select **New mail**.
+1. Launch Microsoft Outlook from your browser [outlook.new](https://outlook.new) and select **New mail**.
 
 1. Select the **Copilot** icon in the email composition window.
 
 1. Enter the following prompt:
 
-    +++Draft an email to my manager, [Manager's Name]. Ask for a review of the presentation that I attached to this email. Write the email in a casual tone.+++
+    +++Draft an email asking for a review of the presentation that I attached to this email. Write the email in a casual tone.+++
 
 1. Select **Draft with Copilot**.
 
-1. Review the email draft, make any necessary edits, and send it.
+1. Review the email draft, make any necessary edits, and send it to your intended recipient.
 
 And just like that, you're all set to impress your manager with a polished presentation! Happy presenting.
 
