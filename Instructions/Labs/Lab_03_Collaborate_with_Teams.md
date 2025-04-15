@@ -16,7 +16,8 @@ Imagine you're a manager at Contoso. Your team relies on effective communication
 
 1. Select **Start a post** to open the chat window.
 
-1. Write your message in the box at the bottom of the chat or channel. Enter +++Hi Team! I've been thinking about Contoso Connect, and how we can make the product launch more exciting for our customers. I have a couple of ideas, and want to hear more from each of you. What do you think would make our customers excited and ready to work with Connect?+++
+1. Write your message in the box at the bottom of the chat or channel. Copy and paste the following prompt into your Copilot prompt dialog box:
+    Hi Team! I've been thinking about Contoso Connect, and how we can make the product launch more exciting for our customers. I have a couple of ideas, and want to hear more from each of you. What do you think would make our customers excited and ready to work with Connect?
 
 1. Before you post the message, select the **Rewrite with Copilot** icon at the bottom of the message box.
 
