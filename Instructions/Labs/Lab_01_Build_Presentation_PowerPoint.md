@@ -18,9 +18,9 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
     +++Create a presentation about Contoso's Chai Tea based on+++
 
-1. In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(Promotion Plan for Chai Tea in Latin America.docx)**. If the file doesn't populate in the list, select the up arrow then **Attach cloud files**. Navigate to **My files** and select the document from your OneDrive folder.
+1. In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(Promotion Plan for Chai Tea in Latin America.docx)**. If the file doesn't populate in the list, select the plus button then **Attach**. Navigate to **My files** and select the document from your OneDrive folder.
    
-1. Copilot displays a presentation outline showing the potential slides and bulleted points to be included on each slide. Review the suggested topic and select **Generate slides** to continue. Copilot generates slides and content for each. It displays the results in the **Slide Sorter** view.
+1. Copilot displays a presentation outline showing the potential slides and bulleted points to be included on each slide. Review the suggested topic and select **Generate slides** to continue. Copilot generates slides and content for each. The presentation may display results in either the **Slide Sorter** or **Normal** view.
 
 1. Review the slides and select **Keep it** to continue.
 
@@ -30,7 +30,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 Because this presentation will be given both in-person and virtually, let's give our audience a few minutes to join without the possibility of missing important information. Copilot can help generate an idea and then a slide for a fun icebreaker to keep our audience occupied while others join.
 
-1. Let's first change the view in PowerPoint. Select **View -> Normal**.
+1. Let's first change the view in PowerPoint, if necessary. Select **View -> Normal**.
 
 1. Return to the **Home** ribbon view.
 
@@ -52,7 +52,7 @@ Because this presentation will be given both in-person and virtually, let's give
 
 While Copilot includes images as it creates slides, you may want to add or edit an image to be more specific to your presentation. You can ask Copilot to include an image from your approved corporate library, provided your administrator has set the appropriate configurations, or generate an image based on an idea you have.
 
-1. Let's ask copilot to insert a diagram on the title slide.
+1. Let's ask Copilot to insert a diagram on the title slide.
 
 1. Navigate to the title slide that Copilot generated.
 
@@ -91,7 +91,7 @@ As you're reviewing the presentation, you may find that the topics in your prese
 
     +++Organize this presentation.+++
 
-1. Copilot responds, indicating that organizing the slides replaces existing sections. Select **Yes, please** to continue.
+1. Copilot responds, providing suggestions for each slide. You can select to update the content as you'd like or iterate your prompt to receive additional suggestions. 
 
 1. Ensure that your presentation has a logical sequence and smooth transitions between slides.
 
