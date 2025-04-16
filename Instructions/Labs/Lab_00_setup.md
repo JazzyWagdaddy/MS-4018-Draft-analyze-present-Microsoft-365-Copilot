@@ -24,11 +24,11 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
 6. Open your OneDrive folder.
    
-7. In a new instance of **File Explorer**, select **This PC** > **Local Disk (C:)** and open the **ResourceFiles** folder.
+7. In a new instance of **File Explorer**, select **This PC** > **Local Disk (C:)** and open the **MS-4018 ResourceFiles** folder.
 
-8. Select all files within the **ResourceFiles** folder, then drag and drop them into your OneDrive folder.
+8. Select all files within the **MS-4018 ResourceFiles** folder, then drag and drop them into your OneDrive folder.
 
-9. When the upload is complete, you should see **Uploaded 29 items to My files** in the bottom center of the screen.
+9. When the upload is complete, you should see **Uploaded 3 items to My files** in the bottom center of the screen.
 
 
 ### Referencing files
