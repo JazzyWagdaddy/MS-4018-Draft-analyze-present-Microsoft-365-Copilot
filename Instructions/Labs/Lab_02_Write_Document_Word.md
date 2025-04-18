@@ -11,26 +11,9 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
 
-#### (Optional) Exercise 1 - Import notes 
 
-1. Open Microsoft Word from your browser [word.new](https://word.new) or use the desktop application and create a new document.
 
-1. Activate Copilot by selecting the Copilot button in the **Home** tab.
-
-    > [!NOTE]
-    > If you don't have notes you want to import, proceed to **Draft your content**.
-
-1. Enter the following prompt in the Copilot pane:
-
-    +++Draft a project report update based on the notes about Mystic Spice Premium Chai Tea in OneNote.+++
-
-    Copilot pulls the requested information from OneNote and drafts the start of the report in the Copilot pane.
-
-1. Select the **Insert** option to copy this text into the Word document.
-
-While this is a good start, presenting information based on notes isn't going to work. Let's see how Copilot in Word can help you create a report to share with your stakeholders.
-
-#### Exercise 2 - Draft your content
+#### Exercise 1 - Draft your content
 
 Let's create a project report using the Market Analysis you've already gathered. Then, we can edit this file to get the content we need for our report.
 
@@ -65,7 +48,7 @@ Let's create a project report using the Market Analysis you've already gathered.
 
 1. Review the rewritten options, choose the one you most prefer, and select **Replace**.
 
-#### Exercise 3 - Convert text to a table
+#### Exercise 2 - Convert text to a table
 
 While the content in your document may be accurate, consider its readability. Would a section work better if it was presented as a table? Copilot can easily convert text into a table using a prompt.
 
@@ -87,7 +70,7 @@ Let's see this transformation in action.
 
 1. Review the table format and make any necessary adjustments.
 
-#### Exercise 4 - Summarize your document
+#### Exercise 3 - Summarize your document
 
 As you complete your document, you want to ensure that your key points are presented clearly. A good way to do this is to see a summary of the document. Likewise, should you receive a large Word document that you don't have time to read in its entirety, the summary feature is key. Let's create a summary at the end of our document.
 
