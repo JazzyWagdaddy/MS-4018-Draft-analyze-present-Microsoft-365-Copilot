@@ -63,7 +63,7 @@ These answers are great, and you're feeling confident before your interview. Now
 
 1. In the same Copilot Chat window, prompt Copilot to 
 
-    +++Create a Word document with this output.+++
+    +++Create a Word .docx document with this output.+++
 
     Copilot generates a new Word document titled **FAQ Document**.
 
