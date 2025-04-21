@@ -118,7 +118,7 @@ Once you collect insights on market trends, you can share the information with y
 
 1. Review the draft provided by Copilot and select **Replace** to include the content in your email.
 
-1. Send the email to your stakeholders.
+When working in your own environment, you would then send the email to your stakeholders.
 
 You now have hands-on experience using Copilot in Excel to analyze market trends, identify patterns, and generate valuable insights from your data. Continue trying new prompts in your Excel files to gain more practice.
 
