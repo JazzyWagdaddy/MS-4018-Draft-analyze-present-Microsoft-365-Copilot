@@ -12,7 +12,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 #### Exercise 1 - Create a new presentation based on a Word document
 
-1. Open PowerPoint using the desktop application or from your browser at [powerpoint.new](https://powerpoint.new) and start a new presentation.
+1. Open PowerPoint using the desktop application or from your browser at [powerpoint.new](https://powerpoint.new) and start a blank presentation.
 
 1. Select the **Copilot** icon, click **Chat** if you are using the desktop application, and then within the Copilot chat window enter the following prompt:
 
@@ -20,7 +20,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 1. In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(Promotion Plan for Chai Tea in Latin America.docx)** and press the right-arrow. If the file doesn't populate in the list, select the plus button then **Attach**. Navigate to **My files** and select the document from your OneDrive folder.  If using the web version, switch from the **All** tab to the **Files** tab.
    
-1. Copilot displays a presentation outline showing the potential slides and bulleted points to be included on each slide. Review the suggested topic and select **Generate slides** to continue. Copilot generates slides and content for each. The presentation may display results in either the **Slide Sorter** or **Normal** view.
+1. Copilot displays a presentation outline showing the potential slides and bulleted points to be included on each slide. Review the suggested topic and enter **Yes** to the question "Would you like me to generate slides for this structure ..."  Copilot generates slides and content for each. The presentation may display results in either the **Slide Sorter** or **Normal** view.
 
 1. Review the slides and select **Keep it** to continue.
 
