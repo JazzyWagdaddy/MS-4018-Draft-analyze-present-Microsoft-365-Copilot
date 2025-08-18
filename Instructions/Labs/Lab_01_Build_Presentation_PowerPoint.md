@@ -14,11 +14,11 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 1. Open PowerPoint using the desktop application or from your browser at [powerpoint.new](https://powerpoint.new) and start a new presentation.
 
-1. Select the **Copilot** icon, then use Copilot to generate a draft presentation using the following prompt:
+1. Select the **Copilot** icon, click **Chat** if you are using the desktop application, and then within the Copilot chat window enter the following prompt:
 
-    +++Create a presentation about Contoso's Chai Tea based on+++
+    *Create a presentation about Contoso's Chai Tea based on*
 
-1. In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(Promotion Plan for Chai Tea in Latin America.docx)**. If the file doesn't populate in the list, select the plus button then **Attach**. Navigate to **My files** and select the document from your OneDrive folder.
+1. In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(Promotion Plan for Chai Tea in Latin America.docx)** and press the right-arrow. If the file doesn't populate in the list, select the plus button then **Attach**. Navigate to **My files** and select the document from your OneDrive folder.  If using the web version, switch from the **All** tab to the **Files** tab.
    
 1. Copilot displays a presentation outline showing the potential slides and bulleted points to be included on each slide. Review the suggested topic and select **Generate slides** to continue. Copilot generates slides and content for each. The presentation may display results in either the **Slide Sorter** or **Normal** view.
 
