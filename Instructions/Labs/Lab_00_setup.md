@@ -34,5 +34,9 @@ As of June 2025, Microsoft is mid-process deploying what is called the "New Copi
 This means there are potentially three different user interfaces that may be visible to learners in this course, and the instructor will educate the class on the three different versions that are currently available.  
 
 ## Wave 1
-In the first wave of deployment, the Copilot icon on the Office toolbar is converted from launching M365 Copilot to launching Copilt Chat.
+In the first wave of deployment, the Copilot icon on the Office toolbar is converted from launching M365 Copilot to launching Copilt Chat.  Clicking this icon **will not launch M365 Copilot**, it will launch Copilot Chat, which is web-grounded only.
 
+https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Allfiles/Old%20CP%20now%20just%20Chat.png 
+
+## Wave 2 - M365 Copilot in Applications
+When wave 2 is deployed to your account, you will now have different methods to launch M365 Copilot in each M365 application.  Please note this is not a consistent expience, meanining how you launch M365 Copilot in Word differs from how you launch M365 Copilot in Excel, etc.
