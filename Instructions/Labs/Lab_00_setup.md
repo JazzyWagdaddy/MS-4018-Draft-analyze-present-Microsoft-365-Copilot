@@ -26,3 +26,13 @@ When referencing files from Copilot, you might find that you can't find some fil
 > Microsoft 365 Copilot will only work with files saved to OneDrive. If files are stored locally on your PC, you'll need to move them to OneDrive to activate Copilot.
 
 As you progress, you'll have an opportunity to try out other prompts against these files and are encouraged to do so to explore and enhance your prompting skills.
+
+# M365 Copilot UI Changes
+
+As of June 2025, Microsoft is mid-process deploying what is called the "New Copilot Experience" globally.  This deployment is coming in waves and is controlled by Microsoft.   A customer cannot enter the Admin portal and request an upgrade.
+
+This means there are potentially three different user interfaces that may be visible to learners in this course, and the instructor will educate the class on the three different versions that are currently available.  
+
+## Wave 1
+In the first wave of deployment, the Copilot icon on the Office toolbar is converted from launching M365 Copilot to launching Copilt Chat.
+
