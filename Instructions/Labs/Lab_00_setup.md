@@ -40,7 +40,7 @@ In the first wave of deployment, the Copilot icon on the Office ribbon is conver
 ![Copilot Chat Only](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Allfiles/Old%20CP%20now%20just%20Chat.png)
 
 ## Wave 2 - M365 Copilot in Applications
-When Wave 2 is deployed to your account, you will now have different methods to launch Microsoft 365 Copilot based on the M365 application.  Please note this is not a consistent experience, meanining how you launch Microsoft 365 Copilot in Word differs from how you launch Microsoft 365 Copilot in Excel, etc.
+When Wave 2 is deployed to your account, you will now have different methods to launch Microsoft 365 Copilot based on the M365 application.  Please note this is not a consistent experience, meanining how you launch Microsoft 365 Copilot in Word differs from how you launch Microsoft 365 Copilot in Excel, Outlook, etc.
 
 ### Here is the new UI for Microsoft 365 Copilot in Powerpoint:
 
