@@ -5,24 +5,24 @@ Imagine you're a marketing manager at a company called Contoso. Your team is pre
 ## Exercises
 Please complete the following exercises as part of this lab:
 
-### Exercise 1 - Create a new presentation based on a word document
+#### Exercise 1 - Create a new presentation based on a word document
 
-### Exercise 2 - Ask Copilot to help you create an icebreaker slide
+#### Exercise 2 - Ask Copilot to help you create an icebreaker slide
 
-### Exercise 3 - Insert an Image
+#### Exercise 3 - Insert an Image
 
-### Exercise 4 - Edit Text
+#### Exercise 4 - Edit Text
 
-### Exercise 5 - Oragnize the presentation
+#### Exercise 5 - Oragnize the presentation
 
-### Exercise 6 - Optional Send a draft for review (time permitting)
+#### Exercise 6 - Optional Send a draft for review (time permitting)
 
 
-#### Exercise 1 - Create a new presentation based on a Word document
+### Exercise 1 - Create a new presentation based on a Word document
 
-1. Open PowerPoint using the desktop application and start a blank presentation. For the purposes of this exercise, please **do not** choose the option to "Create with Copilot".
+1. Open the desktop version of PowerPoint and start a blank presentation. For the purposes of this exercise, please **do not** choose the option to "Create with Copilot".
 
-2. Click on the appropriate **Copilot** icon and select:
+1. Click on the  **Copilot** icon and select:
 
 ![new](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/Create%20a%20new%20presentation%20from%20file.png) 
 
@@ -30,7 +30,7 @@ Please complete the following exercises as part of this lab:
 
     *Create a presentation about Contoso's Chai Tea based on*
 
-1. In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(Promotion Plan for Chai Tea in Latin America.docx)** and press the right-arrow. If the file doesn't populate in the list, select the plus button then **Attach**. Navigate to **My files** and select the document from your OneDrive folder.  If using the web version, switch from the **All** tab to the **Files** tab.
+1. Next, In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(Promotion Plan for Chai Tea in Latin America.docx)** and press the right-arrow. If the file doesn't populate in the list, select the plus button then **Attach**. Navigate to **My files** and select the document from your OneDrive folder. 
    
 1. Copilot displays a presentation outline showing the potential slides and bulleted points to be included on each slide. Review the suggested topic and enter **Yes** to the question "Would you like me to generate slides for this structure ..."  After a few moments, Copilot generates slides and content. Click to download and open the presentation.
 
