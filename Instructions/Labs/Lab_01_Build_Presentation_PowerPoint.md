@@ -31,15 +31,12 @@ Please complete the following exercises as part of this lab:
 
 ![arrow](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/PPT-right%20arrow.png)
    
-1. Copilot displays a presentation outline showing the potential slides and bulleted points to be included on each slide. Review the suggested topic and enter **Yes** to the question "Would you like me to generate slides for this structure ..."  After a few moments, Copilot generates slides and content. Click to download and open the presentation.
-
-1. Review the slides and select **Keep it** to continue.
+1. Copilot displays a presentation outline showing the potential slides and bulleted points to be included on each slide. Review the suggested content and click on **Generate Slides** in the lower left hand corner.  After a few moments, Copilot generates slides and content. Click **Keep it** to retain the presentation.
 
 1. While this is a great start, you want to personalize the presentation a bit more for your delivery. Let's see how to improve the content.
 
 ### Exercise 2 - Ask Copilot to help you create an icebreaker slide
-
-Because this presentation will be given both in-person and virtually, let's give our audience a few minutes to join without the possibility of missing important information. Copilot can help generate an idea and then a slide for a fun icebreaker to keep our audience occupied while others join.
+Copilot can help generate an idea and then a slide for a fun icebreaker to keep our audience occupied while others join.
 
 1. Let's first change the view in PowerPoint, if necessary. Select **View -> Normal**.
 
