@@ -39,7 +39,7 @@ In the first wave of deployment, the Copilot icon on the Office ribbon is conver
 ![Copilot Chat Only](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Allfiles/Old%20CP%20now%20just%20Chat.png)
 
 ## Wave 2 - M365 Copilot in Applications
-When wave 2 is deployed to your account, you will now have different methods to launch M365 Copilot in each M365 application.  Please note this is not a consistent expience, meanining how you launch M365 Copilot in Word differs from how you launch M365 Copilot in Excel, etc.
+When Wave 2 is deployed to your account, you will now have different methods to launch M365 Copilot based on the M365 application.  Please note this is not a consistent expience, meanining how you launch M365 Copilot in Word differs from how you launch M365 Copilot in Excel, etc.
 
 ### Here is the new UI for M365 Copilot in Powerpoint:
 
@@ -54,7 +54,7 @@ When wave 2 is deployed to your account, you will now have different methods to 
 ![Copilot in Word](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Allfiles/New%20cp%20in%20word.png)
 
 ## Wave 3 - App Skills
-Once wave 3 hits your account, the Copilot icon on the Office ribbon now has an additional choice, **App Skills**
+Once Wave 3 hits your account, the Copilot icon on the Office ribbon now has an additional choice, **App Skills**.  This means there are now two ways to launch M365 Copilot from the application, ableit the new App Skills options from the Office ribbon, or from within the office application itself as outlined in the Wave 2 update. 
 
 ![App Skills](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Allfiles/Full%20New%20Experience.png)
 
