@@ -6,10 +6,15 @@ Imagine you're a marketing manager at a company called Contoso. Your team is pre
 Please complete the following exercises as part of this lab:
 
 Exercise 1 - Create a new presentation based on a word document
+
 Exercise 2 - Ask Copilot to help you create an icebreaker slide
+
 Exercise 3 - Insert an Image
+
 Exercise 4 - Edit Text
+
 Exercise 5 - Oragnize the presentation
+
 Exercise 6 - Optional Send a draft for review (time permitting)
 
 
