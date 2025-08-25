@@ -44,9 +44,11 @@ Copilot can help generate an idea and then a slide for a fun icebreaker to keep 
 
 1. Open the Copilot pane and enter the following prompt:
 
-     +++Can you help me brainstorm an icebreaker question that would be good for a global audience? Provide three options for me to choose from.+++
+     *Can you help me brainstorm an icebreaker question that would be good for a global audience? Provide three options for me to choose from.*
 
      Copilot responds with suggestions for your icebreaker. If none of these questions fit what you're looking for, prompt Copilot to generate more suggestions.
+
+   *Please suggest two different options* 
 
      The first question looks great for our audience, so let's ask Copilot to generate a slide with this question, a corresponding image, and to insert this as the first slide in the presentation.
 
