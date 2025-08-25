@@ -66,16 +66,12 @@ Copilot can help generate an idea and then a slide for a fun icebreaker to keep 
 
 While Copilot includes images as it creates slides, you may want to add or edit an image to be more specific to your presentation. You can ask Copilot to include an image from your approved corporate library, provided your administrator has set the appropriate configurations, or generate an image based on an idea you have.
 
-1. Let's ask Copilot to insert a diagram on the title slide.
+1. Let's ask Copilot to insert a diagram on the title slide. Navigate to the title slide that Copilot generate and enter the following prompt in the Copilot pane:
 
-1. Navigate to the title slide that Copilot generated.
-
-1. Enter the following prompt in the Copilot pane:
-
-    +++Replace the image on the Title slide with an image of a person sipping a warm cup of tea.+++
+    *Replace the image on the Title slide with an image of a person sipping a warm cup of tea*
 
     > [!NOTE]
-    > Feel free to experiment with your own prompt to generate an image  you think would work best for the presentation. The more details you provide, the better.
+    > Feel free to experiment with your own prompt to generate an image  you think would work best for the presentation. The more details you provide, the better.  Also note that it will take a moment or two for COpilot to render a new image.
 
 1. Copilot opens the **Designer** feature and creates and displays an image that matches your request.
 
