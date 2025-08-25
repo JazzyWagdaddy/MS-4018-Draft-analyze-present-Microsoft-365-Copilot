@@ -34,7 +34,7 @@ Please complete the following exercises as part of this lab:
 
 1. Next, In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(Promotion Plan for Chai Tea in Latin America.docx)** and press the right-arrow. If the file doesn't populate in the list, select the plus button then **Attach**. Navigate to **My files** and select the document from your OneDrive folder.
 
-![](Instructions/Labs/Media/PPT-right arrow.png)
+![arrow](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/PPT-right%20arrow.png))
    
 1. Copilot displays a presentation outline showing the potential slides and bulleted points to be included on each slide. Review the suggested topic and enter **Yes** to the question "Would you like me to generate slides for this structure ..."  After a few moments, Copilot generates slides and content. Click to download and open the presentation.
 
