@@ -3,8 +3,7 @@
 Imagine you're a marketing manager at a company called Contoso. Your team is preparing for an important client meeting where you need to present the company's strategy for a new Chai Tea product line to be sold in Latin America Your goal is to create a compelling presentation that highlights the product's features, benefits, and use cases, while ensuring it adheres to the company's branding standards. You've already developed a business plan for this product, and want to use that content when preparing for your meeting. You need to collaborate with your team and get the presentation reviewed by your manager before the meeting.
 
 ## Exercises
-
-You will complete the following exercises as part of this lab:
+Please complete the following exercises as part of this lab:
 
 Exercise 1 - Create a new presentation based on a word document
 Exercise 2 - Ask Copilot to help you create an icebreaker slide
@@ -14,17 +13,11 @@ Exercise 5 - Oragnize the presentation
 Exercise 6 - Optional Send a draft for review (time permitting)
 
 
-### Sample file
-
-Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that reference this file. You should have already uploaded it to OneDrive during the lab setup process, but if you need to download it again, you can do so here:
-
-[Promotion Plan for Chai Tea in Latin America.docx](https://go.microsoft.com/fwlink/?linkid=2269126)
-
-#### Exercise 1 - Create a new presentation based on a Word document
+### Exercise 1 - Create a new presentation based on a Word document
 
 1. Open PowerPoint using the desktop application and start a blank presentation. For the purposes of this exercise, please **do not** choose the option to "Create with Copilot".
 
-1. Click on the appropriate **Copilot** icon and select:
+2. Click on the appropriate **Copilot** icon and select:
 
 ![new](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/Create%20a%20new%20presentation%20from%20file.png) 
 
@@ -40,7 +33,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 1. While this is a great start, you want to personalize the presentation a bit more for your delivery. Let's see how to improve the content.
 
-#### Exercise 2 - Ask Copilot to help you create an icebreaker slide
+### Exercise 2 - Ask Copilot to help you create an icebreaker slide
 
 Because this presentation will be given both in-person and virtually, let's give our audience a few minutes to join without the possibility of missing important information. Copilot can help generate an idea and then a slide for a fun icebreaker to keep our audience occupied while others join.
 
