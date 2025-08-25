@@ -15,7 +15,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 1. Open PowerPoint using the desktop application and start a blank presentation. For the purposes of this exercise, please **do not** choose the option to "Create with Copilot".
 
 1. Click on the appropriate **Copilot** icon and select 
-![new]() click **Chat** if you are using the desktop application, and then within the Copilot chat window enter the following prompt:
+![new](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/Create%20a%20new%20presentation%20from%20file.png) click **Chat** if you are using the desktop application, and then within the Copilot chat window enter the following prompt:
 
     *Create a presentation about Contoso's Chai Tea based on*
 
