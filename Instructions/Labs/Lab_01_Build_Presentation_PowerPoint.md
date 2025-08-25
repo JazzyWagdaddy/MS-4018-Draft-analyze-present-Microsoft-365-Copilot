@@ -12,7 +12,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 #### Exercise 1 - Create a new presentation based on a Word document
 
-1. Open PowerPoint using the desktop application or from your browser at [powerpoint.new](https://powerpoint.new) and start a blank presentation.
+1. Open PowerPoint using the desktop application and start a blank presentation. For the purposes of this exercise, please **do not** choose the open to Create with Copilot".
 
 1. Select the **Copilot** icon, click **Chat** if you are using the desktop application, and then within the Copilot chat window enter the following prompt:
 
