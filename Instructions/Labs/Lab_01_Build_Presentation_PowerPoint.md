@@ -2,11 +2,10 @@
 
 Imagine you're a marketing manager at a company called Contoso. Your team is preparing for an important client meeting where you need to present the company's strategy for a new Chai Tea product line to be sold in Latin America Your goal is to create a compelling presentation that highlights the product's features, benefits, and use cases, while ensuring it adheres to the company's branding standards. You've already developed a business plan for this product, and want to use that content when preparing for your meeting. You need to collaborate with your team and get the presentation reviewed by your manager before the meeting.
 
-By the end of this Lab, you'll be able to create a new presentation, based on a Word document, insert an image, edit text, organize the presentation, incorporate corporate branding standards, and send the draft presentation to your manager for review using Copilot in PowerPoint.
-
 ## Exercises
 
-You will complete the following exercise:
+You will complete the following exercises as part of this lab:
+
 Exercise 1 - Create a new presentation based on a word document
 Exercise 2 - Ask Copilot to help you create an icebreaker slide
 Exercise 3 - Insert an Image
