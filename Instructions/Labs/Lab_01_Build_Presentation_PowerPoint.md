@@ -70,8 +70,8 @@ While Copilot includes images as it creates slides, you may want to add or edit 
 
     *Replace the image on the Title slide with an image of a person sipping a warm cup of tea*
 
-    > [!NOTE]
-    > Feel free to experiment with your own prompt to generate an image  you think would work best for the presentation. The more details you provide, the better.  Also note that it will take a moment or two for Copilot to render a new image.
+> [!NOTE]
+> Feel free to experiment with your own prompt to generate an image  you think would work best for the presentation. The more details you provide, the better.  Also note that it will take a moment or two for Copilot to render a new image.
 
 ## Exercise 4 - Edit the text
 
@@ -86,7 +86,7 @@ As you're reviewing the presentation, you may decide the text Copilot generated 
 1. Review the suggestions provided by Copilot, then choose **Yes, please update the slide with this text**
 
 > [!NOTE]
-> Depending on the security settings within your environment and any data sensitivity labels your organization has established, COpilot may repond with the following message:
+> Depending on the security settings within your environment and any data sensitivity labels your organization has established, Copilot may repond with the following message:
 > *It looks like I wasn’t able to update the slide directly because I don’t have access to modify your open PowerPoint file.*
 > Click on the option to provide the updated text in a separate file.
 
