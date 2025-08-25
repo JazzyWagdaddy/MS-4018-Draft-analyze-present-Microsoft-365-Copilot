@@ -34,7 +34,7 @@ As of June 2025, Microsoft is mid-process deploying what is called the "New Copi
 This means there are potentially three different user interfaces that may be visible to learners in this course, and the instructor will educate the class on the three different versions that are currently available.  
 
 ## Wave 1
-In the first wave of deployment, the Copilot icon on the Office toolbar is converted from launching M365 Copilot to launching Copilt Chat.  Clicking this icon **will not launch M365 Copilot**, it will launch Copilot Chat, which is web-grounded only.
+In the first wave of deployment, the Copilot icon on the Office ribbon is converted from launching M365 Copilot to launching Copilt Chat.  Clicking this icon **will not launch M365 Copilot**, it will launch Copilot Chat, which is web-grounded only.
 
 ![Copilot Chat Only](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Allfiles/Old%20CP%20now%20just%20Chat.png)
 
@@ -45,6 +45,14 @@ Here is the new UI for M365 Copilot in Powerpoint:
 ![New Powerpoint](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Allfiles/CP%20New%20Experience.png)
 
 Here is the new UI for M365 Copilot in Excel:
+![Copilot in Excel](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Allfiles/new%20cp%20in%20excel.png)
 
 Here is the new UI for M365 Copilot in Word:
+![Copilot in Word](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Allfiles/New%20cp%20in%20word.png)
+
+## Wave 3 - App Skills
+Once wave 3 hits your account, the Copilot icon on the Office ribbon now has an additional choice, **App Skills**
+
+![App Skills](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Allfiles/Full%20New%20Experience.png)
+
 
