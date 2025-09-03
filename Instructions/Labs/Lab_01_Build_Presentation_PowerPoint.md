@@ -36,9 +36,9 @@ Please complete the following exercises as part of this lab:
 ## Exercise 2 - Ask Copilot to help you create an icebreaker slide
 Copilot can help generate an idea and then a slide for a fun icebreaker to keep our audience occupied while others join.
 
-1. Let's first change the view in PowerPoint, if necessary. Select **View -> Normal** and then return to the **Home** ribbon view.
+1. Let's change the view in PowerPoint. Select **View -> Normal** and then return to the **Home** ribbon view.
 
-1. Open the Copilot pane and enter the following prompt:
+1. If not already, open the Copilot pane and enter the following prompt:
 
      *Can you help me brainstorm an icebreaker question that would be good for a global audience? Provide three options for me to choose from*
 
@@ -48,7 +48,7 @@ Copilot can help generate an idea and then a slide for a fun icebreaker to keep 
 
 1. Enter the following prompt:
 
-    *Use question 1 as the icebreaker, and generate a slide that includes a complementary image. Insert this slide as the first slide in the presentation*
+    *Use question 1 as the icebreaker, and generate a slide that includes a complementary image*
 
    Please note that depending on various factors, it will take several minutes for Copilot to generate the slide. 
 
