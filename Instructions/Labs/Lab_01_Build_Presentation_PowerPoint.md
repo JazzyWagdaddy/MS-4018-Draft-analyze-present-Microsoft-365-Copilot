@@ -18,20 +18,20 @@ Please complete the following exercises as part of this lab:
 ## Exercise 1 - Create a new presentation based on a Word document
 
 1. Open the desktop version of PowerPoint and click on the second choice, **Blank Presentation**. For the purposes of this exercise, please **do not** choose the option to "Create with Copilot".
-1. Once a blank presentation renders, click on the **Copilot** icon and select:
+2. Once a blank presentation renders, click on the **Copilot** icon and select:
 
 ![new](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/Create%20a%20new%20presentation%20from%20file.png)
 
-1. From within the Copilot chat window enter the following prompt, noting you may have to remove a backslash:
+3. From within the Copilot chat window enter the following prompt, noting you may have to remove a backslash:
     *Create a presentation about Contoso's Chai Tea based on*
    
-1. Next, In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(Promotion Plan for Chai Tea in Latin America.docx)** and press the right-arrow. If the file doesn't populate in the MRU or Most Recently Used list, select the Upload button then **Attach Cloud Files**. Navigate to **My files** and select the document from your OneDrive folder.  Once all steps are completed, click the right arrow.
+4. Next, In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(Promotion Plan for Chai Tea in Latin America.docx)** and press the right-arrow. If the file doesn't populate in the MRU or Most Recently Used list, select the Upload button then **Attach Cloud Files**. Navigate to **My files** and select the document from your OneDrive folder.  Once all steps are completed, click the right arrow.
 
 ![arrow](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/PPT-right%20arrow.png)
 
-1. Copilot displays a presentation outline showing the potential slides and bulleted points to be included on each slide. Review the suggested content and click on **Generate Slides** in the lower left hand corner.  After a few moments, Copilot generates slides and content. Click **Keep it** to retain the presentation.
+5. After a few moments, Copilot displays a presentation outline showing the potential slides and bulleted points to be included on each slide. Review the suggested content and click on **Generate Slides** in the lower right hand corner.  After a few moments, Copilot generates slides and content. Click **Keep it** to retain the presentation.
    
-1. While this is a great start, you want to personalize the presentation a bit more for your delivery. Let's see how to improve the content.
+6. While this is a great start, you want to personalize the presentation a bit more for your delivery. Let's see how to improve the content.
 
 ## Exercise 2 - Ask Copilot to help you create an icebreaker slide
 Copilot can help generate an idea and then a slide for a fun icebreaker to keep our audience occupied while others join.
