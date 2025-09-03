@@ -26,7 +26,7 @@ Please complete the following exercises as part of this lab:
 
     *Create a presentation about Contoso's Chai Tea based on*
 
-1. Next, In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(Promotion Plan for Chai Tea in Latin America.docx)** and press the right-arrow. If the file doesn't populate in the list, select the Upload button then **Attach Cloud Files**. Navigate to **My files** and select the document from your OneDrive folder.
+1. Next, In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(Promotion Plan for Chai Tea in Latin America.docx)** and press the right-arrow. If the file doesn't populate in the list, select the Upload button then **Attach Cloud Files**. Navigate to **My files** and select the document from your OneDrive folder.  Once all steps are completed, click the right arrow.
 
 ![arrow](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/PPT-right%20arrow.png)
    
