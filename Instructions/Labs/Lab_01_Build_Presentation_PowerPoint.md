@@ -17,7 +17,8 @@ Please complete the following exercises as part of this lab:
 
 ## Exercise 1 - Create a new presentation based on a Word document
 
-> [!NOTE] Please note that due to the fluid changes with the User Interface, some commands may need to be entered differently
+> [UIDifferences]
+>  Please note that due to the fluid changes with the User Interface, some commands may need to be entered differently
 
 1. Open the desktop version of PowerPoint and click on the second choice, **Blank Presentation**. For the purposes of this exercise, please **do not** choose the option to "Create with Copilot".
 2. Once a blank presentation renders, click on the **Copilot** icon and select:
