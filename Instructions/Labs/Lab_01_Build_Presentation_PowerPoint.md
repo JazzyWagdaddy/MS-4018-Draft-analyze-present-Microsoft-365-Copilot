@@ -56,7 +56,7 @@ Copilot can help generate an idea and then a slide for a fun icebreaker to keep 
 
 1. Since Copilot can't directly insert the slide into your current presentation, enter this prompt *Yes, please provide the slide file*, noting it will take several moments for Copilot to complete this action.
    
-3. Once Copilot finishes rendering, **Download the icebreaker slide**
+3. Once Copilot finishes rendering, download the icebreaker slide.
 
 ## Exercise 3 - Insert an image
 
