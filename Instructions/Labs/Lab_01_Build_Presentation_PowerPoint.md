@@ -54,7 +54,7 @@ Copilot can help generate an idea and then a slide for a fun icebreaker to keep 
 
     Now, you've got a great way to start a conversation among your meeting participants. Let's look at the presentation now, and see how we can make it even more powerful.
 
-1. Since Copilot can't directly insert the slide into your current presentation, enter this prompt *Yes, please provide the slide file*, noting it will take several moments for COpilot to complete this action.
+1. Since Copilot can't directly insert the slide into your current presentation, enter this prompt *Yes, please provide the slide file*, noting it will take several moments for Copilot to complete this action.
    
 3. Once Copilot finishes rendering, **Download the icebreaker slide**
 
