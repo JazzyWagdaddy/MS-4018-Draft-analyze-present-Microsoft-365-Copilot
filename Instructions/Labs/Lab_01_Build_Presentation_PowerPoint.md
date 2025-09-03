@@ -17,8 +17,7 @@ Please complete the following exercises as part of this lab:
 
 ## Exercise 1 - Create a new presentation based on a Word document
 
-1. Open the desktop version of PowerPoint and start a blank presentation. For the purposes of this exercise, please **do not** choose the option to "Create with Copilot".
-
+1. Open the desktop version of PowerPoint and click on second choice, **Blank presentation**. For the purposes of this exercise, please **do not** choose the option to "Create with Copilot".
 1. Click on the  **Copilot** icon and select:
 
 ![new](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/Create%20a%20new%20presentation%20from%20file.png) 
