@@ -1,4 +1,4 @@
-# Lab 4 - Boost your productivity with data-driven decisions with Copilot in Excel
+# Lab 5 - Boost your productivity with data-driven decisions with Copilot in Excel
 
 Imagine you're a sales manager at Contoso. Your primary responsibility is to analyze sales data and identify trends that can help improve the company's performance. In this hands-on Lab, you'll use Copilot in Excel to explore and analyze various aspects of the sales data for Contoso's Chai products.
 
@@ -54,7 +54,7 @@ To optimize your product offerings, you need to compare the sales of different c
 
 1. Prompt Copilot with:
 
-    +++Create a bar chart comparing Artisanal Chai Sales (units) and Premade Chai Sales (units) for each month.+++
+    *Create a bar chart comparing Artisanal Chai Sales (units) and Premade Chai Sales (units) for each month*
 
 1. Copilot displays the bar chart. Select **Add to a new sheet**.
 
@@ -62,7 +62,7 @@ To optimize your product offerings, you need to compare the sales of different c
    
 Summer months can see a wide variance of sales. To understand what type of tea is selling best, you can ask Copilot to determine which product category performed better overall by entering the following prompt:
 
-   +++Summarize the total sales (units) for Artisanal Chai and Premade Chai over the summer.+++
+   *Summarize the total sales (units) for Artisanal Chai and Premade Chai over the summer*
 
 ## Exercise 4 - Calculate total sales
 
@@ -72,7 +72,7 @@ Understanding the total sales is crucial for evaluating the success of your sale
 
 1. Prompt Copilot with:
 
-    +++Calculate the sales for each quarter and add it as a new column.+++
+    *Calculate the sales for each quarter and add it as a new column*
 
 1. Select **Insert columns**.
 
@@ -84,7 +84,7 @@ In today's digital age, social media engagement can significantly impact sales. 
 
 1. Determine if there's a correlation between online searches and chai sales by entering the following prompt:
 
-    +++Identify any correlations between Online Searches for Chai and Total Chai Sales (units).+++
+    *Identify any correlations between Online Searches for Chai and Total Chai Sales (units)*
 
     Copilot generates a chart showing trends. Additionally, Copilot responds with text indicating there's a high correlation, allowing you instant insight to complicated sales data.
 
@@ -96,7 +96,7 @@ Finally, let's summarize the key insights from your analysis. These insights hel
 
 1. In the opened Copilot pane, enter the following prompt:
 
-    +++Provide a summary of the key insights from the analysis of the Contoso Chai Tea market trends data.+++
+    *Provide a summary of the key insights from the analysis of the Contoso Chai Tea market trends data*
 
 ## Exercise 7 - Send your insights to the team
 
@@ -112,7 +112,7 @@ Once you collect insights on market trends, you can share the information with y
 
 1. Enter the following prompt:
 
-    +++Draft an email to my team summarizing the key points from our recent analysis on Contoso Chai Tea market trends.+++
+    *Draft an email to my team summarizing the key points from our recent analysis on Contoso Chai Tea market trends*
 
 1. Review the draft provided by Copilot and select **Replace** to include the content in your email.
 
@@ -120,4 +120,4 @@ When working in your own environment, you would then send the email to your stak
 
 You now have hands-on experience using Copilot in Excel to analyze market trends, identify patterns, and generate valuable insights from your data. Continue trying new prompts in your Excel files to gain more practice.
 
-**End of Lab 4**
+**End of Lab 5**
