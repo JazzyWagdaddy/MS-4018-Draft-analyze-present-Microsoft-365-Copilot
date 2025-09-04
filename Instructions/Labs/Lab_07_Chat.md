@@ -9,7 +9,7 @@ Imagine you're interviewing for position at Contoso, a mid-sized media-driven co
 
 Use Copilot Chat in Teams to gather some insights about the interviewer and their role. This research helps you get a better sense of who you'll be speaking with and what their responsibilities are. It's always good to know a bit about the person on the other side of the table!
 
-1.  Open Microsoft Teams by navigating to the following URL: [teams.microsoft.com](https://teams.microsoft.com) or through the desktop application.
+1.  Open Copilot Chat from https://m365.cloud.microsoft/.
 
 1.  Select the Copilot Chat icon on the left side of the screen.
 
