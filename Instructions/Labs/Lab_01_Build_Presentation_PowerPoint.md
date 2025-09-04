@@ -29,7 +29,7 @@ Please complete the following exercises as part of this lab:
 > [!NOTE]
 > You may need to click on the **Create a presentation about** starter prompt for the complete UI to render.
 
-3. From within the Copilot chat window enter the following prompt, noting you may have to remove a backslash:
+3. From within the Copilot chat window enter the following prompt, noting you may have to remove a backslash or omit the "based on" verbiage:
    
     *Create a presentation about Contoso's Chai Tea based on*
    
