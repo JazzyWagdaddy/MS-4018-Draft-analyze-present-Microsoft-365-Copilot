@@ -8,7 +8,14 @@ Throughout these labs, we'll be crafting prompts for Microsoft 365 Copilot that 
 
 To ensure that these files are accessible later on by Microsoft 365 Copilot, we'll first upload them to OneDrive.
 
-## Uploading Files to OneDrive
+## Exercise 1 - Course Prerequisites
+Let's take a moment to ensure that you have everything that you need to be M365 Copilot Ready!
+
+1. Please confirm that you have a M365 Copilot licenses assigned to your account.
+2. Check for any Office updates and apply them.
+3. Check for any Windows updates and apply them.
+
+## Exercise 2 - Uploading Files to OneDrive
 
 Follow the steps below to upload all files needed to **OneDrive**:
 
@@ -27,7 +34,7 @@ When referencing files from Copilot, you might find that you can't find some fil
 
 As you progress, you'll have an opportunity to try out other prompts against these files and are encouraged to do so to explore and enhance your prompting skills.
 
-# M365 Copilot UI Changes
+## Exercise 3 - M365 Copilot UI Changes
 
 As of June 2025, Microsoft is mid-process deploying what is called the "New Copilot Experience" globally.  This deployment is coming in waves and is controlled by Microsoft, and regretably a customer cannot enter the Admin portal and request a specific upgrade.
 
