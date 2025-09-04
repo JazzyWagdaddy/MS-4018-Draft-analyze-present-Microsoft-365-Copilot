@@ -21,6 +21,9 @@ After you send the email, you want to schedule a meeting to discuss the points y
 1. Select the Copilot icon from the Home ribbon to open the Copilot pane.
 1. Ask Copilot to suggest the best time for the meeting by entering Schedule a meeting next week based on attendees' availability. Copilot searches the calendars of your email recipients, and suggests a time based on their availability.
 Review the suggested time.
+
+   *Schedule a 30-minute meeting next week with / based on my availability to discuss the upcoming product launch, review the project timeline, and assign tasks*
+   
 1. Select Edit to add context to the meeting invite. Let's include an agenda for our attendees.
 1. Provide the key details in the email body. Invoke Copilot by including a backslash before the text: /Let's discuss the upcoming product launch, review the project timeline, and assign tasks.
 1. Select Draft with Copilot. Copilot displays suggested prompts, or you can manually answer What is the purpose of this meeting?.
