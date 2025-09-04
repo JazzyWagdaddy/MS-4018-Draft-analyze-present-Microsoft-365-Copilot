@@ -37,7 +37,7 @@ As of June 2025, Microsoft is mid-process deploying what is called the "New Copi
 ## Wave 1
 In the first wave of deployment, the Copilot icon on the Office ribbon is converted from launching Microsoft 365 Copilot to launching Copilot Chat.  Clicking this icon **will not launch Microsoft 365 Copilot**, it will launch Copilot Chat, which is web-grounded only.
 
-![Copilot Chat Only](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Allfiles/Old%20CP%20now%20just%20Chat.png)
+![Copilot Chat Only](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/Old%20CP%20now%20just%20Chat.png)
 
 ## Wave 2 - M365 Copilot in Applications
 When Wave 2 is deployed to your account, you will now have different methods to launch Microsoft 365 Copilot based on the M365 application.  Please note this is not a consistent experience, meanining how you launch Microsoft 365 Copilot in Word differs from how you launch Microsoft 365 Copilot in Excel, Outlook, etc.
@@ -48,15 +48,15 @@ When Wave 2 is deployed to your account, you will now have different methods to 
 
 ### Here is the new UI for Microsoft 365 Copilot in Excel:
 
-![Copilot in Excel](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Allfiles/new%20cp%20in%20excel.png)
+![Copilot in Excel](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/new%20cp%20in%20excel.png)
 
 ### Here is the new UI for Microsoft 365 Copilot in Word:
 
-![Copilot in Word](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Allfiles/New%20cp%20in%20word.png)
+![Copilot in Word](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/New%20cp%20in%20word.png)
 
 ## Wave 3 - App Skills
 Once Wave 3 hits your account, the Copilot icon on the Office ribbon now has an additional choice, **App Skills**.  This means there are now two ways to launch M365 Copilot from the application, ableit the new App Skills options from the Office ribbon, or from within the office application itself as outlined in the Wave 2 update. 
 
-![App Skills](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Allfiles/Full%20New%20Experience.png)
+![App Skills](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/Full%20New%20Experience.png)
 
 
