@@ -23,6 +23,8 @@ Imagine you're a manager at Contoso. Your team relies on effective communication
 
 1. Before you post the message, select the **Rewrite with Copilot** icon at the bottom of the message box.
 
+ ![Rewrite](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/ReWriteWithCopilotInTeams.png)
+ 
 1. Choose the **Rewrite** option to generate another version of your message that improves its grammar and style. You can rewrite your message up to 10 times, each time generating a new version. Use the left and right arrows below the text to navigate through versions.
 
 1. While this message is adequate, it lacks the enthusiasm you're trying to convey.
