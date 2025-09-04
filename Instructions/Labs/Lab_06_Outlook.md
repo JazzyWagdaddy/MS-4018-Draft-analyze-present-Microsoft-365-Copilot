@@ -25,28 +25,18 @@ Please complete the following exercises as part of this lab:
 5. Select **Keep** to include the suggested text, and then send the email to yourself with a subject of **Test Email**.
 
 ### Exercise 2 - Get coaching on your emails ###
-Everybopdy is moving fast these days and we tend to write terse messages that lack emotion and emphathy.  Copilot Coaching can help with that.
+Everybody is moving fast these days and we tend to write terse messages that lack emotion and emphathy.  Copilot Coaching can help with that.
 
 1. Open Microsoft Outlook on the desktop and select **New Email**.
 2. Type a typical email that you would sent to a typical co-worker on a regular basis.  If you come up short on ideas, enter this:
 
-   *Please let me know the status of the finance report.  Time is of the essence*
+   *Please let me know the status of the finance report.  Time is of the essence and we re waiting for your response.  Thank you for a quick reply.*
 
+> [!NOTE]
+> You are required to type in at least 100 characters into your email in order for Copilot to provide any coaching.
+>
+3. Copilot responds with suggestions in the following catagories.  Take a moment to review the feedback Copilot provided you and cut/paste the revised text into your email
+   * Tone
+   * Reader Sentiment
+   * Clarity
 
-- Schedule a meeting with Copilot in Outlook ###
-After you send the email, you want to schedule a meeting to discuss the points you included in person.
-
-1. Open the email thread you sent.
-1. Select the Copilot icon from the Home ribbon to open the Copilot pane.
-1. Ask Copilot to suggest the best time for the meeting by entering Schedule a meeting next week based on attendees' availability. Copilot searches the calendars of your email recipients, and suggests a time based on their availability.
-Review the suggested time.
-
-   *Schedule a 30-minute meeting next week with / based on my availability to discuss the upcoming product launch, review the project timeline, and assign tasks*
-   
-1. Select Edit to add context to the meeting invite. Let's include an agenda for our attendees.
-1. Provide the key details in the email body. Invoke Copilot by including a backslash before the text: /Let's discuss the upcoming product launch, review the project timeline, and assign tasks.
-1. Select Draft with Copilot. Copilot displays suggested prompts, or you can manually answer What is the purpose of this meeting?.
-1. Prompt Copilot to Add an agenda and rewrite this email in a professional tone.
-1. Select Generate
-1. Review Copilot's suggestion and select to Replace the original text.
-1. Send the invite to your attendees.
