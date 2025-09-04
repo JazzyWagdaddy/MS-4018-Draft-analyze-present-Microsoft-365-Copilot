@@ -17,7 +17,7 @@ Use Copilot Chat in Teams to gather some insights about the interviewer and thei
 
 1. Prompt Copilot with:
 
-    +++Find information about [Interviewer's Name] and their role at [Contoso].+++
+    *Find information about [Interviewer's Name] and their role at [Contoso]*
 
     **Note:** replace [Interviewer's Name] with the name of the person you're interviewing with, and [Contoso] with the name of the company.
 
