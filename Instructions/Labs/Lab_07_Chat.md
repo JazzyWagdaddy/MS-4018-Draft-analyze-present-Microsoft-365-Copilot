@@ -91,4 +91,4 @@ These answers are great, and you're feeling confident before your interview. Now
 
 1. Add your recipients and send your email.
 
-**End of Lab 5**
+## End of Lab 7 ##
