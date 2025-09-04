@@ -44,10 +44,10 @@ Everybody is moving fast these days and we tend to write terse messages that lac
 ### Exercise 3 - How can AI help me be productive?
 Copilot can help you improve your overall productivity.  Try these examples:
 
-1. Open Microsoft Outlook on the desktop, then a new Copilot Chat Window, and enter these prompts, examing the results:
+1. Open Microsoft Outlook on the desktop, then a new Copilot Chat Window, and enter these prompts, taking time to examine the results:
    
    *Analyze my writing style and make suggestions on how to improve it*
 
-   *Summarize my action items from last week*
+   *Review my week like it’s a case study: What’s working? What’s not? Use Markdown to create a structured and visually appealing analysis. Include sections for successes, challenges, and recommendations. Highlight key points with bullet points, bold text, and italicized highlights to enhance readability and impact. Include any relevant data or metrics to support the analysis and provide actionable insights for improvement.*
 
 3. 
