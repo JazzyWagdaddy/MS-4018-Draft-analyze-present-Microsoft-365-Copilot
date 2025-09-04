@@ -117,7 +117,7 @@ Once you're satisfied with your presentation, use Copilot in Outlook to draft an
 
 1. Enter the following prompt:
 
-    +++Draft an email asking for a review of the presentation that I attached to this email. Write the email in a casual tone.+++
+    *Draft an email asking for a review of the presentation that I attached to this email. Write the email in a casual tone*
 
 1. Select **Draft with Copilot**.
 
