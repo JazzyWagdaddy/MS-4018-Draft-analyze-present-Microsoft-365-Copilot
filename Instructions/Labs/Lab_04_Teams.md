@@ -1,4 +1,4 @@
-# Lab 3 - Manage collaboration from start to finish
+# Lab 4 - Manage collaboration from start to finish
 > [!NOTE]
 > This lab assumes the user is connected to a long-standing Teams environment where there is plenty of existing data (e.g. chats, meetings, etc. to use for learning purposes.  If you are new to Teams, please alert your instructor.
 
@@ -74,4 +74,4 @@ You now want to schedule a meeting to brainstorm some feedback with your team. Y
 
 By using Copilot in Team's capabilities, you can effortlessly draft, rewrite, and adjust messages, gather insights from team chats, and schedule meetings efficiently. Now, you can confidently use these tools to streamline your workflow and achieve your collaboration goals with ease.
 
-## End of Lab 3 ##
+## End of Lab 4 ##
