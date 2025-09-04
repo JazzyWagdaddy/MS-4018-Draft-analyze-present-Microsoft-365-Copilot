@@ -42,3 +42,7 @@ Everybody is moving fast these days and we tend to write terse messages that lac
 4. Please take the time to repeat your reiterate coaching on several different emails that you normally write.
 
 ### Exercise 3 - How can AI help me be productive?
+Copilot can help you improve your overall productivity.  Try these examples:
+
+1. Open Microsoft Outlook on the desktop, open a new Copilot Chat Window, and enter this prompt:
+   *Analyze my writing style and make suggestions on how to improve it*
