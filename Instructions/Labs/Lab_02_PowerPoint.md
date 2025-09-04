@@ -1,4 +1,4 @@
-# Lab 1 - Build a presentation from start to finish with Copilot in PowerPoint
+# Lab 2 - Build a presentation from start to finish with Copilot in PowerPoint
 
 ## Background
 
@@ -125,4 +125,4 @@ Once you're satisfied with your presentation, use Copilot in Outlook to draft an
 
 And just like that, you're all set to impress your manager with a polished presentation! Happy presenting.
 
-**End of Lab 1**
+## End of Lab 2 ##
