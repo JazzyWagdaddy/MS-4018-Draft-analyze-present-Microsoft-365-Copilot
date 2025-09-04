@@ -1,12 +1,4 @@
-# Follow along using sample data with Microsoft 365 Copilot
-
-Throughout these labs, we'll be crafting prompts for Microsoft 365 Copilot that reference the following files:
-
-- [Promotion Plan for Chai Tea in Latin America.docx](https://go.microsoft.com/fwlink/?linkid=2269126)
-- [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
-- [Contoso Chai Tea market trends 2023.xlsx](https://go.microsoft.com/fwlink/?linkid=2268822)
-
-To ensure that these files are accessible later on by Microsoft 365 Copilot, we'll first upload them to OneDrive.
+# Get M365 Copilot Ready!
 
 ## Exercise 1 - Course Prerequisites
 Let's take a moment to ensure that you have everything that you need to be M365 Copilot Ready!
@@ -15,9 +7,17 @@ Let's take a moment to ensure that you have everything that you need to be M365 
 2. Check for any Office updates and apply them.
 3. Check for any Windows updates and apply them.
 
-## Exercise 2 - Uploading Files to OneDrive
+> [!IMPORTANT]
+> Please inform the instructor if you need to patch or update your computer so that we can plan accordingly and we minimimze any downtime due to potential reboots.
 
-Follow the steps below to upload all files needed to **OneDrive**:
+## Exercise 2 - Uploading Files to OneDrive
+Throughout these labs, we'll be crafting prompts for Microsoft 365 Copilot that reference the following files:
+
+- [Promotion Plan for Chai Tea in Latin America.docx](https://go.microsoft.com/fwlink/?linkid=2269126)
+- [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
+- [Contoso Chai Tea market trends 2023.xlsx](https://go.microsoft.com/fwlink/?linkid=2268822)
+
+To ensure that these files are accessible later on by Microsoft 365 Copilot, we'll first upload them to OneDrive.
 
 1. Log into your computer and open the **OneDrive** application by entering **OneDrive** in the Windows search bar.
 
