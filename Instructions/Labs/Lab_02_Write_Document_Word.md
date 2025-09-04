@@ -5,7 +5,7 @@ Imagine you're a project manager tasked with creating a comprehensive project re
 > [!NOTE]
 > While this Lab illustrates how information can flow from one Microsoft 365 app to another, you aren't required to do so. Each of these steps can be completed using Copilot in Word directly. Alternate steps are provided as necessary.
 
-### Sample file
+## Sample file
 
 Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that reference this file. You should have already uploaded it to OneDrive during the lab setup process, but if you need to download it again, you can do so here:
 
@@ -13,17 +13,17 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 
 
-#### Exercise 1 - Draft your content
+### Exercise 1 - Draft your content
 
 Let's create a project report using the Market Analysis you've already gathered. Then, we can edit this file to get the content we need for our report.
 
-1. Open a new Word document.
+1. Open a new Word document. (Start / Word / Choose **Blank Documemnt**)
 
 1. Select the on-canvas **Copilot** experience at the top of the blank document.
 
 1. Enter the following prompt:
 
-    +++Create a project report that includes an executive summary, introduction, product description, project objectives, and discussion. Use the linked document as a content resource.+++
+    *Create a project report that includes an executive summary, introduction, product description, project objectives, and discussion. Use the linked document as a content resource*
 
 1. Add the document reference to your prompt by manually entering a forward slash followed by the document name: **/Promotion Plan for Chai Tea in Latin America.docx**. Alternately, you can select **Reference a file** and the file from the dropdown list once it is available in OneDrive.
    
@@ -48,7 +48,7 @@ Let's create a project report using the Market Analysis you've already gathered.
 
 1. Review the rewritten options, choose the one you most prefer, and select **Replace**.
 
-#### Exercise 2 - Convert text to a table
+### Exercise 2 - Convert text to a table
 
 While the content in your document may be accurate, consider its readability. Would a section work better if it was presented as a table? Copilot can easily convert text into a table using a prompt.
 
@@ -70,7 +70,7 @@ Let's see this transformation in action.
 
 1. Review the table format and make any necessary adjustments.
 
-#### Exercise 3 - Summarize your document
+### Exercise 3 - Summarize your document
 
 As you complete your document, you want to ensure that your key points are presented clearly. A good way to do this is to see a summary of the document. Likewise, should you receive a large Word document that you don't have time to read in its entirety, the summary feature is key. Let's create a summary at the end of our document.
 
