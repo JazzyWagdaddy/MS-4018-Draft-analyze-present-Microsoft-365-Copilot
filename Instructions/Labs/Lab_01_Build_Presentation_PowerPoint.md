@@ -58,17 +58,18 @@ Copilot can help generate an idea and then a slide for a fun icebreaker to keep 
 
     *Use question 1 as the icebreaker, and generate a slide that includes a complementary image*
 
-   Please note that depending on various factors, it will take several minutes for Copilot to generate the slide. 
+   Please note that depending on various factors, it may take several minutes for Copilot to generate the slide. Please note that Copilot may insert the ice breaker slide directly into your deck, or it may need to be inserted manually.
 
     Now, you've got a great way to start a conversation among your meeting participants. Let's look at the presentation now, and see how we can make it even more powerful.
 
-1. Since Copilot can't directly insert the slide into your current presentation, enter this prompt *Yes, please provide the slide file*, noting it will take several moments for Copilot to complete this action.
+1. If Copilot can't directly insert the slide into your current presentation, enter this prompt *Yes, please provide the slide file*, noting it will take several moments for Copilot to complete this action.
    
 3. Once Copilot finishes rendering, download the icebreaker slide.
 
 ## Exercise 3 - Insert an image
 
 While Copilot includes images as it creates slides, you may want to add or edit an image to be more specific to your presentation. You can ask Copilot to include an image from your approved corporate library, provided your administrator has set the appropriate configurations, or generate an image based on an idea you have.
+
 
 1. Let's ask Copilot to insert a diagram on the title slide. Navigate to the title slide that Copilot generate and enter the following prompt in the Copilot pane:
 
