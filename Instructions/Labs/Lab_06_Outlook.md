@@ -12,7 +12,7 @@ Please complete the following exercises as part of this lab:
 #### Exercise 3 - How can AI help me be productive?
 
 
-### Exercise 1 - Draft an email with Copilot in Outlook ###
+## Exercise 1 - Draft an email with Copilot in Outlook ###
 1. Open Microsoft Outlook on the desktop and select **New Email**.
 1. Click on Alt + I and then enter key points in the body of the email and then click **Generate**:
    
@@ -23,7 +23,7 @@ Please complete the following exercises as part of this lab:
 4. Review the email, noticing the changes. From the **Anything you'd like to change** dialogue box, enter *make it sound like a CEO* and click the right arrow.
 5. Select **Keep** to include the suggested text, and then send the email to yourself with a subject of **Test Email**.
 
-### Exercise 2 - Get coaching on your emails ###
+## Exercise 2 - Get coaching on your emails ###
 Everybody is moving fast these days and we tend to write terse messages that lack emotion and emphathy.  Copilot Coaching can help with that.
 
 1. Open Microsoft Outlook on the desktop and select **New Email**.
@@ -41,7 +41,7 @@ Everybody is moving fast these days and we tend to write terse messages that lac
   
 4. Please take the time to repeat your reiterate coaching on several different emails that you normally write.
 
-### Exercise 3 - How can AI help me be productive?
+## Exercise 3 - How can AI help me be productive?
 Copilot can help you improve your overall productivity.  Try these examples:
 
 1. Open Microsoft Outlook on the desktop, then a new Copilot Chat Window, and enter these prompts, taking time to examine the results:
@@ -50,4 +50,3 @@ Copilot can help you improve your overall productivity.  Try these examples:
 
    *Review my week like it’s a case study: What’s working? What’s not? Use Markdown to create a structured and visually appealing analysis. Include sections for successes, challenges, and recommendations. Highlight key points with bullet points, bold text, and italicized highlights to enhance readability and impact. Include any relevant data or metrics to support the analysis and provide actionable insights for improvement.*
 
-3. 
