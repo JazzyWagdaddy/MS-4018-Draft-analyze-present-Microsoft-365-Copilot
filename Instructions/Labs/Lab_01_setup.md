@@ -49,7 +49,7 @@ When Wave 2 is deployed to your account, you will now have different methods to 
 
 ### Here is the new UI for Microsoft 365 Copilot in Powerpoint:
 
-![New Powerpoint](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Allfiles/CP%20New%20Experience.png)
+![New Powerpoint](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/CP%20New%20Experience.png)
 
 ### Here is the new UI for Microsoft 365 Copilot in Excel:
 
