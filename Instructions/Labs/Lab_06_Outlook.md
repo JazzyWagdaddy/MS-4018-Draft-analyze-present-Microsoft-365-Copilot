@@ -10,8 +10,7 @@ Please complete the following exercises as part of this lab:
 #### Exercise 1 - Draft an email with Copilot in Outlook
 #### Exercise 2 - Get coaching on your email
 #### Exercise 3 - How can AI help me be productive?
-#### Exercise 4 - Optional - Retrieve action items from your meeting
-#### Exercise 5 - Optional - Conduct and record the meeting in Microsoft Teams
+
 
 ### Exercise 1 - Draft an email with Copilot in Outlook ###
 1. Open Microsoft Outlook on the desktop and select **New Email**.
@@ -39,4 +38,7 @@ Everybody is moving fast these days and we tend to write terse messages that lac
    * Tone
    * Reader Sentiment
    * Clarity
+  
+4. Please take the time to repeat your reiterate coaching on several different emails that you normally write.
 
+### Exercise 3 - How can AI help me be productive?
