@@ -9,7 +9,7 @@ Please complete the following exercises as part of this lab:
 
 #### Exercise 1 - Draft an email with Copilot in Outlook
 #### Exercise 2 - Get coaching on your email
-#### Exercise 3 - 
+#### Exercise 3 - How can AI help me be productive?
 #### Exercise 4 - Optional - Retrieve action items from your meeting
 #### Exercise 5 - Optional - Conduct and record the meeting in Microsoft Teams
 
