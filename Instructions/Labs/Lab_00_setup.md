@@ -29,10 +29,15 @@ As you progress, you'll have an opportunity to try out other prompts against the
 
 # M365 Copilot UI Changes
 
-As of June 2025, Microsoft is mid-process deploying what is called the "New Copilot Experience" globally.  This deployment is coming in waves and is controlled by Microsoft.   A customer cannot enter the Admin portal and request an upgrade.
+As of June 2025, Microsoft is mid-process deploying what is called the "New Copilot Experience" globally.  This deployment is coming in waves and is controlled by Microsoft, and regretably a customer cannot enter the Admin portal and request a specific upgrade.
+
+Additionally, there will be UI differences between the version of Copilot used:
+* Standard Copilot
+* Copilot Pro
+* Copilot for Microsoft 365
 
 > [!IMPORTANT]
-> Three different user interfaces may be visible to learners in this course depending on the updated UI deployment and the version of Copilot used, and the instructor will educate the class on the three different versions that are currently available.  
+> Three different user interfaces may be visible to learners in this course depending on the updated UI deployment and the version of Copilot used, and the instructor will educate the class on the three different versions that are currently available.  This course is designed for **Copilot for Microsoft 365.**
 
 ## Wave 1
 In the first wave of deployment, the Copilot icon on the Office ribbon is converted from launching Microsoft 365 Copilot to launching Copilot Chat.  Clicking this icon **will not launch Microsoft 365 Copilot**, it will launch Copilot Chat, which is web-grounded only.
