@@ -53,7 +53,7 @@ Now that you've got an idea of potential questions, you can consider your person
 
 1. In the same Copilot Chat, prompt Copilot to
 
-    *Draft answers for the following questions: [copy and paste list of questions here]*
+    *Generate a list of potential questions I may be asked in the interview and draft answers*
 
     Because Copilot Chat is an iterative experience, it considers the context of previous chat interactions in the same window.
 
@@ -65,8 +65,8 @@ These answers are great, and you're feeling confident before your interview. Now
 
 1. In the same Copilot Chat window, prompt Copilot to 
 
-    +++Create a Word .docx document with this output.+++
-
+   *Create a Word .docx document with this output*
+   
     Copilot generates a new Word document titled **FAQ Document**.
 
 1. Open this document to review.
@@ -85,12 +85,11 @@ These answers are great, and you're feeling confident before your interview. Now
 
 1. Enter a prompt such as:
 
-    +++I need help with drafting a thank you note for a recent interview.+++
+    *I need help with drafting a thank you note for a recent interview*
 
     Copilot  generates a draft for you.
 
 1. Review the draft and make any necessary adjustments to personalize it.
 
-1. Add your recipients and send your email.
 
 ## End of Lab 7 ##
