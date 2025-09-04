@@ -50,3 +50,4 @@ Copilot can help you improve your overall productivity.  Try these examples:
 
    *Review my week like it’s a case study: What’s working? What’s not? Use Markdown to create a structured and visually appealing analysis. Include sections for successes, challenges, and recommendations. Highlight key points with bullet points, bold text, and italicized highlights to enhance readability and impact. Include any relevant data or metrics to support the analysis and provide actionable insights for improvement.*
 
+## End of Lab 6 ##
