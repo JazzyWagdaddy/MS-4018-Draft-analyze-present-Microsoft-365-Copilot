@@ -120,4 +120,4 @@ When working in your own environment, you would then send the email to your stak
 
 You now have hands-on experience using Copilot in Excel to analyze market trends, identify patterns, and generate valuable insights from your data. Continue trying new prompts in your Excel files to gain more practice.
 
-**End of Lab 5**
+##  End of Lab 5  ##
