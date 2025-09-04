@@ -1,23 +1,25 @@
 # Lab 3 - Manage collaboration from start to finish
+> [!NOTE]
+> This lab assumes the user is connected to a long-standing Teams environment where there is plenty of existing data (e.g. chats, meetings, etc. to use for learning purposes.  If you are new to Teams, please alert your instructor.
 
 Imagine you're a manager at Contoso. Your team relies on effective communication to collaborate and achieve goals. You want to rally the team behind a new idea for the Contoso Connect product launch, and need to send a message to your team about how to incorporate this idea before the product launch deadline. Use Copilot to draft, rewrite, and adjust your message to ensure it's clear, concise, and professional.
 
-#### Exercise 1 - Write an engaging message to introduce your idea
+## Exercise 1 - Write an engaging message to introduce your idea
 
-1. Open Microsoft Teams by navigating to the following URL: [teams.microsoft.com](https://teams.microsoft.com) or through the desktop application.
+1. Open Microsoft Teams by navigating to the desktop application.
 
 1. To start, create a new Team in your team's chat for this conversation. Select **New Team** from the Chat dropdown menu.
 
-    - Add the Team:  +++People and Culture+++
+    - Team Name:  **Test Team for Learning**
     - Description: leave blank
     - Team Type: **Private**
-    - Channel name: +++Contoso Connect+++
-    - Add members: select **Skip**
+    - Channel name: **Contoso Connect**
+    - Click **Create**
+    - Select **Skip** for Adding Members
+1. Select **Post in Channel** to open the chat window.
 
-1. Select **Start a post** to open the chat window.
-
-1. Write your message in the box at the bottom of the chat or channel. Copy and paste the following text into the dialog box:
-    Hi Team! I've been thinking about Contoso Connect, and how we can make the product launch more exciting for our customers. I have a couple of ideas, and want to hear more from each of you. What do you think would make our customers excited and ready to work with Connect?
+1. Copy and paste the following text into the dialog box:
+    *Hi Team! I've been thinking about Contoso Connect, and how we can make the product launch more exciting for our customers. I have a couple of ideas, and want to hear more from each of you. What do you think would make our customers excited and ready to work with Connect?*
 
 1. Before you post the message, select the **Rewrite with Copilot** icon at the bottom of the message box.
 
@@ -35,7 +37,7 @@ Imagine you're a manager at Contoso. Your team relies on effective communication
 
 The team receives your message and is excited to contribute! Everyone contributes ideas and discusses potential issues in the Teams chat.
 
-#### Exercise 2 - Schedule a meeting in Outlook
+## Exercise 2 - Schedule a meeting in Outlook
 
 You now want to schedule a meeting to brainstorm some feedback with your team. You can use Copilot in Outlook to find the best time based on your team's availability, and draft the body of the meeting invite to include the key points you prompted Copilot to answer from your meeting chat.
 
