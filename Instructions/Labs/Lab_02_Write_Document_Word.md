@@ -19,36 +19,45 @@ Let's create a project report using the Market Analysis you've already gathered.
 
 1. Open a new Word document. (Start / Word / Choose **Blank Documemnt**)
 
-1. Select the on-canvas **Copilot** experience at the top of the blank document.
+2. Select the on-canvas **Copilot** experience at the top of the blank document.
 
-1. Enter the following prompt:
+3. Enter the following prompt:
 
     *Create a project report that includes an executive summary, introduction, product description, project objectives, and discussion. Use the linked document as a content resource*
-
-   https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/Lab2Exer1Pic1.png
-
-1. Add the document reference to your prompt by manually entering a forward slash followed by the document name: **/Promotion Plan for Chai Tea in Latin America.docx**. Alternately, you can select **Reference a file** and the file from the dropdown list once it is available in OneDrive.
    
-1. Select **Generate**.
+4. You may need to add the document reference to your prompt by manually entering a forward slash followed by the document name: **/Promotion Plan for Chai Tea in Latin America.docx**. If the document does not appear from your MRU or Most Recently Used list, you can select **Reference a file** and the file from the dropdown list once it is available in OneDrive.
 
-1. Review the drafted content and select **Keep it**.
+ ![new](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/Lab2Exer1Pic1.png)
+   
+5. Click on the blue right-arrow button, wait for Copilot to render, and then review the drafted content.
 
-1. As you're reviewing the content of your document, you may find that some text needs to be edited or rewritten. The Product Description section seems to be fairly short, and technical. Let's edit the text so it's more engaging for our readers.
+> [!Note]
+> You can fine tune the draft created by adding some detail and regenerating.  Examples include:
+> 
+> *Make it sound like Snoop Dogg*
+> 
+> *Make it sound like a tv newscaster*
+> 
+> *Make it shorter and casual*
 
-1. Highlight the paragraph, select the **Copilot** icon that appears to the left of the text.
+6.  When your refinements are complete, select **Keep it**.
 
-1. Select **Auto Rewrite** from the menu. Copilot generates several options. Review each, and select to:
+7. As you're reviewing the content of your document, you may find that some text needs to be edited or rewritten. The Product Description section seems to be fairly short, and technical. Let's edit the text so it's more engaging for our readers.
+
+8. Highlight the paragraph, select the **Copilot** icon that appears to the left of the text.
+
+9. Select **Auto Rewrite** from the menu. Copilot generates several options. Review each, and select to:
 
     - **Replace** the current text with the one you prefer.
     - **Insert below** the text to keep both.
     - **Regenerate** the suggestions if you don't like any of the suggestions, you can select to regenerate them, and Copilot provides you three more options from which to choose.
     - Enter text describing the update you're looking for in the **What do you want Copilot to change?** field.
 
-1. Let's enter a specific prompt to get the results we want. In the **What do you want Copilot to Change** field, enter:
+10. Let's enter a specific prompt to get the results we want. In the **What do you want Copilot to draft** field, enter:
 
-    +++Rewrite this paragraph to add more detail about the product. The tone of this paragraph should be professional and engaging.+++
+    *Rewrite this paragraph to add more detail about the product. The tone of this paragraph should be professional and engaging*
 
-1. Review the rewritten options, choose the one you most prefer, and select **Replace**.
+11. Review the rewritten options, choose the one you most prefer, and select **Replace**.
 
 ### Exercise 2 - Convert text to a table
 
@@ -56,7 +65,7 @@ While the content in your document may be accurate, consider its readability. Wo
 
 Let's see this transformation in action.
 
-1. Ask Copilot to +++Add a list of project milestones and their deadlines+++ using the on-canvas Copilot option.
+1. Ask Copilot to *Add a list of project milestones and their deadlines* using the on-canvas Copilot option.
 
 1. Select **Keep it** to add the section to your Project Plan.
 
@@ -66,7 +75,7 @@ Let's see this transformation in action.
 
 1. Select **Visualize as a table** from the menu. The result looks great, overall, but let's make sure there's a column for when the task is successfully completed.
 
-1. Type +++Add a third column, Task Completed, to the table.+++ in the Copilot dialog.
+1. Type *Add a third column, Task Completed, to the table* using the on-canvas Copilot option
 
 1. Select **Keep it** to insert the table into your document.
 
@@ -78,14 +87,12 @@ As you complete your document, you want to ensure that your key points are prese
 
 1. Open the Copilot pane and enter the following prompt:
 
-    +++Summarize this document. Highlight the top three points made.+++
+    *Summarize this document. Highlight the top three points made*
 
-1. Review the generated summary, and select **Insert** if you want to include the entire summary in your document. You can also highlight any portion of the text, then copy and paste it into your document.
-
+1. Review the generated summary, and if time permits, experiment with the options Copilot has presented to you.
+   
 > [!IMPORTANT]
 > The text Copilot generates is inserted at your cursor's location in the document. Make sure you have navigated to the end of the document before you select to insert the content.
-
-You can then manually make adjustments to the text, or highlight the summary paragraph and use Copilot to **Auto Rewrite**  as needed. You can also use this summary as the starting point to a Teams or Outlook message when you share your project report with your stakeholders.
 
 Save your document for future reference. You're ready to share for review, or you can use this document as the starting point for a PowerPoint presentation.
 
