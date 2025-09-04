@@ -10,7 +10,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 [Contoso Chai Tea market trends 2023.xlsx](https://go.microsoft.com/fwlink/?linkid=2268822)
 
-#### Exercise 1 - Explore the data
+## Exercise 1 - Explore the data
 
 To get an idea of market trends, you must first understand  the overall performance of Contoso's Chai products. Your first step is to get an overview of the data and identify key metrics that can guide your analysis.
 
@@ -28,7 +28,7 @@ To get an idea of market trends, you must first understand  the overall performa
 
 1. Review the table. When you're done, select **Go back to data** to return to Sheet 1.
 
-#### Exercise 2 - Identify sales trends
+## Exercise 2 - Identify sales trends
 
 As a sales manager, you need to identify trends in the sales data to make informed decisions. Let's look at the total chai sales over the year and look for any patterns or trends that can help improve sales strategies.
 
@@ -48,7 +48,7 @@ As a sales manager, you need to identify trends in the sales data to make inform
 
 1. **Apply** the conditional formatting rule. Copilot highlights the cells as directed.
 
-#### Exercise 3 - Compare product sales
+## Exercise 3 - Compare product sales
 
 To optimize your product offerings, you need to compare the sales of different chai products. Copilot can help you to easily compare the sales of Artisanal Chai and Premade Chai to determine which product category performed better overall.
 
@@ -66,7 +66,7 @@ Summer months can see a wide variance of sales. To understand what type of tea i
 
    +++Summarize the total sales (units) for Artisanal Chai and Premade Chai over the summer.+++
 
-#### Exercise 4 - Calculate total sales
+## Exercise 4 - Calculate total sales
 
 Understanding the total sales is crucial for evaluating the success of your sales strategies. Let's ask Copilot to calculate the total sales for each quarter by adding Artisanal Chai Sales and Premade Chai Sales.
 
@@ -78,7 +78,7 @@ Understanding the total sales is crucial for evaluating the success of your sale
 
 1. Select **Insert columns**.
 
-#### Exercise 5 - Analyze social media engagement
+## Exercise 5 - Analyze social media engagement
 
 In today's digital age, social media engagement can significantly impact sales. Let's examine the relationship between social media engagement and chai sales to identify any correlations that can help boost sales.
 
@@ -92,7 +92,7 @@ In today's digital age, social media engagement can significantly impact sales. 
 
 1. Select **Add to sheet** to include these insights to your table.
 
-#### Exercise 6 - Generate insights
+## Exercise 6 - Generate insights
 
 Finally, let's summarize the key insights from your analysis. These insights help you make data-driven decisions to drive sales growth at Contoso.
 
@@ -100,7 +100,7 @@ Finally, let's summarize the key insights from your analysis. These insights hel
 
     +++Provide a summary of the key insights from the analysis of the Contoso Chai Tea market trends data.+++
 
-#### Exercise 7 - Send your insights to the team
+## Exercise 7 - Send your insights to the team
 
 Once you collect insights on market trends, you can share the information with your stakeholders. Here's how Copilot in Outlook can help you:
 
