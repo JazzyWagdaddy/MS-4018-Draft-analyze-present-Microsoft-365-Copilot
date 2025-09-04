@@ -1,4 +1,4 @@
-# Lab 5 - Ace your interview with Copilot Chat
+# Lab 7 - Copilot Chat
 
 Imagine you're interviewing for position at Contoso, a mid-sized media-driven company. You've been communicating with the hiring manager via email. Now, you want to prepare for the interview, learn more about the team you'll be working with, and draft answers to potential questions that you may be asked. This Lab guides you through the steps to ensure you're well-prepared and confident.
 
