@@ -1,9 +1,6 @@
-# Lab 7 - Copilot Chat
+# Lab 7 - M365 Copilot Chat
 
 Imagine you're interviewing for position at Contoso, a mid-sized media-driven company. You've been communicating with the hiring manager via email. Now, you want to prepare for the interview, learn more about the team you'll be working with, and draft answers to potential questions that you may be asked. This Lab guides you through the steps to ensure you're well-prepared and confident.
-
-> [!NOTE]
-> The steps in this Lab provide guidance on how to navigate and prompt Copilot Chat. Follow along, using your own Teams resources to complete each step.
 
 ## Exercise 1 - Research the interviewer
 
