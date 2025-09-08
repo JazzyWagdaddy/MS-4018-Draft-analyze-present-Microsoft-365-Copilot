@@ -56,7 +56,7 @@ Copilot can help generate an idea and then a slide for a fun icebreaker to keep 
 
 1. Enter the following prompt:
 
-    *Use question 1 as the icebreaker, and generate a slide that includes a complementary image*
+    *Use question 1 as the icebreaker, and generate a slide that includes a complementary image and add that into the presentation*
 
    Please note that depending on various factors, it may take several minutes for Copilot to generate the slide. Please note that Copilot may insert the ice breaker slide directly into your deck, or it may need to be inserted manually.
 
