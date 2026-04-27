@@ -22,20 +22,13 @@ Please complete the following exercises as part of this lab:
 
 
 1. Open the desktop version of PowerPoint and click on the second choice, **Blank Presentation**. For the purposes of this exercise, please **do not** choose the option to "Create with Copilot".
-2. Once a blank presentation renders, click on the **Copilot** icon and select:
-
-![new](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/Create%20a%20new%20presentation%20from%20file.png)
-
-> [!NOTE]
-> You may need to click on the **Create a presentation about** starter prompt for the complete UI to render.
-
+2. Once a blank presentation renders, click on the **Copilot** icon.
 3. From within the Copilot chat window enter the following prompt, noting you may have to remove a backslash or omit the "based on" verbiage:
    
     *Create a presentation about Contoso's Chai Tea based on*
    
 5. Next, In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(Promotion Plan for Chai Tea in Latin America.docx)** and press the right-arrow. If the file doesn't populate in the MRU or Most Recently Used list, select the Upload button then **Attach Cloud Files**. Navigate to **My files** and select the document from your OneDrive folder.  Once all steps are completed, click the right arrow.
 
-![arrow](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/PPT-right%20arrow.png)
 
 5. After a few moments, Copilot displays a presentation outline showing the potential slides and bulleted points to be included on each slide. Review the suggested content and click on **Generate Slides** in the lower right hand corner.  After a few moments, Copilot generates slides and content. Click **Keep it** to retain the presentation.
    
