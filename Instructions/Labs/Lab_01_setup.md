@@ -35,16 +35,10 @@ When referencing files from Copilot, you might find that you can't find some fil
 As you progress, you'll have an opportunity to try out other prompts against these files and are encouraged to do so to explore and enhance your prompting skills.
 
 ## Exercise 3 - M365 Copilot UI Changes
-Microsoft is adding updates to Copilot on a weekly basis, making the delivery of training a bit challenging as the user interface changes continuaously.  As such, it is expected that there will be differences in what the instructor displays and what you may see on your screen, and that is normal.
-
-Additionally, there will be UI differences between the version of Copilot used:
-* Standard Copilot
-* Copilot Pro
-* Copilot for Microsoft 365
+Microsoft is adding updates to Copilot on a weekly basis, making the delivery of training a bit challenging as the user interface changes continuously.  As such, it is expected that there will be differences in what the instructor displays on their screen and what you may see on your screen, and that is normal.
 
 > [!IMPORTANT]
-> Multiple different user interfaces may be visible to learners in this course depending on the updated UI deployment and the version of Copilot used, and the instructor will educate the class on the different versions as best as possible.  This course is designed for **Copilot for Microsoft 365.**
-
+> Multiple different user interfaces may be visible to learners in this course depending on the updated UI deployment and when Windows Update occurs, and the instructor will accomodate the variances as best as possible.  
 
 
 
