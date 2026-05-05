@@ -3,7 +3,7 @@
 ## Exercise 1 - Course Prerequisites
 Let's take a moment to ensure that you have everything that you need to be M365 Copilot Ready!
 
-1. Please confirm that you have a M365 Copilot licenses assigned to your account.
+1. Please inform the instructor if you have a M365 Copilot licenses assigned to your account.
 2. Check for any Office updates and apply them.
 3. Check for any Windows updates and apply them.
 
