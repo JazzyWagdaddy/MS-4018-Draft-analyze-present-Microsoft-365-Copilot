@@ -5,7 +5,7 @@ Let's take a moment to ensure that you have everything that you need to be M365 
 
 1. Please inform the instructor if you have a M365 Copilot licenses assigned to your Account.
 ### Check for any Office updates and apply them.
-1.  Within any Office application, click on File the Account.
+1.  Within any Office application, click on File then Account.
 2.  Click on Update Options, then Update Now.
 ### Check for any Windows updates and apply them.
 
