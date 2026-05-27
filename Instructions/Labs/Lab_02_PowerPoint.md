@@ -1,8 +1,10 @@
-# Lab 2 - Build a presentation from start to finish with Copilot in PowerPoint
+# Build a presentation from start to finish with Copilot in PowerPoint
 
 ## Background
 
 Imagine you're a marketing manager at a company called Contoso. Your team is preparing for an important client meeting where you need to present the company's strategy for a new Chai Tea product line to be sold in Latin America Your goal is to create a compelling presentation that highlights the product's features, benefits, and use cases, while ensuring it adheres to the company's branding standards. You've already developed a business plan for this product, and want to use that content when preparing for your meeting. You need to collaborate with your team and get the presentation reviewed by your manager before the meeting.
+
+Please download this file to Onedrive: https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Promotion_Plan_for_Chai_Tea_in_Latin_America.docx
 
 ## Exercises
 Please complete the following exercises as part of this lab:
