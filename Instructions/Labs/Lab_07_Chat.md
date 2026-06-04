@@ -74,19 +74,7 @@ These answers are great, and you're feeling confident before your interview. Now
 
 1. Save the document as **FAQ Document**.
    
-## (Optional) Exercise 6 - Send a thank you email using Copilot in Outlook
-
-1. Open Outlook and select **New email** button to start composing your thank you note.
-
-1. Select the Copilot icon in the email composition window so Copilot can help draft your thank you note.
-
-1. Enter a prompt such as:
-
-    *I need help with drafting a thank you note for a recent interview*
-
-    Copilot  generates a draft for you.
-
-1. Review the draft and make any necessary adjustments to personalize it.
 
 
-## End of Lab 7 ##
+
+## End of Lab ##
