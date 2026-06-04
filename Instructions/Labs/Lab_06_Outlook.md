@@ -1,4 +1,4 @@
-# Lab 6 - Outlook #
+# Improve your email workflows with Outlook #
 
 ## Background ##
 Imagine you're a project manager at Contoso, a mid-sized company. You're gearing up for the highly anticipated launch of your new product, Contoso Connect. This innovative product promises to revolutionize the way businesses connect and collaborate. To ensure a smooth launch, you need to coordinate a team meeting to discuss the final preparations. Then, you can use Copilot in Microsoft Teams to record the meeting and track action items.
@@ -50,4 +50,4 @@ Copilot can help you improve your overall productivity.  Try these examples:
 
    *Review my week like it’s a case study: What’s working? What’s not? Use Markdown to create a structured and visually appealing analysis. Include sections for successes, challenges, and recommendations. Highlight key points with bullet points, bold text, and italicized highlights to enhance readability and impact. Include any relevant data or metrics to support the analysis and provide actionable insights for improvement.*
 
-## End of Lab 6 ##
+## End of Lab ##
