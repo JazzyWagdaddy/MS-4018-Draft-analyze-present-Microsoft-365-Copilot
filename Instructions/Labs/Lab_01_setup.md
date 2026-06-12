@@ -1,12 +1,14 @@
-# Get M365 Copilot Ready!
+# Get Copilot Ready!
 
 ## Exercise 1 - Course Prerequisites
-Let's take a moment to ensure that you have everything that you need to be M365 Copilot Ready!
+Let's take a moment to ensure that you have everything that you need to be Copilot Ready!
 
 1. Please inform the instructor if you have a M365 Copilot licenses assigned to your Account.
+
 ### Check for any Office updates and apply them.
 1.  Within any Office application, click on File then Account.
 2.  Click on Update Options, then Update Now.
+
 ### Check for any Windows updates and apply them.
 
 > [!IMPORTANT]
@@ -19,7 +21,7 @@ Throughout these labs, we'll be crafting prompts for Microsoft 365 Copilot that 
 - [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
 - [Contoso Chai Tea market trends 2023.xlsx](https://go.microsoft.com/fwlink/?linkid=2268822)
 
-To ensure that these files are accessible later on by Microsoft 365 Copilot, we'll first upload them to OneDrive.
+To ensure that these files are accessible later on by Copilot, we'll first upload them to OneDrive.
 
 1. Log into your computer and open the **OneDrive** application by entering **OneDrive** in the Windows search bar.
 
@@ -32,11 +34,10 @@ To ensure that these files are accessible later on by Microsoft 365 Copilot, we'
 When referencing files from Copilot, you might find that you can't find some files from the suggestions provided to you. This happens sometimes because certain experiences with Copilot only reference files from the Most Recently Used (MRU) list, while others let you browse OneDrive to find your file. Adding them to that list is as easy as opening them up in the appropriate Microsoft 365 app.  Once they've been opened, they should appear in the MRU list.
 
 > [!IMPORTANT]
-> Microsoft 365 Copilot will only work with files saved to OneDrive or SharePoint. If files are stored locally on your PC, you'll need to move them to OneDrive in order for Copilot to see and use them.
+> Copilot works with files saved to OneDrive or SharePoint. If your files are stored locally on your PC, you'll need to move them to OneDrive in order for Copilot to see and use them.
 
-As you progress, you'll have an opportunity to try out other prompts against these files and are encouraged to do so to explore and enhance your prompting skills.
 
-## Exercise 3 - M365 Copilot UI Changes
+## Exercise 3 - Copilot UI Changes
 Microsoft is adding updates to Copilot on a weekly basis, making the delivery of training a bit challenging as the user interface changes continuously.  As such, it is expected that there will be differences in what the instructor displays on their screen and what you may see on your screen, and that is normal.
 
 > [!IMPORTANT]
