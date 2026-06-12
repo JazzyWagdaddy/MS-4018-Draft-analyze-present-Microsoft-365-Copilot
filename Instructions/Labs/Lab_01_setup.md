@@ -9,6 +9,9 @@ Let's take a moment to ensure that you have everything that you need to be Copil
 1.  Within any Office application, click on File then Account.
 2.  Click on Update Options, then Update Now.
 
+*Note: for Mac users, Open Word (or Excel/PowerPoint/Outlook) → top menu bar → Help → Check for Updates. *
+
+
 ### Check for any Windows updates and apply them.
 
 > [!IMPORTANT]
