@@ -19,8 +19,10 @@ To get an idea of market trends, you must first understand  the overall performa
 1. Select the **Copilot** icon on the **Home** to open the Copilot pane.
 
 1. Enter the following prompt:
+2. 
 ```
     Summarize the dataset and provide an overview of the key metrics
+
 ```
     Copilot responds with both a table that you can add to a new sheet, and a reply that details the key metrics.
 
@@ -42,7 +44,7 @@ As a sales manager, you need to identify trends in the sales data to make inform
    
 1. To get a quick view of the months with the most successful sales, enter the following prompt:
 ```
-    *Highlight the three months with the highest total sales*
+    Highlight the three months with the highest total sales
 ```
 1. **Apply** the conditional formatting rule. Copilot highlights the cells as directed.
 
