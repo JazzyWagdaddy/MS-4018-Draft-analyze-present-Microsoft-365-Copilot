@@ -22,9 +22,9 @@ To get an idea of market trends, you must first understand  the overall performa
 2. 
 ```
     Summarize the dataset and provide an overview of the key metrics
-
 ```
-    Copilot responds with both a table that you can add to a new sheet, and a reply that details the key metrics.
+    
+Copilot responds with both a table that you can add to a new sheet, and a reply that details the key metrics.
 
 1. Select **Insert to a new sheet** to include this data in your Excel workbook.
 
