@@ -33,17 +33,17 @@ As a sales manager, you need to identify trends in the sales data to make inform
 1. Continue in the opened Copilot pane.
 
 1. Prompt Copilot with:
-
+```
     *Show a line chart of Total Chai Sales (units) over the months*
-
+```
 1. Review Copilot's response, and if you want, add the PivotChart to a new sheet.
 
 1. If you added a new PivotChart, review the chart then select **Go back to data** to return to Sheet 1.
    
 1. To get a quick view of the months with the most successful sales, enter the following prompt:
-
+```
     *Highlight the three months with the highest total sales*
-
+```
 1. **Apply** the conditional formatting rule. Copilot highlights the cells as directed.
 
 ## Exercise 3 - Compare product sales
@@ -53,17 +53,17 @@ To optimize your product offerings, you need to compare the sales of different c
 1. Continue in the opened Copilot pane.
 
 1. Prompt Copilot with:
-
+```
     *Create a bar chart comparing Artisanal Chai Sales (units) and Premade Chai Sales (units) for each month*
-
+```
 1. Copilot displays the bar chart. Select **Add to a new sheet**.
 
 1. Once you've reviewed the bar chart results, select **Go back to data** to return to Sheet 1.
    
 Summer months can see a wide variance of sales. To understand what type of tea is selling best, you can ask Copilot to determine which product category performed better overall by entering the following prompt:
-
+```
    *Summarize the total sales (units) for Artisanal Chai and Premade Chai over the summer*
-
+```
 ## Exercise 4 - Calculate total sales
 
 Understanding the total sales is crucial for evaluating the success of your sales strategies. Let's ask Copilot to calculate the total sales for each quarter by adding Artisanal Chai Sales and Premade Chai Sales.
