@@ -23,7 +23,10 @@ Let's create a project report using the Market Analysis you've already gathered.
 
 3. Enter the following prompt:
 
-    *Create a project report that includes an executive summary, introduction, product description, project objectives, and discussion. Use the linked document as a content resource*
+```
+Create a project report that includes an executive summary, introduction, product description, project objectives, and discussion.
+Use the linked document as a content resource
+```
    
 4. You may need to add the document reference to your prompt by manually entering a forward slash followed by the document name: **/Promotion Plan for Chai Tea in Latin America.docx**. If the document does not appear from your MRU or Most Recently Used list, you can select **Reference a file** and the file from the dropdown list once it is available in OneDrive.
 
@@ -87,9 +90,25 @@ As you complete your document, you want to ensure that your key points are prese
 
 1. Open the Copilot pane and enter the following prompt:
 
-    *Summarize this document. Highlight the top three points made*
+```Summarize this document. Highlight the top three points made
+```
 
 1. Review the generated summary, and if time permits, experiment with the options Copilot has presented to you.
+
+### Exercise 4 - Summarize your document
+
+After reviewing your draft, you may find sections that need adjustment. The Product Description is a good candidate—it tends to be short and technical in a first draft.
+
+Select the Product Description paragraph(s). In the floating toolbar that appears, select Edit with Copilot.
+
+Enter the following prompt:
+
+```
+Rewrite the Product Description section to be more detailed and engaging for a senior business audience.
+Keep the tone professional
+```
+
+Review the rewritten text. Select Done to replace the original text with the revised version.
    
 > [!IMPORTANT]
 > The text Copilot generates is inserted at your cursor's location in the document. Make sure you have navigated to the end of the document before you select to insert the content.
