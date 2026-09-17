@@ -10,6 +10,7 @@ Please complete the following exercises as part of this lab:
 #### Exercise 1 - Draft an email with Copilot in Outlook
 #### Exercise 2 - Get coaching on your email
 #### Exercise 3 - How can AI help me be productive?
+#### Exercise 4 - Triage your inbox with Copilot in Outlook
 
 
 ## Exercise 1 - Draft an email with Copilot in Outlook ###
@@ -49,5 +50,20 @@ Copilot can help you improve your overall productivity.  Try these examples:
    *Analyze my writing style and make suggestions on how to improve it*
 
    *Review my week like it’s a case study: What’s working? What’s not? Use Markdown to create a structured and visually appealing analysis. Include sections for successes, challenges, and recommendations. Highlight key points with bullet points, bold text, and italicized highlights to enhance readability and impact. Include any relevant data or metrics to support the analysis and provide actionable insights for improvement.*
+
+  ## Exercise 4 - Triage your inbox with Copilot in Outlook
+Start by identifying which messages actually need your attention.
+
+1. Open Outlook and select the Copilot icon.
+2. Enter the prompt:
+```
+Show me emails where I'm on the To line that I haven't replied to.
+```
+3. Review the results. Identify one thread that requires a substantive response.
+4. ask a follow-up question such as:
+```
+Do I have any meetings today that relate to this thread? to check for calendar context before you respond.
+```
+5. *CHALLENGE: How would you make this a scheduled prompt?*
 
 ## End of Lab ##
