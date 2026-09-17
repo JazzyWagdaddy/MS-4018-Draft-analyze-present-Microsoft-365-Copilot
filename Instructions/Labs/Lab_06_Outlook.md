@@ -49,9 +49,15 @@ Copilot can help you improve your overall productivity.  Try these examples:
 
 1. Open Microsoft Outlook on the desktop, then a new Copilot Chat Window, and enter these prompts, taking time to examine the results:
    
-   *Analyze my writing style and make suggestions on how to improve it*
+```
+Analyze my writing style and make suggestions on how to improve it
+```
 
-   *Review my week like it’s a case study: What’s working? What’s not? Use Markdown to create a structured and visually appealing analysis. Include sections for successes, challenges, and recommendations. Highlight key points with bullet points, bold text, and italicized highlights to enhance readability and impact. Include any relevant data or metrics to support the analysis and provide actionable insights for improvement.*
+```
+Review my week like it’s a case study: What’s working? What’s not? Use Markdown to create a structured and visually appealing analysis.
+Include sections for successes, challenges, and recommendations. Highlight key points with bullet points, bold text, and italicized highlights to enhance readability and impact.
+Include any relevant data or metrics to support the analysis and provide actionable insights for improvement.
+```
 
   ## Exercise 4 - Triage your inbox with Copilot in Outlook
 Start by identifying which messages actually need your attention.
