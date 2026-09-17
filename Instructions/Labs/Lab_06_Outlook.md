@@ -7,10 +7,10 @@ Imagine you're a project manager at Contoso, a mid-sized company. You're gearing
 ## Exercises
 Please complete the following exercises as part of this lab:
 
-### Exercise 1 - Draft an email with Copilot in Outlook
-### Exercise 2 - Get coaching on your email
-### Exercise 3 - How can AI help me be productive?
-### Exercise 4 - Triage your inbox with Copilot in Outlook
+#### Exercise 1 - Draft an email with Copilot in Outlook
+#### Exercise 2 - Get coaching on your email
+#### Exercise 3 - How can AI help me be productive?
+#### Exercise 4 - Triage your inbox with Copilot in Outlook
 
 
 ## Exercise 1 - Draft an email with Copilot in Outlook ###
