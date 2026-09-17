@@ -30,7 +30,9 @@ Everybody is moving fast these days and we tend to write terse messages that lac
 1. Open Microsoft Outlook on the desktop and select **New Email**.
 2. Type a typical email that you would sent to a typical co-worker on a regular basis.  If you come up short on ideas, enter this:
 
-   *Please let me know the status of the finance report.  Time is of the essence and we re waiting for your response.  Thank you for a quick reply.*
+```
+Please let me know the status of the finance report.  Time is of the essence and we re waiting for your response.
+```
 
 > [!NOTE]
 > You are required to type in at least 100 characters into your email in order for Copilot to provide any coaching.
