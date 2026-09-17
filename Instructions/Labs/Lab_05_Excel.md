@@ -1,5 +1,14 @@
 # Boost your productivity with data-driven decisions with Copilot in Excel
 
+## Exercises
+### Exercise 1 - Explore the data
+### Exercise 2 - Identify sales trends
+### Exercise 3 - Compare product sales
+### Exercise 4 - Calculate total sales
+### Exercise 5 - Analyze social media engagement
+### Exercise 6 - Generate insights
+### Exercise 7 - Send your insights to the team
+
 ## Sample file
 
 Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that reference this file. You should have already uploaded it to OneDrive during the lab setup process, but if you need to download it again, you can do so here:
