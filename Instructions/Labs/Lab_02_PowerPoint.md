@@ -9,8 +9,9 @@ Please complete the following exercises as part of this lab:
 #### Exercise 2 - Ask Copilot to help you create an icebreaker slide
 #### Exercise 3 - Insert an Image
 #### Exercise 4 - Edit Text
-#### Exercise 5 - Oragnize the presentation
-#### Exercise 6 - Optional Send a draft for review (time permitting)
+#### Exercise 5 - Organize the presentation
+#### Exercise 6 - Review content with an explain prompt
+
 
 
 ## Exercise 1 - Create a new presentation based on a Word document
@@ -117,6 +118,15 @@ Organize this presentation
 1. Copilot responds, providing suggestions for each slide. You can select to update the content as you'd like or iterate your prompt to receive additional suggestions. 
 
 1. Ensure that your presentation has a logical sequence and smooth transitions between slides.
+
+## Exercise 6 - Review a chart with an explain prompt
+Navigate to a slide that contains a chart or content that you are not familiar with and enter the following prompt in the Copilot pane:
+
+```
+Explain the content on this slide so I can more easily understand and discuss the content as I present it to leadership.
+```
+
+Review Copilot's plain-language breakdown of the content and how it fits the narrative of the surrounding slide.
 
 ## (Optional) Exercise - Send a draft for review
 
