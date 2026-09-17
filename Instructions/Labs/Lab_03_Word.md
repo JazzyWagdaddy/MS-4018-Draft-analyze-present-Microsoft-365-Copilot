@@ -58,7 +58,9 @@ Use the linked document as a content resource
 
 10. Let's enter a specific prompt to get the results we want. In the **What do you want Copilot to draft** field, enter:
 
-    *Rewrite this paragraph to add more detail about the product. The tone of this paragraph should be professional and engaging*
+```
+Rewrite this paragraph to add more detail about the product. The tone of this paragraph should be professional and engaging
+```
 
 11. Review the rewritten options, choose the one you most prefer, and select **Replace**.
 
