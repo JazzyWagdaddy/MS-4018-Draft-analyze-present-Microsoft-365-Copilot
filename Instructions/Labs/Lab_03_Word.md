@@ -92,7 +92,8 @@ As you complete your document, you want to ensure that your key points are prese
 
 1. Open the Copilot pane and enter the following prompt:
 
-```Summarize this document. Highlight the top three points made
+```
+Summarize this document. Highlight the top three points made 
 ```
 
 1. Review the generated summary, and if time permits, experiment with the options Copilot has presented to you.
