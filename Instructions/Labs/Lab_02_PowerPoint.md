@@ -1,9 +1,5 @@
 # Build a presentation from start to finish with Copilot in PowerPoint
 
-## Background
-
-Imagine you're a marketing manager at a company called Contoso. Your team is preparing for an important client meeting where you need to present the company's strategy for a new Chai Tea product line to be sold in Latin America Your goal is to create a compelling presentation that highlights the product's features, benefits, and use cases, while ensuring it adheres to the company's branding standards. You've already developed a business plan for this product, and want to use that content when preparing for your meeting. You need to collaborate with your team and get the presentation reviewed by your manager before the meeting.
-
 Please download this file to Onedrive: https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Promotion_Plan_for_Chai_Tea_in_Latin_America.docx
 
 ## Exercises
@@ -27,7 +23,9 @@ Please complete the following exercises as part of this lab:
 2. Once a blank presentation renders, click on the **Copilot** icon.
 3. From within the Copilot chat window enter the following prompt, noting you may have to remove a backslash or omit the "based on" verbiage:
    
-    *Create a presentation about Contoso's Chai Tea based on*
+```
+Create a presentation about Contoso's Chai Tea based on
+```
    
 5. Next, In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(Promotion Plan for Chai Tea in Latin America.docx)** and press the right-arrow. If the file doesn't populate in the MRU or Most Recently Used list, select the Upload button then **Attach Cloud Files**. Navigate to **My files** and select the document from your OneDrive folder.  Once all steps are completed, click the right arrow.
 
@@ -43,21 +41,33 @@ Copilot can help generate an idea and then a slide for a fun icebreaker to keep 
 
 1. If not already, open the Copilot pane and enter the following prompt:
 
-     *Can you help me brainstorm an icebreaker question that would be good for a global audience? Provide three options for me to choose from*
+```
+Can you help me brainstorm an icebreaker question that would be good for a global audience?
+Provide three options for me to choose from
+```
 
-     Copilot responds with suggestions for your icebreaker. If none of these questions fit what you're looking for, prompt Copilot to generate more suggestions: *Please suggest two different options* 
+Copilot responds with suggestions for your icebreaker. If none of these questions fit what you're looking for, prompt Copilot to generate more suggestions: 
+```
+Please suggest two different options
+```
 
-     The first question looks great for our audience, so let's ask Copilot to generate a slide with this question, a corresponding image, and to insert this as the first slide in the presentation.
+The first question looks great for our audience, so let's ask Copilot to generate a slide with this question, a corresponding image, and to insert this as the first slide in the presentation.
 
 1. Enter the following prompt:
 
-    *Use question 1 as the icebreaker, and generate a slide that includes a complementary image and add that into the presentation*
+```
+Use question 1 as the icebreaker, and generate a slide that includes a complementary image and add that into the presentation
+```
 
    Please note that depending on various factors, it may take several minutes for Copilot to generate the slide. Please note that Copilot may insert the ice breaker slide directly into your deck, or it may need to be inserted manually.
 
-    Now, you've got a great way to start a conversation among your meeting participants. Let's look at the presentation now, and see how we can make it even more powerful.
+   Now, you've got a great way to start a conversation among your meeting participants. Let's look at the presentation now, and see how we can make it even more powerful.
 
-1. If Copilot can't directly insert the slide into your current presentation, enter this prompt *Yes, please provide the slide file*, noting it will take several moments for Copilot to complete this action.
+1. If Copilot can't directly insert the slide into your current presentation, enter this prompt
+```
+Yes, please provide the slide file
+```
+Noting it will take several moments for Copilot to complete this action
    
 3. Once Copilot finishes rendering, download the icebreaker slide.
 
@@ -68,7 +78,9 @@ While Copilot includes images as it creates slides, you may want to add or edit 
 
 1. Let's ask Copilot to insert a diagram on the title slide. Navigate to the title slide that Copilot generate and enter the following prompt in the Copilot pane:
 
-    *Replace the image on the Title slide with an image of a person sipping a warm cup of tea*
+```
+Replace the image on the Title slide with an image of a person sipping a warm cup of tea
+```
 
 > [!NOTE]
 > Feel free to experiment with your own prompt to generate an image  you think would work best for the presentation. The more details you provide, the better.  Also note that it will take a moment or two for Copilot to render a new image.
@@ -79,7 +91,9 @@ As you're reviewing the presentation, you may decide the text Copilot generated 
 
 1. Navigate to the slide containing the text you may want to edit. Select the slide, and in the Copilot pane, enter the following prompt:
 
-    *Edit this text to make it more conversational*
+```
+Edit this text to make it more conversational
+```
 
 1. Copy and paste the text you want to edit in the Copilot prompt dialog, then select **Send**.
 
@@ -96,7 +110,9 @@ As you're reviewing the presentation, you may find that the topics in your prese
 
 1. In the Copilot pane, enter the following prompt: 
 
-    *Organize this presentation*
+```
+Organize this presentation
+```
 
 1. Copilot responds, providing suggestions for each slide. You can select to update the content as you'd like or iterate your prompt to receive additional suggestions. 
 
@@ -112,7 +128,10 @@ Once you're satisfied with your presentation, use Copilot in Outlook to draft an
 
 1. Enter the following prompt:
 
-    *Draft an email asking for a review of the presentation that I attached to this email. Write the email in a casual tone*
+```
+Draft an email asking for a review of the presentation that I attached to this email.
+Write the email in a casual tone
+```
 
 1. Select **Draft with Copilot**.
 
@@ -120,4 +139,4 @@ Once you're satisfied with your presentation, use Copilot in Outlook to draft an
 
 And just like that, you're all set to impress your manager with a polished presentation! Happy presenting.
 
-## End of Lab 2 ##
+## End of Lab ##
