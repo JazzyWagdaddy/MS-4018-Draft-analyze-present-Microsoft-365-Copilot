@@ -17,11 +17,9 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 Let's create a project report using the Market Analysis you've already gathered. Then, we can edit this file to get the content we need for our report.
 
-1. Open a new Word document. (Start / Word / Choose **Blank Documemnt**)
+1. Open a new Word document in the desktop, not the web, version of Word. (Start / Word / Choose **Blank Documemnt**)
 
-2. Select the on-canvas **Copilot** experience at the top of the blank document where it says "Describe what you'd like to draft with Copilot"
-
-3. Enter the following prompt:
+2. Open Copilot Chat within Word and enter the following prompt:
 
 ```
 Create a project report that includes an executive summary, introduction, product description, project objectives, and discussion.
@@ -32,37 +30,33 @@ Use the linked document as a content resource
 
  ![new](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/Lab2Exer1Pic1.png)
    
-5. Click on the blue right-arrow button, wait for Copilot to render, and then review the drafted content.
+5. Click on the *Send* button, wait for Copilot to render, click *Done*, and then review the drafted content.
 
 > [!Note]
-> You can fine tune the draft created by adding some detail and regenerating.  Examples include:
+> You can fine tune the draft created by adding some detail and regenerating.  In the Copilot Chat pane, you can:
 > 
 > *Make it sound like Snoop Dogg*
 > 
 > *Make it sound like a tv newscaster*
 > 
 > *Make it shorter and casual*
+>
+> If you examine any of these changes, click *Undo* to discard your recently generated content.
 
-6.  When your refinements are complete, select **Keep it**.
+6.  As you're reviewing the content of your document, you may find that some text needs to be edited or rewritten. The Product Description section seems to be fairly short, and technical. Let's edit the text so it's more engaging for our readers.
 
-7. As you're reviewing the content of your document, you may find that some text needs to be edited or rewritten. The Product Description section seems to be fairly short, and technical. Let's edit the text so it's more engaging for our readers.
+8. Highlight the paragraph, select the **Edit Copilot** icon that appears to the left of the text.
 
-8. Highlight the paragraph, select the **Copilot** icon that appears to the left of the text.
+9. Click on the message box and select **Auto Rewrite** from the menu. Copilot generates new content.  Select **Undo** to discard the changes.
 
-9. Select **Auto Rewrite** from the menu. Copilot generates several options. Review each, and select to:
-
-    - **Replace** the current text with the one you prefer.
-    - **Insert below** the text to keep both.
-    - **Regenerate** the suggestions if you don't like any of the suggestions, you can select to regenerate them, and Copilot provides you three more options from which to choose.
-    - Enter text describing the update you're looking for in the **What do you want Copilot to change?** field.
-
-10. Let's enter a specific prompt to get the results we want. In the **What do you want Copilot to draft** field, enter:
+10. Let's enter a specific prompt to get the results we want. While keeping the same Product Description text highlighted, enter the following into the Chat pane:
 
 ```
-Rewrite this paragraph to add more detail about the product. The tone of this paragraph should be professional and engaging
+Rewrite this paragraph to add more detail about the product.
+The tone of this paragraph should be professional and engaging.
 ```
 
-11. Review the rewritten options, choose the one you most prefer, and select **Replace**.
+11. Review the changes, then click **Done**.
 
 ### Exercise 2 - Convert text to a table
 
@@ -70,19 +64,28 @@ While the content in your document may be accurate, consider its readability. Wo
 
 Let's see this transformation in action.
 
-1. Ask Copilot to *Add a list of project milestones and their deadlines* using the on-canvas Copilot option.
+1. In the Copilot pane run the following prompt:
+ ```
+   Add a list of project milestones and their deadlines
+   ```
+    
 
-1. Select **Keep it** to add the section to your Project Plan.
+1. Select **Done** to add the section to your document.
 
-1. Highlight the list.
+1. Highlight the list the Copilot just created and select  **Edit with Copilot**.
 
-1. Select the on-canvas **Copilot** icon to the left of the text.
+1. Enter the following text and once Copilot renders, click **Done**.
+```
+Visualize as a table
+```
+The result looks great, overall, but let's make sure there's a column for when the task is successfully completed.
 
-1. Select **Visualize as a table** from the menu. The result looks great, overall, but let's make sure there's a column for when the task is successfully completed.
-
-1. Type *Add a third column, Task Completed, to the table* using the on-canvas Copilot option
-
-1. Select **Keep it** to insert the table into your document.
+1. Type
+```
+   Add a third column, Task Completed, to the table
+   ```
+   
+1. Select **Done** to insert the table into your document.
 
 1. Review the table format and make any necessary adjustments.
 
