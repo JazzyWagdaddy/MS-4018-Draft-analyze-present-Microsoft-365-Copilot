@@ -19,7 +19,7 @@ Let's create a project report using the Market Analysis you've already gathered.
 
 1. Open a new Word document. (Start / Word / Choose **Blank Documemnt**)
 
-2. Select the on-canvas **Copilot** experience at the top of the blank document.
+2. Select the on-canvas **Copilot** experience at the top of the blank document where it says "Describe what you'd like to draft with Copilot"
 
 3. Enter the following prompt:
 
