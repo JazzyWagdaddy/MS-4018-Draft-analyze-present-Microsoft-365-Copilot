@@ -115,7 +115,7 @@ Summarize this document. Highlight the top three points made
 Ok, great, Copilot generated all the content. Neat stuff.  How do I make sure it's readable for my target audience?  Ask Copilot!
 
 ```
-review this document and provide suggestions and improvements if my target audience are executives
+review this document and provide suggestions and improvements if executives are the target audience.
 ```
 
 Review the suggestions and apply any changes that you'd like.
