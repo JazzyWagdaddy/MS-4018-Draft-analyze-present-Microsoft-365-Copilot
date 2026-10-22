@@ -81,7 +81,6 @@ Understanding the total sales is crucial for evaluating the success of your sale
 ```
    Calculate the sales for each quarter and add it as a new column
 ```
-1. Select **Insert columns**.
 
 ## Exercise 5 - Analyze social media engagement
 
