@@ -59,13 +59,13 @@ To optimize your product offerings, you need to compare the sales of different c
 
 1. Continue in the opened Copilot pane.
 
-1. Prompt Copilot with:
+2. Prompt Copilot with:
 ```
     Create a bar chart comparing Artisanal Chai Sales (units) and Premade Chai Sales (units) for each month
 ```
-1. Copilot displays the bar chart. Select **Add to a new sheet**.
+3. Copilot displays the bar chart. Select **Add to a new sheet**.
 
-1. Once you've reviewed the bar chart results, select **Go back to data** to return to Sheet 1.
+4. Once you've reviewed the bar chart results, select **Go back to data** to return to Sheet 1.
    
 Summer months can see a wide variance of sales. To understand what type of tea is selling best, you can ask Copilot to determine which product category performed better overall by entering the following prompt:
 ```
