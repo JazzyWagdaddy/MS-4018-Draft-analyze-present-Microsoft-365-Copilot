@@ -118,7 +118,7 @@ Once you collect insights on market trends, you can share the information with y
 
 5. Enter the following prompt:
 ```
-    Draft an email to my team summarizing the key points from our recent analysis on Contoso Chai Tea market trends
+    Draft into Outlook an email to my team summarizing the key points from our recent analysis on Contoso Chai Tea market trends
 ```
 
 6. Review the draft provided by Copilot and select **Replace** to include the content in your email.
