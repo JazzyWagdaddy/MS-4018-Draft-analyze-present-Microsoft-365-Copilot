@@ -55,31 +55,40 @@ Please let me know the status of the finance report.  Time is of the essence and
 ## Exercise 3 - How can AI help me be productive?
 Copilot can help you improve your overall productivity.  Try these examples:
 
-1. Open Microsoft Outlook on the desktop, then a new Copilot Chat Window, and enter these prompts, taking time to examine the results:
+1. Open Microsoft Outlook on the desktop, then click the **Copilot Chat** button in the upper right area of Outlook.
+2. Enter these prompts, taking time to examine the results.  Note that a single email might be selected, so remove that email from the chat window.
    
 ```
 Analyze my writing style and make suggestions on how to improve it
 ```
 
 ```
-Review my week like it’s a case study: What’s working? What’s not? Use Markdown to create a structured and visually appealing analysis.
-Include sections for successes, challenges, and recommendations. Highlight key points with bullet points, bold text, and italicized highlights to enhance readability and impact.
+Review my inbox like it’s a case study: What’s working? What’s not? Use Markdown to create
+a structured and visually appealing analysis.  Include sections for successes, challenges, and recommendations.
+Highlight key points with bullet points, bold text, and italicized highlights to enhance readability and impact.
 Include any relevant data or metrics to support the analysis and provide actionable insights for improvement.
 ```
 
   ## Exercise 4 - Triage your inbox with Copilot in Outlook
 Start by identifying which messages actually need your attention.
 
-1. Open Outlook and select the Copilot icon.
-2. Enter the prompt:
+1. Open Outlook and select the Copilot Chat icon.
+2. Enter the following prompt:
 ```
 Show me emails where I'm on the To line that I haven't replied to.
 ```
 3. Review the results. Identify one thread that requires a substantive response.
-4. ask a follow-up question such as:
+4. Ask a follow-up question such as:
 ```
-Do I have any meetings today that relate to this thread? to check for calendar context before you respond.
+Do I have any meetings coming up that relate to this thread? 
 ```
 5. *CHALLENGE: How would you make this a scheduled prompt?*
+```
+List unread email threads that I received in the last 48 hours and that you think need my reply — prioritize where I'm on To/CC,
+@mentioned, or there are open requests, deadlines, leadership or customer involvement.
+Exclude automated messages. Only show the ones that are urgent or important,
+then list them out in a concise table. If there are no unread emails that require reply,
+say "I didn't find any unread threads that require a reply."
+```
 
 ## End of Lab ##
