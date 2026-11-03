@@ -1,5 +1,7 @@
 # Improve your email workflows with Outlook #
 
+**NOTE: Due to difference in the Copilot User Interface, you may see slight variations between the instructions below and what you see on your desktop.**
+
 
 ## Exercises
 Please complete the following exercises as part of this lab:
