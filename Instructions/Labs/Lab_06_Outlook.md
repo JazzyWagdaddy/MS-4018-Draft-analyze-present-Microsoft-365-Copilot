@@ -90,5 +90,15 @@ Exclude automated messages. Only show the ones that are urgent or important,
 then list them out in a concise table. If there are no unread emails that require reply,
 say "I didn't find any unread threads that require a reply."
 ```
-
+6. Schedule this prompt to run everyday:
+   ```
+   Every weekday at 7:00 AM, triage my inbox from the last 24 hours and sort every email into three buckets:
+    🔴 ACT TODAY (needs my reply, decision, or deadline within 24 hrs),
+    🟡 THIS WEEK (important but not urgent),
+    🟢 FYI / IGNORE (newsletters, receipts, CCs, automated stuff).
+   For each email give sender, subject, a one-line summary,
+   and for 🔴 items a suggested next step; keep it punchy,
+   put the 🔴 list first, and end with a 2-line TLDR of what needs me most.
+   ```
+   
 ## End of Lab ##
