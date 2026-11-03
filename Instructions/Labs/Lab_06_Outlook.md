@@ -36,7 +36,7 @@ Everybody is moving fast these days and we tend to write terse messages that lac
 2. Type a typical email that you would sent to a typical co-worker on a regular basis.  If you come up short on ideas, enter this:
 
 ```
-Please let me know the status of the finance report.  Time is of the essence and we re waiting for your response.
+Please let me know the status of the finance report.  Time is of the essence and we're waiting for your response.
 ```
 
 > [!NOTE]
