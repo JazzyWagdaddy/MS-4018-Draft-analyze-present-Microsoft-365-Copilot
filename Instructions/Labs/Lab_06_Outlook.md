@@ -33,7 +33,7 @@ Write an email to my manager about taking some vacation time
 Everybody is moving fast these days and we tend to write terse messages that lack emotion and emphathy.  Copilot Coaching can help with that.
 
 1. Open Microsoft Outlook on the desktop and select **New Email**.
-2. Type a typical email that you would sent to a typical co-worker on a regular basis.  If you come up short on ideas, enter this:
+2. Paste in the following text:
 
 ```
 Please let me know the status of the finance report.  Time is of the essence and we're waiting for your response.
@@ -42,12 +42,15 @@ Please let me know the status of the finance report.  Time is of the essence and
 > [!NOTE]
 > You are required to type in at least 100 characters into your email in order for Copilot to provide any coaching.
 >
-3. Copilot responds with suggestions in the following catagories.  Take a moment to review the feedback Copilot provided you and cut/paste the revised text into your email
+3. Toward the top of the screen, click on **Try coaching by Copilot**.
+4. Copilot responds with suggestions in the following catagories.  
    * Tone
    * Reader Sentiment
    * Clarity
   
-4. Please take the time to repeat your reiterate coaching on several different emails that you normally write.
+5. Take a moment to review the feedback Copilot provided you and then click on **Apply all suggestions**. Once complete, click on **Keep it**, noticing how your email changes.
+6. Click on the Copilot icon and choose any option to modify your text.
+
 
 ## Exercise 3 - How can AI help me be productive?
 Copilot can help you improve your overall productivity.  Try these examples:
