@@ -15,14 +15,19 @@ Please complete the following exercises as part of this lab:
 
 ## Exercise 1 - Draft an email with Copilot in Outlook ###
 1. Open Microsoft Outlook on the desktop and select **New Email**.
-1. Click on Alt + I and then enter key points in the body of the email and then click **Generate**:
+1. Click on **Help me write** (Alt + I), then enter the following prompt:
    
-    *let's enter Brainstorm ideas for the Contoso Connect product launch*
-   
-   ![new](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/OutlookEx1Pic1.png)
-3. Ask Copilot to enhance your email by selecting the **Adjust** option. It's still short, so use the Suggested prompts and ask Copilot to **Make it longer**.
-4. Review the email, noticing the changes. From the **Anything you'd like to change** dialogue box, enter *make it sound like a CEO* and click the right arrow.
-5. Select **Keep** to include the suggested text, and then send the email to yourself with a subject of **Test Email**.
+ ![new](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/Untitled.png)
+
+
+```
+Write an email to my manager about taking some vacation time
+```
+
+
+3. Once Copilot creates the email, click on Pen/Copilot icon and choose an option that sounds interesting.
+5. Review the email, noticing the changes. When ready, click on **Replace**.  
+6. Click on Pen/Copilot icon once again and choose a different option, trying different combinations.
 
 ## Exercise 2 - Get coaching on your emails ###
 Everybody is moving fast these days and we tend to write terse messages that lack emotion and emphathy.  Copilot Coaching can help with that.
