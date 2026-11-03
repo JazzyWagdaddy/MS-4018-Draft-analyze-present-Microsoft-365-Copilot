@@ -1,8 +1,5 @@
 # Improve your email workflows with Outlook #
 
-## Background ##
-Imagine you're a project manager at Contoso, a mid-sized company. You're gearing up for the highly anticipated launch of your new product, Contoso Connect. This innovative product promises to revolutionize the way businesses connect and collaborate. To ensure a smooth launch, you need to coordinate a team meeting to discuss the final preparations. Then, you can use Copilot in Microsoft Teams to record the meeting and track action items.
-
 
 ## Exercises
 Please complete the following exercises as part of this lab:
