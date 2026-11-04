@@ -23,7 +23,7 @@ You will also practice a reusable prompting pattern:
 ## Before you begin — 3 minutes
 
 - Open Microsoft Word and create a blank document.
-- Confirm that Copilot is available in Word under your university's license and settings.
+- Click on **File** then **Account**. In the middle of your screen, click on **Update Options**, then **Update Now**.
 - Keep this lab open in another browser tab.
 - Use only the fictional content included below.
 - Do not enter student records, personnel information, research data, confidential material, or other regulated information unless your university's policies allow it.
