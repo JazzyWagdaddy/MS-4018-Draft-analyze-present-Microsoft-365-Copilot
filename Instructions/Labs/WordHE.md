@@ -65,7 +65,7 @@ Use Copilot to draft a faculty-and-staff announcement introducing the Focus Bloc
 
 ### Step 1: Start with a basic prompt
 
-- Ask Copilot in Word:
+- Open Copilot in Word and then run the prompt:
 
 ```
 Draft an announcement about the Focus Blocks pilot using the planning notes in this document.
