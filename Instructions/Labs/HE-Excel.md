@@ -170,7 +170,7 @@ Copilot in Excel with Python can help you run a statistical forecast without wri
    and any seasonal pattern the model cannot reliably establish.
    ```
 
-2. Review the generated Python code, forecast worksheet, chart, and model diagnostics.
+2. Review the generated Python code, forecast worksheet, chart, and model diagnostics.  Note this may take a few moments for Copilot to process your prompt and generate a response.
 3. Check whether Copilot explains:
 
    - Which forecasting method it selected.
@@ -192,8 +192,7 @@ A forecast is an estimate, not a commitment or guaranteed outcome. University le
 
 The Analyst agent provides a chat-based way to investigate patterns across files before developing or revising a workbook.
 
-1. Open Copilot Chat.
-2. Select the **Analyst** agent from the left navigation, if it is available.
+1. Open Copilot Chat, and then select the **Analyst** agent from the left navigation.
 3. Select the **+** icon and attach **Lakeside University Student Support Trends.xlsx** from OneDrive.
 4. Enter and submit the following prompt:
 
