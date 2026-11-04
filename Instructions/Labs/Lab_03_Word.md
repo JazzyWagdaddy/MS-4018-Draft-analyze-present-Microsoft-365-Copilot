@@ -83,14 +83,13 @@ Let's see this transformation in action.
 ```
 Visualize as a table
 ```
-The result looks great, overall, but let's make sure there's a column for when the task is successfully completed.
 
-5. Type
+5. The result looks great, overall, but let's make sure there's a column for when the task is successfully completed. Enter:
 ```
    Add a third column, Task Completed, to the table
    ```
    
-6. Select **Done** to insert the table into your document.
+6. Select **Done** to update the table in your document.
 
 7. Review the table format and make any necessary adjustments.  You may want to ask Copilot to add color banding to the table, and don't forget to tell Copilot what your favorite colors are.  Click **Done** when complete.  
 
