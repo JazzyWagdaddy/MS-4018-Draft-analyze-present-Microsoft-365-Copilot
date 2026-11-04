@@ -192,7 +192,7 @@ A forecast is an estimate, not a commitment or guaranteed outcome. University le
 
 The Analyst agent provides a chat-based way to investigate patterns across files before developing or revising a workbook.
 
-1. Open a browser and go to **https://m365.cloud.microsoft**.
+1. Open Copilot Chat.
 2. Select the **Analyst** agent from the left navigation, if it is available.
 3. Select the **+** icon and attach **Lakeside University Student Support Trends.xlsx** from OneDrive.
 4. Enter and submit the following prompt:
