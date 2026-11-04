@@ -106,7 +106,7 @@ center the text in the table
 
 As you complete your document, you want to ensure that your key points are presented clearly. A good way to do this is to see a summary of the document. Likewise, should you receive a large Word document that you don't have time to read in its entirety, the summary feature is key. Let's create a summary at the end of our document.
 
-1. Open the Copilot pane and enter the following prompt:
+1. In the Copilot pane and enter the following prompt:
 
 ```
 Summarize this document. Highlight the top three points made 
