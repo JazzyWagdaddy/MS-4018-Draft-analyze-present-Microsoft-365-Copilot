@@ -323,28 +323,4 @@ Create a new sheet with a simple student support planning dashboard that include
 Review the workbook for missing definitions, inconsistent units, incomplete periods, or other data-quality issues that could affect interpretation. Create a table with Issue, Evidence, Potential impact, and Recommended correction. Do not change the data yet.
 ```
 
-## Facilitator notes
 
-- Keep the scenario fictional and use aggregated data only.
-- Ask learners to explain the difference between a pattern, an interpretation, a forecast, and a decision.
-- Reinforce that high service demand does not automatically demonstrate service quality, student outcomes, or employee performance.
-- Encourage learners to verify calculations and chart labels directly in the workbook.
-- If learners receive different results, compare the prompts, selected data ranges, term definitions, and assumptions.
-- If Copilot with Python or the Analyst agent is unavailable, demonstrate the prompt and discuss what a responsible output should contain.
-- Remind learners that university policy, privacy requirements, records-management practices, and appropriate-use guidance apply when working with institutional data.
-
-## Suggested timing
-
-| Segment | Time |
-| --- | --- |
-| Setup and scenario | 3 minutes |
-| Exercise 1: Explore the data | 4 minutes |
-| Exercise 2: Identify demand trends | 4 minutes |
-| Exercise 3: Compare services | 5 minutes |
-| Exercise 4: Forecast with Python | 5 minutes |
-| Exercise 5: Explore with Analyst | 4 minutes |
-| Exercise 6: Generate insights | 4 minutes |
-| Wrap-up | 1 minute |
-| **Total** | **30 minutes** |
-
-**End of Lab**
