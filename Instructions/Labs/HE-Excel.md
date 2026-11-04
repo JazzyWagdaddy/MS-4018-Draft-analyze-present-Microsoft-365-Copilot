@@ -46,7 +46,7 @@ Copilot features and interface labels may vary by license, application version, 
 
 ## Sample file
 
-Download or obtain the fictional workbook **Lakeside University Student Support Trends.xlsx**, and save it to your OneDrive folder before beginning.
+Download the **Lakeside University Student Support Trends.xlsx**, and save it to your OneDrive folder before beginning.
 
 The workbook should contain aggregated monthly data with these columns:
 
