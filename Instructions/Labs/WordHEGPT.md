@@ -2,11 +2,6 @@
 
 > A 45-minute, hands-on lab for university faculty and staff
 
-**Level:** Beginner  
-**Format:** Individual hands-on practice or facilitated workshop  
-**Time:** 45 minutes  
-**Product:** Microsoft Word with Microsoft 365 Copilot
-
 In this lab, you will use a fictional university initiative to practice five durable Copilot skills: **create, understand, improve, transform, and evaluate**. All source material is included below, so no separate downloads are required.
 
 > [!IMPORTANT]
@@ -37,14 +32,10 @@ By the end of the lab, you will be able to:
 
 ## Prerequisites
 
-Before the timed lab, confirm that you have:
-
-- Microsoft Word for the web or a current Word desktop app.
-- An institutional Microsoft 365 account with access to Copilot in Word.
-- The **Copilot** control or pane visible in Word. Features and labels may vary by license, platform, app version, and institutional rollout.
-- Permission to create and edit Word documents.
-- This README open beside Word.
-- Your institution's policies for data classification, privacy, records retention, accessibility, and acceptable AI use.
+> [!IMPORTANT]
+> Please complete these steps only if you have not recently updated your version of Office.
+- Open Microsoft Word and create a blank document.
+- Click on **File** then **Account**. In the middle of your screen, click on **Update Options**, then **Update Now**.
 
 Use only the fictional content in this lab. Do not substitute real student, employee, patient, donor, research, legal, or other restricted information during practice.
 
@@ -54,17 +45,6 @@ Use only the fictional content in this lab. Do not substitute real student, empl
 2. Create a blank document named `Copilot-Word-Lab-YourName.docx`.
 3. Open Copilot from the Word canvas, ribbon, or side pane.
 4. If a direction below names a control you do not see, use the Copilot pane and describe the same outcome in the prompt. Do not spend lab time troubleshooting a missing preview feature.
-
-## Lab schedule
-
-| Exercise | Skill | Time | Deliverable |
-|---|---|---:|---|
-| 1 | Create | 10 min | Event announcement |
-| 2 | Understand | 8 min | Grounded briefing note |
-| 3 | Improve | 10 min | Clear, inclusive staff message |
-| 4 | Transform | 7 min | Structured project update |
-| 5 | Evaluate | 10 min | Requirements audit and verified revision |
-|  | **Total** | **45 min** |  |
 
 ## A simple prompt pattern
 
@@ -96,7 +76,7 @@ Microsoft states that commercial Microsoft 365 Copilot honors existing permissio
 
 ---
 
-## Exercise 1 — Create (10 minutes)
+## Exercise 1 — Create 
 
 ### Goal
 
@@ -172,7 +152,7 @@ A short announcement with a clear headline, accurate event details, a practical 
 
 ---
 
-## Exercise 2 — Understand (8 minutes)
+## Exercise 2 — Understand 
 
 ### Goal
 
@@ -219,13 +199,11 @@ Return:
 Do not treat a recommendation, endorsement, estimate, or proposed date as an approved decision. If the document does not answer something, say “Not stated.”
 ```
 
-**Minutes 5–7 — Probe:** Ask one targeted follow-up.
-
 ```text
 What are the three most important questions the decision memo must answer before leaders could responsibly approve this pilot? For each question, point to the source section that makes it necessary.
 ```
 
-**Minutes 7–8 — Verify:** Check the output against the last two source sections.
+
 
 ### Expected outcome
 
@@ -244,7 +222,7 @@ A concise briefing that correctly reports the 127 survey responses, proposed 25-
 
 ---
 
-## Exercise 3 — Improve (10 minutes)
+## Exercise 3 — Improve 
 
 ### Goal
 
@@ -452,43 +430,3 @@ If any answer is unclear, pause and resolve it before sharing.
 > **Skill insight:** Copilot can help find omissions, but it can also miss them. Evaluation needs explicit criteria, source checking, and accountable human approval.
 
 ---
-
-## Wrap-up and resources
-
-### One-minute reflection
-
-Write down:
-
-- one Word task where Copilot could save you time;
-- one type of information you should not place in a prompt without approval; and
-- one verification step you will always keep human-led.
-
-### What good practice looks like
-
-| Skill | Strong habit |
-|---|---|
-| Create | Constrain the draft with audience, source, format, and “do not invent.” |
-| Understand | Separate evidence, recommendations, decisions, and unknowns. |
-| Improve | State what may change and which facts must remain exact. |
-| Transform | Preserve owners, dates, statuses, and uncertainty. |
-| Evaluate | Audit against criteria, verify against sources, and require human approval. |
-
-### Official Microsoft resources
-
-- [Welcome to Copilot in Word](https://support.microsoft.com/en-us/word/welcome-to-copilot-in-word.)
-- [Draft and add content with Copilot in Word](https://support.microsoft.com/en-us/word/copilot/draft-and-add-content-with-copilot-in-word)
-- [What information does Copilot use to answer my prompt?](https://support.microsoft.com/en-us/microsoft-365-copilot/what-information-does-copilot-use-to-answer-my-prompt)
-- [Data, Privacy, and Security for Microsoft Copilot](https://learn.microsoft.com/en-us/microsoft-365-copilot/microsoft-365-copilot-privacy)
-
-## Facilitator notes (optional)
-
-- Test Copilot access, terminology, and feature availability in the institution's tenant before the session.
-- Keep the five exercises to their stated times; setup should be completed before the clock starts.
-- Encourage participants to compare outputs. Variation is expected and is useful for discussion.
-- If Copilot is unavailable, pair participants or have them annotate what a strong output should contain using the verification checklist.
-- Do not ask participants to demonstrate with real student or employee records.
-- Close by reinforcing that fluent prompting is only one skill; source judgment, privacy, accessibility, and verification are equally important.
-
-## License
-
-This lab contains fictional training materials. Before publishing it in a repository, add the license your institution prefers (for example, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) for openly licensed instructional material).
