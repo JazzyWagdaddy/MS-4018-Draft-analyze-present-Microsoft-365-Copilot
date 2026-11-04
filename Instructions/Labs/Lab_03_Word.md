@@ -1,5 +1,15 @@
 # Draft, improve, and share your document with Copilot in Word
 
+In the lab you will complete the following exercises:
+
+
+#### Exercise 1 - Draft your content
+#### Exercise 2 - Convert text to a table
+#### Exercise 3 - Summarize your document
+#### Exercise 4 - How Readable is the document?
+#### Exercise 5 - Refine the result through conversation — 5 minutes
+
+
 ## Sample file
 
 Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that reference this file. Please download the following file:
@@ -12,6 +22,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 - Open Microsoft Word and create a blank document.
 - Click on **File** then **Account**. In the middle of your screen, click on **Update Options**, then **Update Now**.
 
+-----
 ### Exercise 1 - Draft your content
 
 Let's create a project report using the Market Analysis you've already gathered. Then, we can edit this file to get the content we need for our report.
@@ -63,6 +74,7 @@ The tone of this paragraph should be professional and engaging.
 
 11. Review the changes, then click **Done**.
 
+-----
 ### Exercise 2 - Convert text to a table
 
 While the content in your document may be accurate, consider its readability. Would a section work better if it was presented as a table? Copilot can easily convert text into a table using a prompt.
@@ -102,6 +114,8 @@ Add cobalt blue to the header row and pink banding to every other row
 center the text in the table
 ```
 
+-----
+
 ### Exercise 3 - Summarize your document
 
 As you complete your document, you want to ensure that your key points are presented clearly. A good way to do this is to see a summary of the document. Likewise, should you receive a large Word document that you don't have time to read in its entirety, the summary feature is key. Let's create a summary at the end of our document.
@@ -109,22 +123,25 @@ As you complete your document, you want to ensure that your key points are prese
 1. In the Copilot pane and enter the following prompt:
 
 ```
-Summarize this document. Highlight the top three points made 
+Summarize this document. Highlight the top three points made and place the summary in the document.
 ```
 
-1. Review the generated summary, and then experiment with any options Copilot may suggest by taking the Action Items from Copilot and turning them into prompts.
+2. Review the generated summary, and then experiment with any options Copilot may suggest by taking the Action Items from Copilot and turning them into prompts.
 
+-----
 ### Exercise 4 - How Readable is the document?
 
 Ok, great, Copilot generated all the content. Neat stuff.  How do I make sure it's readable for my target audience?  Ask Copilot!
 
 ```
-review this document and provide suggestions and improvements if executives are the target audience.
+Review this document and provide suggestions and improvements if executives are the target audience.
 ```
 
 Review the suggestions and apply any changes that you'd like.
 
-### Exercise 5 - Refine the result through conversation — 5 minutes
+-----
+
+### Exercise 5 - Refine the result through conversation
 
 A strong prompting workflow is usually a conversation, not one perfect prompt. Keep working in the same chat so Copilot can use the result you just created.
 
