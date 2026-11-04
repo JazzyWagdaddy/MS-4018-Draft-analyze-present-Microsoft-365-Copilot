@@ -1,7 +1,5 @@
 # Microsoft 365 Copilot in Word: Five Practical Hands-On Labs for Higher Education
 
-A beginner-friendly, designed for **university faculty and staff**, and each exercise takes approximately **5–8 minutes**. All exercises use the same fictional university scenario so learners can focus on Word and prompting skills.
-
 ## What you will learn
 
 By the end of this lab, you will be able to use Copilot in Word to:
@@ -21,12 +19,15 @@ You will also practice a reusable prompting pattern:
 - **Follow-up:** What should Copilot check, correct, or transform next?
 
 ## Before you begin — 3 minutes
-
+> [!IMPORTANT]
+> Please complete these steps only if you have not recently updated your version of Office.
 - Open Microsoft Word and create a blank document.
 - Click on **File** then **Account**. In the middle of your screen, click on **Update Options**, then **Update Now**.
-- Keep this lab open in another browser tab.
-- Use only the fictional content included below.
-- Do not enter student records, personnel information, research data, confidential material, or other regulated information unless your university's policies allow it.
+
+### Please Note
+Keep this lab open in another browser tab.
+Use only the fictional content included below.
+Do not enter student records, personnel information, research data, confidential material, or other regulated information unless your university's policies allow it.
 
 Copilot experiences may vary by license, application version, and university configuration. If a referenced option is unavailable, paste the supplied text into the document and use the Copilot experience available in your version of Word.
 
@@ -38,7 +39,7 @@ You will use the same scenario in all five exercises. Keep your work in one Word
 
 ## Fictional source material
 
-Copy the following material into your Word document under the heading **Focus Blocks Planning Notes**. You will use it throughout the lab.
+- Copy the following material into your Word document under the heading **Focus Blocks Planning Notes**. You will use it throughout the lab.
 
 ```
 **FOCUS BLOCKS PLANNING NOTES**  
@@ -64,13 +65,13 @@ Use Copilot to draft a faculty-and-staff announcement introducing the Focus Bloc
 
 ### Step 1: Start with a basic prompt
 
-Ask Copilot in Word:
+- Ask Copilot in Word:
 
 ```
 Draft an announcement about the Focus Blocks pilot using the planning notes in this document.
 ```
 
-Insert the response beneath a new heading called **Draft 1 — Faculty and Staff Announcement**.
+- Insert the response beneath a new heading called **Draft 1 — Faculty and Staff Announcement**.
 
 ### Step 2: Inspect the first draft
 
