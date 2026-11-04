@@ -41,10 +41,7 @@ Use only the fictional content in this lab. Do not substitute real student, empl
 
 ### Quick setup
 
-1. Open Word and sign in with your institutional account.
-2. Create a blank document named `Copilot-Word-Lab-YourName.docx`.
-3. Open Copilot from the Word canvas, ribbon, or side pane.
-4. If a direction below names a control you do not see, use the Copilot pane and describe the same outcome in the prompt. Do not spend lab time troubleshooting a missing preview feature.
+
 
 ## A simple prompt pattern
 
@@ -87,6 +84,10 @@ Create a first-draft announcement from a factual event brief, then refine it wit
 The fictional **Center for Teaching and Learning (CTL)** is launching a workshop for employees who prepare course materials. You need an announcement for the university intranet.
 
 ### Source: event brief
+1. Open Word and sign in with your institutional account.
+2. Create a blank document named `Copilot-Word-Lab-YourName.docx`.
+3. Open Copilot from the Word canvas, ribbon, or side pane.
+4. If a direction below names a control you do not see, use the Copilot pane and describe the same outcome in the prompt. Do not spend lab time troubleshooting a missing preview feature.
 
 Copy this brief into your lab document under the heading `Exercise 1 — Source`.
 
