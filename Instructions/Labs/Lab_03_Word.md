@@ -128,7 +128,7 @@ Summarize this document. Highlight the top three points made and place the summa
 2. Review the generated summary, and then experiment with any options Copilot may suggest by taking the Action Items from Copilot and turning them into prompts.
 
 -----
-### Exercise 4 - How Readable is the document?
+### Exercise 4 - How readable is the document?
 
 Ok, great, Copilot generated all the content. Neat stuff.  How do I make sure it's readable for my target audience?  Ask Copilot!
 
