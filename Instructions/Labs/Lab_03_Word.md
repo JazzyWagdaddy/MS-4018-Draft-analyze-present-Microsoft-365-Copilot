@@ -133,20 +133,6 @@ Summarize this document. Highlight the top three points made and place the summa
 
 Ok, great, Copilot generated all the content. Neat stuff.  How do I make sure it's readable for my target audience?  Ask Copilot!
 
-```
-Review this document and provide suggestions and improvements if executives are the target audience.
-```
-
-Review the suggestions and apply any changes that you'd like.
-
------
-
-### Exercise 5 - Refine the result through conversation
-
-A strong prompting workflow is usually a conversation, not one perfect prompt. Keep working in the same chat so Copilot can use the result you just created.
-
-### Step 1: Ask Copilot to critique its work
-
 ```text
 Critique this document as an experienced editor. Evaluate its organization, clarity, accuracy, tone, grammar, repetition, and
 suitability for the intended audience. Identify what works well and what needs improvement.
@@ -160,47 +146,10 @@ Missing or unclear information
 Five highest-priority revisions
 ```
 
-### Step 2: Correct the weak spots
+### Step 2:  Adapt the output for a different audience
 
-Review the checklist. Then run:
-
-```text
-Revise the agenda to fix every item marked partially covered or missing.
-
-Keep the original table structure. After the revised agenda, add a short section called "What changed" that identifies the corrections you made.
 ```
-
-### Step 3: Adapt the output for a different audience
-
-Choose **one** final challenge.
-
-#### Option A — Executive summary
-
-```text
-Turn the revised agenda into an executive summary for a department leader.
-
-Keep it under 150 words. Emphasize the business purpose, employee benefit, major risk, and decision needed. Use a confident, concise tone.
-```
-
-#### Option B — Employee announcement
-
-```text
-Turn the revised agenda into an employee announcement.
-
-Keep it under 200 words. Explain why employees should participate, what they will experience, and what they should do next. Use a friendly, energetic tone.
-```
-
-#### Option C — Facilitator checklist
-
-```text
-Turn the revised agenda into a facilitator checklist.
-
-Organize it into:
-- Before the event
-- During the event
-- After the event
-
-Use action verbs, include the responsible role when it is known, and mark unknown owners as "Owner needed."
+Rewrite this document to target the faculty and staff of a university
 ```
 
 ## End of Lab  ##
