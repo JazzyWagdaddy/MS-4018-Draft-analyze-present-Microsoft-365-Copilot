@@ -25,28 +25,34 @@ Create a project report that includes an executive summary, introduction, produc
 Use the linked document as a content resource
 ```
    
-4. Add the document reference to your prompt by manually entering a forward slash followed by the document name: **/Promotion Plan for Chai Tea in Latin America.docx**. If the document does not appear from your MRU or Most Recently Used list, you can select **Reference a file** and the file from the dropdown list once it is available in OneDrive.
+4. Add the document reference to your prompt by manually entering a forward slash followed by the document name: **/Market Analysis Report for Mystic Spice Premium Chai Tea**. If the document does not appear from your MRU or Most Recently Used list, you can select **Reference a file** and the file from the dropdown list once it is available in OneDrive.
 
- ![new](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/Market Analysis.png)
+ ![new](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/MarketAnalysis.png)
    
-5. Click on the *Send* button, wait for Copilot to render, click *Done*, and then review the drafted content.
+5. Click on the *Send* button, wait for Copilot to render, and then click **Done**.  Review the drafted content.
 
 > [!Note]
 > You can fine tune the draft created by adding some detail and regenerating.  In the Copilot Chat pane, you can:
 > 
-> *Make it sound like Snoop Dogg*
-> 
-> *Make it sound like a tv newscaster*
-> 
-> *Make it shorter and casual*
->
-> If you examine any of these changes, click *Undo* to discard your recently generated content.
+```
+Make it sound like Snoop Dogg
+```
+
+```
+Make it sound like a tv newscaster
+```
+ 
+```
+Make it shorter and casual
+```
+
+> If you make any of these changes, click **Undo** to discard your recently generated content.
 
 6.  As you're reviewing the content of your document, you may find that some text needs to be edited or rewritten. The Product Description section seems to be fairly short, and technical. Let's edit the text so it's more engaging for our readers.
 
-8. Highlight the paragraph, select the **Edit Copilot** icon that appears to the left of the text.
+8. Highlight the Product Description section, select the **Edit with Copilot** icon that appears to the left of the text.
 
-9. Click on the message box and select **Auto Rewrite** from the menu. Copilot generates new content.  Select **Undo** to discard the changes.
+9. Click on the message box and select **Auto Rewrite** from the menu. Copilot generates new content.  Take a moment to review the changes and then select **Undo** to discard the changes.
 
 10. Let's enter a specific prompt to get the results we want. While keeping the same Product Description text highlighted, enter the following into the Chat pane:
 
