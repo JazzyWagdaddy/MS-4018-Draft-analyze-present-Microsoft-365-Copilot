@@ -71,11 +71,9 @@ Use Copilot to draft a faculty-and-staff announcement introducing the Focus Bloc
 Draft an announcement about the Focus Blocks pilot using the planning notes in this document.
 ```
 
-- Insert the response beneath a new heading called **Draft 1 — Faculty and Staff Announcement**.
-
 ### Step 2: Inspect the first draft
 
-Review the draft and ask:
+Review the draft and ask yourself:
 
 - Does it clearly explain what Focus Blocks is?
 - Does it identify who is participating?
@@ -84,16 +82,21 @@ Review the draft and ask:
 - Did Copilot invent a start date, owner, or policy that was not supplied?
 - Is the tone appropriate for faculty and staff?
 
+Notice that most of these key points are not addressed.
+
 ### Step 3: Strengthen the prompt
 
-Run a more specific prompt:
+1. Click **Undo** to revert back to the original document and then run a more specific prompt:
 
 ```PlainText
-Using only the Focus Blocks Planning Notes in this document, draft a faculty-and-staff announcement for the faculty and staff in the College of Arts and Sciences and the Student Success division.
+Using only the Focus Blocks Planning Notes in this document, draft a faculty-and-staff announcement for the faculty and staff
+ in the College of Arts and Sciences and the Student Success division.
 
-Explain the purpose of the four-week pilot, the Tuesday and Thursday focus periods, the expected faculty and staff behavior, and the priority given to classes, student appointments, student-support needs, campus operations, and urgent issues.
+Explain the purpose of the four-week pilot, the Tuesday and Thursday focus periods, the expected faculty and staff behavior,
+and the priority given to classes, student appointments, student-support needs, campus operations, and urgent issues.
 
-Use a practical, positive tone. Organize the announcement with a short title, a two-paragraph explanation, and a bulleted "What faculty and staff should do" section. Keep it under 250 words. If a necessary detail is missing, write "To be confirmed" instead of inventing it.
+Use a practical, positive tone. Organize the announcement with a short title, a two-paragraph explanation, and a bulleted
+"What faculty and staff should do" section. Keep it under 250 words. If a necessary detail is missing, write "To be confirmed" instead of inventing it.
 ```
 
 Insert the result beneath **Draft 2 — Faculty and Staff Announcement**.
