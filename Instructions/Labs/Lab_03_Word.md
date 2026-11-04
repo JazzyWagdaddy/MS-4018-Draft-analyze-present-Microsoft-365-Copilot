@@ -1,4 +1,4 @@
-# Draft, improve, and share your document with Copilot in Word
+# Draft and improve your document with Copilot in Word
 
 In the lab you will complete the following exercises:
 
