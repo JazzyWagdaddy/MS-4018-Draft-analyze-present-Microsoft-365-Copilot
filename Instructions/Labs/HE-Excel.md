@@ -60,7 +60,10 @@ To make useful recommendations, you must first understand what the workbook cont
 4. Enter and submit the following prompt:
 
    ```text
-   Summarize this dataset and provide an overview of the key student support metrics. Identify important patterns in appointment volume, no-show rates, and wait times. Use only the information in this workbook, and clearly label any interpretation that is not directly supported by the data.
+   Summarize this dataset and provide an overview of the key student support metrics.
+   Identify important patterns in appointment volume, no-show rates, and wait times.
+   Use only the information in this workbook, and clearly label any interpretation
+   that is not directly supported by the data.
    ```
 
 5. Review Copilot's response. It may create a new worksheet containing an executive-style summary of important findings, patterns, interpretations, and possible next steps.
@@ -93,7 +96,9 @@ Student support leaders need to understand how demand changes during the academi
 2. Enter and submit the following prompt:
 
    ```text
-   Create a new sheet with a line chart of Total Support Appointments over the months. Add a clear chart title and label the axes. Below the chart, summarize the three most important changes in demand shown by the data.
+   Create a new sheet with a line chart of Total Support Appointments over the months.
+   Add a clear chart title and label the axes.
+   Below the chart, summarize the three most important changes in demand shown by the data.
    ```
 
 3. Review the chart and Copilot's summary.
@@ -115,22 +120,28 @@ University leaders may need to compare Academic Advising and Tutoring to underst
 1. In the Copilot pane, enter and submit the following prompt:
 
    ```text
-   Create a new sheet with a clustered bar chart comparing Academic Advising Appointments and Tutoring Appointments for each month. Use a descriptive title, clearly identify both services, and keep the chart readable for a university leadership audience.
+   Create a new sheet with a clustered bar chart comparing Academic Advising Appointments
+   and Tutoring Appointments for each month. Use a descriptive title,
+   clearly identify both services, and keep the chart readable for a university leadership audience.
    ```
 
-2. Review the chart that Copilot creates.
+2. Review the chart that Copilot creates.  Pretty awesome!
 3. Ask Copilot to compare service use during a defined academic period:
 
    ```text
-   Summarize the total Academic Advising Appointments and Tutoring Appointments during the fall term months included in this workbook. Before calculating, state which months you are treating as the fall term. If the workbook does not define the fall term, ask me to confirm the months instead of assuming.
+   Summarize the total Academic Advising Appointments and Tutoring Appointments during the fall term
+   months included in this workbook. Before calculating, state which months you are treating as the fall term.
+   If the workbook does not define the fall term, ask me to confirm the months instead of assuming.
    ```
 
-4. If Copilot asks you to define the fall term, provide the months specified by your facilitator or the sample workbook documentation.
+4. If Copilot asks you to define the fall term, choose any of the months specified and click **Submit**.
 5. Review the comparison.
 6. Submit this follow-up prompt:
 
    ```text
-   Compare the two services using appointment volume, no-show rate, and average wait time. Present the result in a table. For each conclusion, identify the workbook measure that supports it. Do not rank service quality or staff performance.
+   Compare the two services using appointment volume, no-show rate, and average wait time.
+   Present the result in a table. For each conclusion, identify the workbook measure that supports it.
+   Do not rank service quality or staff performance.
    ```
 
 ### Check your work
@@ -152,7 +163,11 @@ Copilot in Excel with Python can help you run a statistical forecast without wri
 1. In the Copilot pane, submit the following prompt:
 
    ```text
-   Predict next quarter's Academic Advising Appointments and Tutoring Appointments using the most appropriate forecasting method supported by the historical data. Include the forecast, a chart, the method used, and model diagnostics. Explain important limitations, including the number of historical observations and any seasonal pattern the model cannot reliably establish.
+   Predict next quarter's Academic Advising Appointments and Tutoring Appointments using the
+   most appropriate forecasting method supported by the historical data. Include the forecast,
+   a chart, the method used, and model diagnostics.
+   Explain important limitations, including the number of historical observations
+   and any seasonal pattern the model cannot reliably establish.
    ```
 
 2. Review the generated Python code, forecast worksheet, chart, and model diagnostics.
@@ -183,7 +198,11 @@ The Analyst agent provides a chat-based way to investigate patterns across files
 4. Enter and submit the following prompt:
 
    ```text
-   Compare Academic Advising and Tutoring across the year using appointment volume, no-show rate, and average wait time. Identify the strongest supported patterns, explain which measures support each finding, and distinguish observations from possible interpretations. Do not evaluate individual employee performance or infer outcomes for individual students.
+   Compare Academic Advising and Tutoring across the year using appointment volume,
+   no-show rate, and average wait time. Identify the strongest supported patterns,
+   explain which measures support each finding, and distinguish observations from
+   possible interpretations. Do not evaluate individual employee performance or
+   infer outcomes for individual students.
    ```
 
 5. Review the response and compare it with the analysis created in Excel.
