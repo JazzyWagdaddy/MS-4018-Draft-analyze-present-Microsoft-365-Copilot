@@ -1,12 +1,15 @@
 # Draft and improve your document with Copilot in Word
 
-In the lab you will complete the following exercises:
+This lab teaches university faculty and staff how to use Microsoft 365 Copilot in Word to draft, summarize, rewrite, transform, and review professional documents.
 
+## Learning objectives
+By the end of this lab, participants will be able to:
 
-#### Exercise 1 - Draft your content
-#### Exercise 2 - Convert text to a table
-#### Exercise 3 - Summarize your document
-#### Exercise 4 - How Readable is the document?
+1. Draft a new Word document from a short brief using Copilot.
+1. Summarize a longer document for a specific university audience.
+1. Rewrite and improve text for clarity, tone, accessibility, and usefulness.
+1. Transform existing content into a different document format or structure.
+1. Review and refine a document against defined requirements using Copilot.
 
 
 ## Sample file
