@@ -1,19 +1,4 @@
----
-lab:
-  title: "Lab 5: Improve Student Success Decisions with Copilot in Excel"
-  description: "Use Copilot in Excel to explore higher-education data, analyze trends, forecast service demand, and communicate actionable insights."
-  level: "Lab 100"
-  duration: 30
-  islab: true
-  status: released
-  primarytopics:
-    - Microsoft 365
-    - Microsoft Copilot
-    - Higher education
-    - Microsoft Excel
----
-
-# Lab 5 — Improve Student Success Decisions with Copilot in Excel
+# Excel in Higher Education
 
 Imagine you are a student success analyst at **Lakeside University**, a fictional institution. Your responsibility is to help faculty and staff understand how students use academic support services and identify patterns that can improve planning, staffing, and student communication.
 
@@ -46,7 +31,7 @@ Copilot features and interface labels may vary by license, application version, 
 
 ## Sample file
 
-Download the **Lakeside University Student Support Trends.xlsx**, and save it to your OneDrive folder before beginning.
+Download the [Lakeside University Student Support Trends workbook](https://raw.githubusercontent.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/master/Instructions/Labs/Media/Lakeside%20University%20Student%20Support%20Trends.xlsx), and save it to your OneDrive folder before beginning.
 
 The workbook should contain aggregated monthly data with these columns:
 
@@ -82,7 +67,8 @@ To make useful recommendations, you must first understand what the workbook cont
 6. Submit this follow-up prompt:
 
    ```text
-   Create a new sheet with a table showing the key patterns in the data. Include the metric, the observed pattern, the months affected, and why the pattern may matter to university planning. Do not claim that the data proves a cause.
+   Create a new sheet with a table showing the key patterns in the data. Include the metric, the observed pattern,
+   the months affected, and why the pattern may matter to university planning. Do not claim that the data proves a cause.
    ```
 
 7. Review the table that Copilot creates.
