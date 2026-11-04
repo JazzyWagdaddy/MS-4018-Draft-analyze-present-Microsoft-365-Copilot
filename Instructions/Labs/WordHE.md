@@ -1,18 +1,6 @@
 # Microsoft 365 Copilot in Word: Five Practical Hands-On Labs for Higher Education
 
-A beginner-friendly, GitHub-ready lab that teaches five high-value ways to use Copilot in Microsoft Word. The lab is designed for **university faculty and staff**, and each exercise takes approximately **5–8 minutes**. All exercises use the same fictional university scenario so learners can focus on Word and prompting skills.
-
-## Lab at a glance
-
-| Item | Details |
-| --- | --- |
-| Audience | University faculty and staff who are new or occasional Microsoft 365 Copilot users |
-| Total duration | 30–40 minutes |
-| Format | Individual hands-on lab |
-| Experience needed | Basic familiarity with Microsoft Word |
-| Product | Microsoft Word with Copilot |
-| Exercises | Five, each designed for 5–8 minutes |
-| Outcome | Draft, summarize, rewrite, transform, and review higher-education documents with Copilot |
+A beginner-friendly, designed for **university faculty and staff**, and each exercise takes approximately **5–8 minutes**. All exercises use the same fictional university scenario so learners can focus on Word and prompting skills.
 
 ## What you will learn
 
@@ -52,17 +40,19 @@ You will use the same scenario in all five exercises. Keep your work in one Word
 
 Copy the following material into your Word document under the heading **Focus Blocks Planning Notes**. You will use it throughout the lab.
 
-> **FOCUS BLOCKS PLANNING NOTES**  
-> Pilot length: Four weeks  
-> Participants: faculty and staff in the College of Arts and Sciences and the Student Success division  
-> Working hours covered: Regular working hours in each participating unit  
-> Proposed focus period: Tuesdays and Thursdays, 9:30 a.m. to 11:00 a.m. local time  
-> During focus periods, participants should avoid scheduling nonessential internal meetings and pause non-urgent notifications when practical.  
-> Classes, scheduled student appointments, student support needs, campus operations, and urgent issues take priority.  
-> Department chairs and unit managers will collect short participant feedback at the end of weeks two and four.  
-> The pilot will be evaluated using participant feedback, the number of nonessential internal meetings scheduled during focus periods, and examples of teaching, research, student-support, or administrative work completed during uninterrupted time.  
-> University leaders want the announcement to be practical and positive, without suggesting that collaboration, meetings, or student communication are unhelpful.  
-> Open questions: Who will compile the pilot results? How will exceptions be documented? What date will the pilot begin?
+```
+**FOCUS BLOCKS PLANNING NOTES**  
+Pilot length: Four weeks  
+Participants: faculty and staff in the College of Arts and Sciences and the Student Success division  
+Working hours covered: Regular working hours in each participating unit  
+Proposed focus period: Tuesdays and Thursdays, 9:30 a.m. to 11:00 a.m. local time  
+During focus periods, participants should avoid scheduling nonessential internal meetings and pause non-urgent notifications when practical.  
+Classes, scheduled student appointments, student support needs, campus operations, and urgent issues take priority.  
+Department chairs and unit managers will collect short participant feedback at the end of weeks two and four.  
+The pilot will be evaluated using participant feedback, the number of nonessential internal meetings scheduled during focus periods, and examples of teaching, research, student-support, or administrative work completed during uninterrupted time.  
+University leaders want the announcement to be practical and positive, without suggesting that collaboration, meetings, or student communication are unhelpful.  
+Open questions: Who will compile the pilot results? How will exceptions be documented? What date will the pilot begin?
+```
 
 ---
 
@@ -76,7 +66,7 @@ Use Copilot to draft a faculty-and-staff announcement introducing the Focus Bloc
 
 Ask Copilot in Word:
 
-```PlainText
+```
 Draft an announcement about the Focus Blocks pilot using the planning notes in this document.
 ```
 
