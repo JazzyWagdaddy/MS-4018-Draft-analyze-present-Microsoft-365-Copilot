@@ -303,19 +303,23 @@ If time allows, try one or more of these prompts:
 ### Examine no-show patterns
 
 ```text
-Create a chart comparing the Advising No-Show Rate and Tutoring No-Show Rate by month. Identify the largest changes, but do not speculate about student motivation or causes that are not present in the workbook.
+Create a chart comparing the Advising No-Show Rate and Tutoring No-Show Rate by month.
+Identify the largest changes, but do not speculate about student motivation or causes that are not present in the workbook.
 ```
 
 ### Explore wait times
 
 ```text
-Create a table comparing average wait times for Academic Advising and Tutoring. Highlight months in which either service exceeded its annual median wait time, and explain how you calculated the median.
+Create a table comparing average wait times for Academic Advising and Tutoring.
+Highlight months in which either service exceeded its annual median wait time, and explain how you calculated the median.
 ```
 
 ### Build a planning dashboard
 
 ```text
-Create a new sheet with a simple student support planning dashboard that includes total appointments, average no-show rates, average wait times, monthly demand trends, and the next-quarter forecast. Use clear labels and include a note that the data is fictional and aggregated.
+Create a new sheet with a simple student support planning dashboard that includes total appointments,
+average no-show rates, average wait times, monthly demand trends, and the next-quarter forecast.
+Use clear labels and include a note that the data is fictional and aggregated.
 ```
 
 ### Review the workbook for decision readiness
