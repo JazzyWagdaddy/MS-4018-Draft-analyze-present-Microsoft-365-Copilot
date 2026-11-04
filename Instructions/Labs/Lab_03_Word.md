@@ -7,7 +7,6 @@ In the lab you will complete the following exercises:
 #### Exercise 2 - Convert text to a table
 #### Exercise 3 - Summarize your document
 #### Exercise 4 - How Readable is the document?
-#### Exercise 5 - Refine the result through conversation — 5 minutes
 
 
 ## Sample file
