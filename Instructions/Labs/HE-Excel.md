@@ -179,8 +179,7 @@ Copilot in Excel with Python can help you run a statistical forecast without wri
    - The predicted values for each service.
    - The uncertainty or limitations of the forecast.
 
-4. Select **Done** to confirm the changes, if prompted.
-5. Save the workbook because you will use the updated file in the next exercise.
+4. Select **Done** to confirm the changes, and then save the workbook because you will use the updated file in the next exercise.
 
 ### Responsible-use checkpoint
 
@@ -208,7 +207,9 @@ The Analyst agent provides a chat-based way to investigate patterns across files
 6. Ask the following follow-up question:
 
    ```text
-   Which conclusions are supported directly by the workbook, which conclusions require additional university context, and what additional aggregated data would be useful before making a staffing or service-planning decision?
+   Which conclusions are supported directly by the workbook, which conclusions require
+   additional university context, and what additional aggregated data would be useful
+   before making a staffing or service-planning decision?
    ```
 
 ### Compare the experiences
