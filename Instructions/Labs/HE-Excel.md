@@ -180,6 +180,7 @@ Copilot in Excel with Python can help you run a statistical forecast without wri
    - The uncertainty or limitations of the forecast.
 
 4. Select **Done** to confirm the changes, and then save the workbook because you will use the updated file in the next exercise.
+5. Close Excel.
 
 ### Responsible-use checkpoint
 
