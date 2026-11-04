@@ -148,15 +148,16 @@ A strong prompting workflow is usually a conversation, not one perfect prompt. K
 ### Step 1: Ask Copilot to critique its work
 
 ```text
-Review the agenda against every requirement in the planning notes.
+Critique this document as an experienced editor. Evaluate its organization, clarity, accuracy, tone, grammar, repetition, and
+suitability for the intended audience. Identify what works well and what needs improvement.
+Provide specific examples from the document and recommend precise changes.
+Do not rewrite the document yet. Organize your response into:
 
-Create a checklist showing:
-- Requirement
-- Covered, partially covered, or missing
-- Where it appears in the agenda
-- Recommended correction
-
-Do not rewrite the agenda yet.
+Overall assessment
+Strengths
+Areas for improvement
+Missing or unclear information
+Five highest-priority revisions
 ```
 
 ### Step 2: Correct the weak spots
