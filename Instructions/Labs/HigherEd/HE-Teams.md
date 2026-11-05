@@ -436,38 +436,6 @@ You have completed this exercise when Copilot has identified weaknesses before e
 
 ---
 
-## Wrap-up — 3 minutes
-
-You used Copilot in Teams for five connected tasks:
-
-| Use | What you practiced |
-| --- | --- |
-| Catch up | Summarized a conversation for a new working-group member |
-| Organize | Separated decisions, proposals, questions, and action items |
-| Prepare | Created a time-bounded, decision-focused meeting agenda |
-| Communicate | Drafted follow-up messages for two audiences |
-| Verify | Checked outputs against the original conversation and outcomes |
-
-The most useful prompts in this lab combined a clear goal, relevant campus context, a defined source, explicit output expectations, and follow-up instructions. A longer prompt is not automatically better; the best prompt is the one that helps Copilot produce a useful, accurate, appropriately scoped result.
-
-## Reusable prompt template for Teams
-
-```text
-GOAL: [State what you want Copilot to summarize, extract, draft, compare, or check.]
-
-CONTEXT: [Explain the campus purpose, audience, and situation.]
-
-SOURCE: [Identify the Teams conversation, meeting information, or pasted text Copilot should use.]
-
-EXPECTATIONS: [Specify the structure, tone, length, status labels, and constraints.]
-
-GAPS: If required information is missing, [state how Copilot should label or handle it].
-
-PRIVACY: [State what protected or sensitive information must not be included or inferred.]
-
-FOLLOW-UP: [State what Copilot should verify, correct, transform, or adapt next.]
-```
-
 ## Exercise 6 - Use an existing Teams meeting
 
 ### Step 1 - Recap a Meeting
