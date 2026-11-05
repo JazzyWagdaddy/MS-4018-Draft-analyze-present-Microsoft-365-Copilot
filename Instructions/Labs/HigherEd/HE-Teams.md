@@ -469,7 +469,11 @@ use option 1 and open in outlook
 ```
    List action items from a meeting
    ```
-2. Experiment with the follow-up prompts that Copilot suggests.
+2. Customize this prompt:
+```
+   Write a 3-bullet update about this meeting I can send to my manager
+```
+3. Experiment with the follow-up prompts that Copilot suggests.
  
 ### Step 4 - Find action items from any meeting assign to you.
 1. Open a new Copilot Chat window within Teams.
