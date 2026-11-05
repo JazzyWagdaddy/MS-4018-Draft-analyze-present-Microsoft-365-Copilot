@@ -303,7 +303,8 @@ For this exercise, assume the following **fictional meeting outcomes**:
 FICTIONAL MEETING OUTCOMES
 
 - Daniel will own the Start Here guide during the four-week pilot.
-- Priya proposed Tuesday at 3:00 p.m. and Thursday at noon for the two online tutoring orientations. Facilitators are still to be confirmed.
+- Priya proposed Tuesday at 3:00 p.m. and Thursday at noon for the two online tutoring orientations. 
+Facilitators are still to be confirmed.
 - The associate dean approved October 6 as the pilot start date.
 - The associate dean will approve the student-facing message.
 - Maya will create the optional feedback form.
