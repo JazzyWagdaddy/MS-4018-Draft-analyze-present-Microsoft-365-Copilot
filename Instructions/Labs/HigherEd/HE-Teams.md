@@ -467,7 +467,7 @@ use option 1 and open in outlook
 ### Step 3 - List action items from a meeting.
 1. Click on or enter this prompt, then hit send.
 ```
-   List action items from a meeting
+   List action items from the meeting
    ```
 2. Customize this prompt:
 ```
