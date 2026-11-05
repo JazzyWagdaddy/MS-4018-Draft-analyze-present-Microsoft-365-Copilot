@@ -264,10 +264,3 @@ What are my open action items from this week?
 
 ---
 
-## 🧑‍🏫 Facilitator Notes
-
-- **Before class:** Confirm every learner has a Copilot license and that the tenant allows meeting transcription. Test the Recap tab yourself a day ahead.
-- **Recap delay:** Recaps can take several minutes. Exercise 5 is a deliberate buffer. Send people back to Exercise 4 once the recap appears.
-- **No-license fallback:** Pair unlicensed learners with licensed ones as "co-pilots of the Copilot."
-- **Socratic moves:** Don't answer the 🤔 questions for learners. Ask "What makes you say that?" and let the room argue it out.
-- **Privacy note:** Remind learners that transcription notifies everyone in the meeting, and that their org's policies on recording still apply.
