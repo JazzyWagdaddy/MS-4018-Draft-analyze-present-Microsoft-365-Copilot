@@ -111,9 +111,9 @@ Cost: No cost to participants
 
 ### Do the task
 
-**Minutes 0–2 — Prepare:** Read the brief and identify the missing registration link. Place your cursor below the source, open Copilot, and choose a drafting option if one is offered.
+1. Read the brief and identify the missing registration link. Place your cursor below the source, open Copilot, and choose a drafting option if one is offered.
 
-**Minutes 2–6 — Generate:** Copy and submit this prompt.
+1. Copy and submit this prompt.
 
 ```text
 Using only the event brief in this document, draft a 220–260 word intranet announcement for university faculty and staff.
@@ -128,13 +128,13 @@ Include:
 Use a welcoming, professional, inclusive tone and plain language. Preserve the date, time, format, hosts, capacity, deadline, contact, and cost exactly. Do not invent a registration URL or any other missing fact. Mark missing information as [CONFIRM: description].
 ```
 
-**Minutes 6–8 — Refine:** Inspect the draft. If the value to participants is vague, use this follow-up prompt.
+1. Inspect the draft. If the value to participants is vague, use this follow-up prompt.
 
 ```text
 Revise the opening so the practical benefit is clear to a busy instructor. Keep every factual detail unchanged, avoid exaggerated claims, and keep the complete announcement under 260 words.
 ```
 
-**Minutes 8–10 — Verify:** Compare the draft with the source brief.
+1. Compare the draft with the source brief.
 
 ### Expected outcome
 
@@ -184,9 +184,9 @@ The Faculty Learning Committee endorsed continued planning but did not approve t
 
 ### Do the task
 
-**Minutes 0–2 — Orient:** Read the headings, but do not study every sentence. Open Copilot in **chat-only** or question-and-answer mode so it does not edit the source.
+1. Read the headings, but do not study every sentence. Open Copilot in **chat-only** or question-and-answer mode so it does not edit the source.
 
-**Minutes 2–5 — Ask:** Submit this prompt.
+1. Submit this prompt.
 
 ```text
 Using only the working group update in this document, prepare a briefing for a department chair.
@@ -241,9 +241,9 @@ Everyone needs to fix their documents ASAP because our spot check found lots of 
 
 ### Do the task
 
-**Minutes 0–2 — Diagnose:** Before using Copilot, note two problems with the message. Consider tone, sentence length, jargon, scannability, or unclear responsibility.
+1. Before using Copilot, note two problems with the message. Consider tone, sentence length, jargon, scannability, or unclear responsibility.
 
-**Minutes 2–6 — Rewrite:** With the message selected, choose **Rewrite**, **Edit with Copilot**, or use the Copilot pane. Submit:
+1. With the message selected, choose **Rewrite**, **Edit with Copilot**, or use the Copilot pane. Submit:
 
 ```text
 Rewrite the selected message for faculty and staff participating in the spring accessibility review.
@@ -260,13 +260,13 @@ Requirements:
 Keep the message between 140 and 190 words.
 ```
 
-**Minutes 6–8 — Critique:** Do not accept the rewrite immediately. Ask:
+1. Do not accept the rewrite immediately. Ask:
 
 ```text
 Review your proposed rewrite as an editor. List any source fact that changed, any action whose owner is unclear, any jargon that remains, and any sentence that may sound punitive. Do not revise yet.
 ```
 
-**Minutes 8–10 — Decide and verify:** Accept only useful changes or manually combine the best parts. Keep the rough source for comparison.
+1. Accept only useful changes or manually combine the best parts. Keep the rough source for comparison.
 
 ### Expected outcome
 
@@ -314,9 +314,9 @@ Present: Maya Chen (CTL), Luis Romero (Digital Accessibility), Priya Shah (Libra
 
 ### Do the task
 
-**Minutes 0–1 — Prepare:** Select the meeting notes and open Copilot.
+1. Select the meeting notes and open Copilot.
 
-**Minutes 1–4 — Transform:** Submit:
+1. Submit:
 
 ```text
 Transform the selected meeting notes into a concise project status update.
@@ -331,7 +331,7 @@ Use these sections:
 Use only the notes. Keep targets distinct from approved deadlines. If an owner or due date is missing, write “Unassigned” or “Not agreed”; do not infer one. Preserve names, dates, capacity, and the distinction between suggestions and decisions.
 ```
 
-**Minutes 4–7 — Verify and format:** Compare every row with the notes. Use Word heading and table styles if Copilot did not apply them.
+1. Compare every row with the notes. Use Word heading and table styles if Copilot did not apply them.
 
 ### Expected outcome
 
@@ -378,7 +378,7 @@ The announcement must:
 
 ### Do the task
 
-**Minutes 0–4 — Audit:** Open Copilot in chat-only mode first. Submit:
+1. Open Copilot in chat-only mode first. Submit:
 
 ```text
 Evaluate the Exercise 1 announcement against all nine items in the University Event Communications Checklist.
@@ -388,19 +388,19 @@ Create a table with the columns Requirement, Rating, Evidence from draft, and Re
 After the table, list every factual claim in the announcement that should be checked against the event brief. Flag any claim that the brief does not support.
 ```
 
-**Minutes 4–7 — Challenge:** Check whether the audit itself is accurate. Then submit:
+1. Check whether the audit itself is accurate. Then submit:
 
 ```text
 Now act as a skeptical university communications reviewer. Identify the three highest-risk problems that could cause confusion, exclude a reader, expose confidential information, or misstate a commitment. Explain each risk in one sentence. If there are fewer than three supported problems, say so rather than inventing one.
 ```
 
-**Minutes 7–9 — Revise:** Ask for a revision only after reviewing the audit.
+1. Ask for a revision only after reviewing the audit.
 
 ```text
 Propose a revised announcement that addresses only the verified gaps in the audit. Preserve every fact from the event brief. Keep [CONFIRM: registration link] visible, do not invent information, and keep the announcement between 220 and 260 words. Show the revision as a draft for my approval rather than treating it as final.
 ```
 
-**Minutes 9–10 — Human sign-off:** Perform the checks below. Do not share or publish the announcement during the lab.
+1. Perform the checks below. Do not share or publish the announcement during the lab.
 
 ### Expected outcome
 
