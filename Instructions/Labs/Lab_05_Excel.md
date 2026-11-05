@@ -51,7 +51,6 @@ As a sales manager, you need to identify trends in the sales data to make inform
 ```
     Highlight the three months with the highest total sales
 ```
-1. **Apply** the conditional formatting rule. Copilot highlights the cells as directed.
 
 ## Exercise 3 - Compare product sales
 
