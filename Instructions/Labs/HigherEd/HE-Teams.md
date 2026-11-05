@@ -436,7 +436,7 @@ You have completed this exercise when Copilot has identified weaknesses before e
 
 ---
 
-## Exercise 6 - Use an existing Teams meeting
+## Exercise 6 - Gain insights from an existing Teams meeting
 
 ### Step 1 - Recap a Meeting
 1. Find an existing Teams meeting that was recorded.  If you do not have this available, please conclude the lab at this time.
@@ -452,5 +452,15 @@ Draft a follow-up message for participants
 ```
 use option 1 and open in outlook
 ```
-
-
+### Step 3 - List action items from a meeting
+1. Click on or enter this prompt, then hit send.
+```
+   List action items from a meeting
+   ```
+### Step 4 - Find action items from any meeting assign to you
+1. Open a new Copilot Chat window within Teams.
+2. Enter this prompt:
+```
+Do I have any action items or follow-ups from any meetings this week?
+List them by due date and then draft a follow-up response in Chat.
+```
