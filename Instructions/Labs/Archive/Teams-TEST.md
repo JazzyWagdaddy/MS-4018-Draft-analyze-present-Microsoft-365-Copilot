@@ -219,34 +219,6 @@ Write a short, upbeat message inviting my team to a 15-minute stand-up on Monday
 
 ---
 
-## Exercise 6 — Debrief: The 4Ds 🧠 (4 min)
-
-Talk with your partner (or the room). One question each:
-
-| 4D | Question |
-|---|---|
-| **Delegation** | Which of today's five tasks would you hand to Copilot tomorrow? Which would you *never* hand off? |
-| **Description** | What prompt got you the best result today? What made it work? |
-| **Discernment** | Where did Copilot get something wrong, vague, or incomplete? |
-| **Diligence** | If Copilot's recap puts the wrong name on an action item and you forward it... whose fault is that? |
-
-> 🎤 **Exit ticket:** Finish this sentence out loud: *"Starting tomorrow, I'll use Copilot in Teams to ________."*
-
----
-
-## 🧯 Troubleshooting
-
-| Problem | Likely fix |
-|---|---|
-| No Copilot icon anywhere | You likely don't have a Microsoft 365 Copilot license. Ask IT. |
-| Copilot in meetings says it can't help | Transcription isn't on. Start it from **⋯ More → Record and transcribe**. |
-| Recap tab is empty | Wait a few minutes after the meeting ends. Also confirm transcription was on. |
-| Chat summary misses stuff | Copilot can't read images, files, or Loop components in a chat. Text only. |
-| Copilot Chat can't find your meeting | Make sure you're in **Work** mode, and try naming the meeting or topic specifically. |
-| Buttons aren't where the lab says | Microsoft updates the UI often. Look for the Copilot logo or the **⋯ More** menu. |
-
----
-
 ## 🏆 Cheat Sheet: 10 Prompts to Steal
 
 ```
