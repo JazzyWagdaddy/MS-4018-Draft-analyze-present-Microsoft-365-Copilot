@@ -2,6 +2,9 @@
 
 Learners use either a live or fictional Teams workspace to practice catching up on conversations, extracting decisions and action items, preparing for a meeting, drafting a follow-up message, and checking Copilot's work.
 
+> [!IMPORTANT]
+> If you have access to a Teams meeting that was recorded, complete Lab 6 first, then complete labs 1-5.
+
 ## Lab at a glance
 
 | Item | Details |
