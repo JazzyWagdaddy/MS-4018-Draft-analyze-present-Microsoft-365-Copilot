@@ -212,7 +212,8 @@ Do not assign owners to unresolved questions. After the table, list any work tha
 Ask Copilot to identify dependencies between the action items:
 
 ```text
-Show the action-item dependencies as an ordered sequence. Explain which tasks can begin now and which tasks are waiting for another decision or deliverable.
+Show the action-item dependencies as an ordered sequence. Explain which tasks can begin now and which tasks are
+waiting for another decision or deliverable.
 ```
 
 ### Checkpoint
@@ -274,7 +275,8 @@ Organize it into:
 - During the meeting
 - Immediately after the meeting
 
-Separate source-supported tasks from suggested facilitation practices. Do not state that Maya accepted work that she did not explicitly accept in the conversation.
+Separate source-supported tasks from suggested facilitation practices. Do not state that Maya accepted work that
+she did not explicitly accept in the conversation.
 ```
 
 ### Mini-challenge
@@ -325,7 +327,8 @@ The message should:
 - Keep the message under 220 words
 - Use plain, professional language appropriate for university faculty and staff
 
-Use only the meeting outcomes and earlier conversation. Do not invent deadlines or claim that the final resource link or facilitators are confirmed.
+Use only the meeting outcomes and earlier conversation. Do not invent deadlines or claim that the final resource
+link or facilitators are confirmed.
 ```
 
 ### Step 2: Evaluate the draft
@@ -346,7 +349,8 @@ Run:
 ```text
 Rewrite the message as a brief update for the associate dean.
 
-Keep it under 140 words. Emphasize readiness, remaining dependencies, and any item that could delay the student announcement. Use a concise, decision-focused tone.
+Keep it under 140 words. Emphasize readiness, remaining dependencies, and any item that could delay the student announcement.
+Use a concise, decision-focused tone.
 ```
 
 ### Checkpoint
