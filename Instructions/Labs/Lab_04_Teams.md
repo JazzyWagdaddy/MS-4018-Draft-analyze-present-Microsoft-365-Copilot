@@ -1,8 +1,8 @@
 # Manage collaboration from start to finish
 > [!NOTE]
 > This lab assumes the user is connected to a long-standing Teams environment where there is plenty of existing data (e.g. chats, meetings, etc. to use for learning purposes.  If you are new to Teams, please alert your instructor.
-
-Imagine you're a manager at Contoso. Your team relies on effective communication to collaborate and achieve goals. You want to rally the team behind a new idea for the Contoso Connect product launch, and need to send a message to your team about how to incorporate this idea before the product launch deadline. Use Copilot to draft, rewrite, and adjust your message to ensure it's clear, concise, and professional.
+>
+> This lab assumes that you have permissions to create a new team in your Teams environment. 
 
 ## Exercise 1 - Write an engaging message to introduce your idea
 
@@ -19,7 +19,10 @@ Imagine you're a manager at Contoso. Your team relies on effective communication
 1. Select **Post in Channel** to open the chat window.
 
 1. Copy and paste the following text into the dialog box:
-    *Hi Team! I've been thinking about Contoso Connect, and how we can make the product launch more exciting for our customers. I have a couple of ideas, and want to hear more from each of you. What do you think would make our customers excited and ready to work with Connect?*
+```
+Hi Team! I've been thinking about Contoso Connect, and how we can make the product launch more exciting for our customers. I have a couple of ideas, and want to hear more from each of you. What do you think would make our customers excited and ready to work with Connect?
+```
+
 1. Before you post the message, select the **Rewrite with Copilot** icon at the bottom of the message box.
 
  ![Rewrite](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/ReWriteWithCopilotInTeams.png)
@@ -55,17 +58,23 @@ You now want to schedule a meeting to brainstorm some feedback with your team. Y
 
 1. Ask Copilot to suggest the best time for the meeting by entering the following prompt:
 
-    *Schedule a meeting next week based on my availability*
+```
+Schedule a meeting next week based on my availability
+```
 
 1. Review the suggested times.  This is a great start, but not very beneficial.
 
 1. Refine your context and enter the following prompt:
 
-    *Schedule a meeting next week based on my availability to discuss the upcoming product launch, review the project timeline, and assign tasks*
+```
+Schedule a meeting next week based on my availability to discuss the upcoming product launch, review the project timeline, and assign tasks
+```
 
 1. Consider a coworker to invite and then further refine your prompt.  For the purposes of this class, choose yourelf as the co-worker:
+```
+Schedule a 30-minute meeting next week with  /  based on my availability to discuss the upcoming product launch, review the project timeline, and assign tasks
+```
 
-    *Schedule a 30-minute meeting next week with  /  based on my availability to discuss the upcoming product launch, review the project timeline, and assign tasks*
 > [!NOTE]
 > You may need to split the above prompt into two lines, divided by the /
 
