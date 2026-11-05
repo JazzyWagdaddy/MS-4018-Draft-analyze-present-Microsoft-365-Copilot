@@ -60,7 +60,8 @@ Copy the following conversation when an exercise asks you to provide the source:
 STUDENT CONNECTION PILOT — FICTIONAL TEAMS CONVERSATION
 
 Monday, 9:05 a.m. — Maya, Student Success:
-We need a small pilot that helps students understand where to go for academic advising, tutoring, financial wellness education, and general student-support questions. The pilot should run for four weeks.
+We need a small pilot that helps students understand where to go for academic advising, tutoring, financial wellness education,
+and general student-support questions. The pilot should run for four weeks.
 
 Monday, 9:18 a.m. — Daniel, Academic Advising:
 Advising can provide a short “Start Here” guide. We need to avoid language that suggests every question belongs with an academic advisor.
@@ -69,13 +70,16 @@ Monday, 9:32 a.m. — Priya, Tutoring Services:
 Tutoring can offer two 30-minute online orientation sessions during the first week. The dates and facilitators are not confirmed.
 
 Monday, 10:04 a.m. — Elena, Communications:
-I can draft a student announcement after the group confirms the audience, launch date, and call to action. We should use plain language and keep the message short.
+I can draft a student announcement after the group confirms the audience, launch date, and call to action. We should use plain
+language and keep the message short.
 
 Monday, 11:20 a.m. — Marcus, Student Affairs:
-Proposed audience: first-year undergraduate students in the College of Arts and Sciences. I suggest a four-week pilot beginning in October, but the exact start date still needs approval.
+Proposed audience: first-year undergraduate students in the College of Arts and Sciences. I suggest a four-week pilot beginning in October,
+but the exact start date still needs approval.
 
 Tuesday, 8:47 a.m. — Maya, Student Success:
-For measurement, we can track visits to the Start Here guide, attendance at the tutoring orientations, and a short optional feedback form. We should not claim that these measures prove an improvement in retention or academic performance.
+For measurement, we can track visits to the Start Here guide, attendance at the tutoring orientations, and a short optional feedback form.
+We should not claim that these measures prove an improvement in retention or academic performance.
 
 Tuesday, 9:15 a.m. — Daniel, Academic Advising:
 Agreed. Decision: keep the pilot limited to first-year students in the College of Arts and Sciences. Open question: who owns the Start Here guide after the pilot?
@@ -90,7 +94,8 @@ Tuesday, 10:36 a.m. — Marcus, Student Affairs:
 I will ask the associate dean to confirm the launch date and message approver. I will report back by Friday.
 
 Tuesday, 11:02 a.m. — Maya, Student Success:
-For our next meeting, we need to settle the Start Here guide owner, review the proposed orientation times, confirm the launch date and message approval process, and agree on the feedback-form owner.
+For our next meeting, we need to settle the Start Here guide owner, review the proposed orientation times,
+confirm the launch date and message approval process, and agree on the feedback-form owner.
 ```
 
 ---
