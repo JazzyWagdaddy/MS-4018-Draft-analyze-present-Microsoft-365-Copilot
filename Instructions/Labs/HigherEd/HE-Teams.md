@@ -1,5 +1,5 @@
-# Microsoft 365 Copilot in Teams: 
-A 45-Minute Hands-On Lab for Higher Education
+# Microsoft 365 Copilot in Teams
+## A 45-Minute Hands-On Lab for Higher Education
 
 Learners use either a live or fictional Teams workspace to practice catching up on conversations, extracting decisions and action items, preparing for a meeting, drafting a follow-up message, and checking Copilot's work.
 
