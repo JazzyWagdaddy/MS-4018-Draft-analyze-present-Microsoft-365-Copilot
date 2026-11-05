@@ -240,7 +240,8 @@ Your final task is to turn the analysis into a concise briefing for a university
    - Why it may matter for planning
    - A recommended question or next step
 
-   Use only aggregated information from the workbook. Do not claim that a relationship is causal unless the data establishes causation. Label unsupported details as "Additional information needed."
+   Use only aggregated information from the workbook. Do not claim that a relationship is causal unless the data establishes causation.
+   Label unsupported details as "Additional information needed."
    ```
 
 2. Review the five insights.
@@ -249,19 +250,23 @@ Your final task is to turn the analysis into a concise briefing for a university
    **Option A — Faculty and staff update**
 
    ```text
-   Turn the five insights into a faculty and staff update of no more than 200 words. Use plain language, explain why the analysis matters, and avoid technical forecasting terms unless they are defined.
+   Turn the five insights into a faculty and staff update of no more than 200 words.
+   Use plain language, explain why the analysis matters, and avoid technical forecasting terms unless they are defined.
    ```
 
    **Option B — University leadership briefing**
 
    ```text
-   Turn the five insights into an executive briefing for university leadership. Use a table with the columns Finding, Evidence, Planning implication, and Decision or follow-up needed. Keep the briefing concise and distinguish confirmed findings from recommendations.
+   Turn the five insights into an executive briefing for university leadership.
+   Use a table with the columns Finding, Evidence, Planning implication, and Decision
+   or follow-up needed. Keep the briefing concise and distinguish confirmed findings from recommendations.
    ```
 
    **Option C — Student success planning discussion**
 
    ```text
-   Turn the five insights into a 20-minute discussion agenda for student success leaders. Include a time allocation, the evidence to review, and the decision or question for each agenda item. Mark time allocations as suggested.
+   Turn the five insights into a 20-minute discussion agenda for student success leaders.
+   Include a time allocation, the evidence to review, and the decision or question for each agenda item. Mark time allocations as suggested.
    ```
 
 4. Review the adapted result for accuracy, tone, and audience fit.
