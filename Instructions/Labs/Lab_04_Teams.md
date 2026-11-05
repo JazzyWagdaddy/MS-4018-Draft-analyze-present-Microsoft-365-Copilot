@@ -54,6 +54,12 @@ Use the same fictional source material throughout the lab so each exercise build
 
 ## Fictional Teams conversation
 
+> [!Note]
+> Since Teams environments can vary, we are providing a sample conversation that all learners can use.
+>
+> If you would like to use a real conversation located in your Teams environment, please go ahead and do so!
+> 
+
 Copy the following conversation when an exercise asks you to provide the source:
 
 ```text
