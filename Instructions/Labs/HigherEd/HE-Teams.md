@@ -490,7 +490,7 @@ List them by due date and then draft a follow-up response in Chat.
 when is my next meeting with /
 ```
 2. Select a coworker that you often meet with.
-3. Select an upcoming meeting and then click on ##`Ask Copilot##.  Enter this prompt:
+3. Select an upcoming meeting and then click on ##Ask Copilot##.  Enter this prompt:
 ```
 What do I need to do in order to be prepared for this meeting?
 ```
