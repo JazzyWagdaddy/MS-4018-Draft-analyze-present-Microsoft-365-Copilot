@@ -1,5 +1,4 @@
-# Microsoft 365 Copilot in Teams
-## A 45-Minute Hands-On Lab for Higher Education
+# Microsoft 365 Copilot in Teams: Hands-On Lab for Higher Education
 
 Learners use either a live or fictional Teams workspace to practice catching up on conversations, extracting decisions and action items, preparing for a meeting, drafting a follow-up message, and checking Copilot's work.
 
@@ -448,13 +447,13 @@ You have completed this exercise when Copilot has identified weaknesses before e
 
 ## Exercise 6 - Gain insights from an existing Teams meeting
 
-### Step 1 - Recap a Meeting
+### Step 1 - Recap a Meeting.
 1. Find an existing Teams meeting that was recorded.  If you do not have this available, please conclude this lab and start with Lab #1.
 2. Open up Copilot within the Teams meeting that was recorded.
 3. Click on the  **Recap the meeting** sample prompt and examine the results.
 4. Experiment with the follow-up prompts that Copilot suggests.
 
-### Step 2 - Send a follow-up
+### Step 2 - Send a follow-up.
 1. Click on or enter this prompt, then hit send.
 ```
 Draft a follow-up message for participants
@@ -465,14 +464,14 @@ use option 1 and open in outlook
 ```
 2. Experiment with the follow-up prompts that Copilot suggests.
    
-### Step 3 - List action items from a meeting
+### Step 3 - List action items from a meeting.
 1. Click on or enter this prompt, then hit send.
 ```
    List action items from a meeting
    ```
 2. Experiment with the follow-up prompts that Copilot suggests.
  
-### Step 4 - Find action items from any meeting assign to you
+### Step 4 - Find action items from any meeting assign to you.
 1. Open a new Copilot Chat window within Teams.
 2. Enter this prompt:
 ```
@@ -480,3 +479,18 @@ Do I have any action items or follow-ups from any meetings this week?
 List them by due date and then draft a follow-up response in Chat.
 ```
 3. Experiment with the follow-up prompts that Copilot suggests.
+
+### Step 5 - Prepare for an upcoming meeting.
+1. Open a new Copilot Chat window within Teams Calendar and enter this prompt:
+```
+when is my next meeting with /
+```
+2. Select a coworker that you often meet with.
+3. Select an upcoming meeting and then click on ##`Ask Copilot##.  Enter this prompt:
+```
+What do I need to do in order to be prepared for this meeting?
+```
+4. Review the results and then experiment with the follow-up prompts that Copilot suggests.
+
+---
+## End of Lab
