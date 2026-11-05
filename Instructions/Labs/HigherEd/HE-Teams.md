@@ -11,7 +11,7 @@ Learners use one fictional Teams workspace to practice catching up on conversati
 | Format | Individual hands-on lab or facilitator-led workshop |
 | Experience needed | Basic familiarity with Microsoft Teams |
 | Product | Microsoft Teams with the Copilot experience available in your university environment |
-| Exercises | Five connected exercises |
+| Exercises | Six connected exercises |
 | Outcome | Use Copilot to understand, organize, and act on Teams conversations and meeting information |
 
 ## What you will learn
@@ -468,60 +468,16 @@ PRIVACY: [State what protected or sensitive information must not be included or 
 FOLLOW-UP: [State what Copilot should verify, correct, transform, or adapt next.]
 ```
 
-## Optional take-home challenge
+## Exercise 6 - Use an existing Teams meeting
 
-Choose a real, low-risk Teams conversation that you are permitted to use. Do not use student records, confidential personnel discussions, protected research information, or other regulated content.
+### Step 1 - Recap a Meeting
+1. Find an existing Teams meeting that was recorded.  If you do not have this available, please conclude the lab at this time.
+2. Open up Copilot within the Teams meeting.
+3. Click on the  **Recap the meeting** sample prompt and examine the results.
+4. Click on or enter this prompt, then hit send
+```
+Draft a follow-up message for participants
+```
+5. Review the options, and have Copilot create the message in Outlook or Teams, but do not send it.
 
-1. Ask Copilot for a catch-up summary.
-2. Separate decisions, proposals, questions, and actions.
-3. Create a meeting agenda or preparation checklist.
-4. Draft a follow-up message for a specific audience.
-5. Ask Copilot to verify the result against the source before you share it.
 
-## Facilitator notes
-
-- Ask learners to remain in one Copilot conversation so they experience iterative prompting.
-- Encourage learners to compare outputs rather than search for one “correct” response.
-- After each exercise, ask for one observation about what improved when the prompt became more specific.
-- Reinforce the difference between a confirmed decision, a proposal, an open question, and an action item.
-- Remind learners that Copilot output may vary even when everyone uses the same prompt.
-- If a feature or source-reference option is unavailable, have learners paste the fictional text into the Copilot experience available in Teams.
-- Keep the discussion focused on verifying output and protecting university information.
-
-### Suggested timing
-
-| Segment | Time |
-| --- | ---: |
-| Setup and scenario | 4 minutes |
-| Exercise 1: Catch up on a conversation | 7 minutes |
-| Exercise 2: Extract decisions and actions | 8 minutes |
-| Exercise 3: Prepare for the next meeting | 8 minutes |
-| Exercise 4: Draft a follow-up message | 8 minutes |
-| Exercise 5: Review and refine | 7 minutes |
-| Wrap-up | 3 minutes |
-| **Total** | **45 minutes** |
-
-## Repository suggestions
-
-This lab is designed to be published as `CopilotTeams.MD` in a GitHub repository.
-
-**Suggested repository description:**
-
-A 45-minute beginner-friendly, hands-on lab for university faculty and staff to practice using Microsoft 365 Copilot in Teams.
-
-**Suggested repository topics:**
-
-- `microsoft-365-copilot`
-- `microsoft-teams`
-- `higher-education`
-- `faculty-development`
-- `staff-development`
-- `copilot`
-- `prompting`
-- `hands-on-lab`
-- `training`
-- `ai-skills`
-
-## License
-
-Add the license your university normally uses for training content before publishing this lab.
