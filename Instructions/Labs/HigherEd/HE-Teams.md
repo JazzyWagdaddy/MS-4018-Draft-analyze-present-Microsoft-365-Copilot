@@ -1,6 +1,6 @@
 # Microsoft 365 Copilot in Teams: A 45-Minute Hands-On Lab for Higher Education
 
-Learners use one fictional Teams workspace to practice catching up on conversations, extracting decisions and action items, preparing for a meeting, drafting a follow-up message, and checking Copilot's work.
+Learners use either a live or fictional Teams workspace to practice catching up on conversations, extracting decisions and action items, preparing for a meeting, drafting a follow-up message, and checking Copilot's work.
 
 ## Lab at a glance
 
@@ -66,8 +66,9 @@ Copy the following conversation when an exercise asks you to provide the source:
 STUDENT CONNECTION PILOT — FICTIONAL TEAMS CONVERSATION
 
 Monday, 9:05 a.m. — Maya, Student Success:
-We need a small pilot that helps students understand where to go for academic advising, tutoring, financial wellness education,
-and general student-support questions. The pilot should run for four weeks.
+We need a small pilot that helps students understand where to go for academic advising,
+tutoring, financial wellness education, and general student-support questions.
+The pilot should run for four weeks.
 
 Monday, 9:18 a.m. — Daniel, Academic Advising:
 Advising can provide a short “Start Here” guide. We need to avoid language that suggests every question belongs with an academic advisor.
@@ -137,7 +138,8 @@ Ask yourself:
 Run:
 
 ```text
-Using only the fictional Teams conversation provided above, create a catch-up summary for a university staff member who has just joined the Student Connection Pilot working group.
+Using only the fictional Teams conversation provided above, create a catch-up summary for a university staff member who has
+just joined the Student Connection Pilot working group.
 
 Organize the response into:
 1. Purpose and scope
@@ -309,7 +311,8 @@ For this exercise, assume the following **fictional meeting outcomes**:
 FICTIONAL MEETING OUTCOMES
 
 - Daniel will own the Start Here guide during the four-week pilot.
-- Priya proposed Tuesday at 3:00 p.m. and Thursday at noon for the two online tutoring orientations. Facilitators are still to be confirmed.
+- Priya proposed Tuesday at 3:00 p.m. and Thursday at noon for the two online tutoring orientations.
+Facilitators are still to be confirmed.
 - The associate dean approved October 6 as the pilot start date.
 - The associate dean will approve the student-facing message.
 - Maya will create the optional feedback form.
@@ -355,8 +358,8 @@ Run:
 ```text
 Rewrite the message as a brief update for the associate dean.
 
-Keep it under 140 words. Emphasize readiness, remaining dependencies, and any item that could delay the student announcement.
-Use a concise, decision-focused tone.
+Keep it under 140 words. Emphasize readiness, remaining dependencies, and any item that could delay
+the student announcement. Use a concise, decision-focused tone.
 ```
 
 ### Checkpoint
@@ -378,7 +381,8 @@ Ask Copilot to evaluate its own outputs against the source before you rely on or
 Run:
 
 ```text
-Review the catch-up summary, decision log, action tracker, meeting agenda, and follow-up messages created in this conversation.
+Review the catch-up summary, decision log, action tracker, meeting agenda,
+and follow-up messages created in this conversation.
 
 Compare them with the original fictional Teams conversation and the fictional meeting outcomes.
 
@@ -411,9 +415,11 @@ Run:
 ```text
 Correct every item marked partially supported, unsupported, or missing.
 
-Preserve accurate content and the requested format of each output. Do not add facts, owners, or deadlines that are not in the source material.
+Preserve accurate content and the requested format of each output.
+Do not add facts, owners, or deadlines that are not in the source material.
 
-After the corrected outputs, add a short "What changed" section that identifies each correction and the source requirement it addresses.
+After the corrected outputs, add a short "What changed" section
+that identifies each correction and the source requirement it addresses.
 ```
 
 ### Final quality check
