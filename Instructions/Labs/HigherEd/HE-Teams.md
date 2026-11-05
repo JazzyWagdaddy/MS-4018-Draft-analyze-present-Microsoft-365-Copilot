@@ -474,10 +474,15 @@ FOLLOW-UP: [State what Copilot should verify, correct, transform, or adapt next.
 1. Find an existing Teams meeting that was recorded.  If you do not have this available, please conclude the lab at this time.
 2. Open up Copilot within the Teams meeting.
 3. Click on the  **Recap the meeting** sample prompt and examine the results.
-4. Click on or enter this prompt, then hit send
+
+### Step 2 - Send a follow-up
+1. Click on or enter this prompt, then hit send.
 ```
 Draft a follow-up message for participants
 ```
-5. Review the options, and have Copilot create the message in Outlook or Teams, but do not send it.
+1. Review the options, and have Copilot create the message in Outlook or Teams, but do not send it.  For example:
+```
+use option 1 and open in outlook
+```
 
 
