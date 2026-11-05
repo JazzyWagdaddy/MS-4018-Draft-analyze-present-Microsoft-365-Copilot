@@ -82,13 +82,15 @@ For measurement, we can track visits to the Start Here guide, attendance at the 
 We should not claim that these measures prove an improvement in retention or academic performance.
 
 Tuesday, 9:15 a.m. — Daniel, Academic Advising:
-Agreed. Decision: keep the pilot limited to first-year students in the College of Arts and Sciences. Open question: who owns the Start Here guide after the pilot?
+Agreed. Decision: keep the pilot limited to first-year students in the College of Arts and Sciences.
+Open question: who owns the Start Here guide after the pilot?
 
 Tuesday, 9:41 a.m. — Priya, Tutoring Services:
 Action for me: propose two orientation times and identify facilitators by Friday.
 
 Tuesday, 10:10 a.m. — Elena, Communications:
-Action for me: prepare a draft announcement after I receive the approved start date and final resource link. Who will approve the student-facing message?
+Action for me: prepare a draft announcement after I receive the approved start date and final resource link.
+Who will approve the student-facing message?
 
 Tuesday, 10:36 a.m. — Marcus, Student Affairs:
 I will ask the associate dean to confirm the launch date and message approver. I will report back by Friday.
