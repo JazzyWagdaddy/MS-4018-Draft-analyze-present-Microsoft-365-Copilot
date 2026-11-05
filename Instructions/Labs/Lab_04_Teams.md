@@ -20,7 +20,8 @@
 
 1. Copy and paste the following text into the dialog box:
 ```
-Hi Team! I've been thinking about Contoso Connect, and how we can make the product launch more exciting for our customers. I have a couple of ideas, and want to hear more from each of you. What do you think would make our customers excited and ready to work with Connect?
+Hi Team! I've been thinking about Contoso Connect, and how we can make the product launch more exciting for our customers.
+I have a couple of ideas, and want to hear more from each of you. What do you think would make our customers excited and ready to work with Connect?
 ```
 
 1. Before you post the message, select the **Rewrite with Copilot** icon at the bottom of the message box.
