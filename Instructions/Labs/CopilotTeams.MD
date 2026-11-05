@@ -349,7 +349,8 @@ Run:
 ```text
 Rewrite the message as a brief update for the associate dean.
 
-Keep it under 140 words. Emphasize readiness, remaining dependencies, and any item that could delay the student announcement. Use a concise, decision-focused tone.
+Keep it under 140 words. Emphasize readiness, remaining dependencies, and any item that could delay the student announcement. 
+Use a concise, decision-focused tone.
 ```
 
 ### Checkpoint
@@ -470,51 +471,3 @@ Choose a real, low-risk Teams conversation that you are permitted to use. Do not
 3. Create a meeting agenda or preparation checklist.
 4. Draft a follow-up message for a specific audience.
 5. Ask Copilot to verify the result against the source before you share it.
-
-## Facilitator notes
-
-- Ask learners to remain in one Copilot conversation so they experience iterative prompting.
-- Encourage learners to compare outputs rather than search for one “correct” response.
-- After each exercise, ask for one observation about what improved when the prompt became more specific.
-- Reinforce the difference between a confirmed decision, a proposal, an open question, and an action item.
-- Remind learners that Copilot output may vary even when everyone uses the same prompt.
-- If a feature or source-reference option is unavailable, have learners paste the fictional text into the Copilot experience available in Teams.
-- Keep the discussion focused on verifying output and protecting university information.
-
-### Suggested timing
-
-| Segment | Time |
-| --- | ---: |
-| Setup and scenario | 4 minutes |
-| Exercise 1: Catch up on a conversation | 7 minutes |
-| Exercise 2: Extract decisions and actions | 8 minutes |
-| Exercise 3: Prepare for the next meeting | 8 minutes |
-| Exercise 4: Draft a follow-up message | 8 minutes |
-| Exercise 5: Review and refine | 7 minutes |
-| Wrap-up | 3 minutes |
-| **Total** | **45 minutes** |
-
-## Repository suggestions
-
-This lab is designed to be published as `CopilotTeams.MD` in a GitHub repository.
-
-**Suggested repository description:**
-
-A 45-minute beginner-friendly, hands-on lab for university faculty and staff to practice using Microsoft 365 Copilot in Teams.
-
-**Suggested repository topics:**
-
-- `microsoft-365-copilot`
-- `microsoft-teams`
-- `higher-education`
-- `faculty-development`
-- `staff-development`
-- `copilot`
-- `prompting`
-- `hands-on-lab`
-- `training`
-- `ai-skills`
-
-## License
-
-Add the license your university normally uses for training content before publishing this lab.
