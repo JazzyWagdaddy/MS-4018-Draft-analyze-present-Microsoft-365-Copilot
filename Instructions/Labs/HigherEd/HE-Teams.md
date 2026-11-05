@@ -458,11 +458,11 @@ You have completed this exercise when Copilot has identified weaknesses before e
 ```
 Draft a follow-up message for participants
 ```
-1. Review the options, and have Copilot create the message in Outlook or Teams, but do not send it.  For example:
+2. Review the options, and have Copilot create the message in Outlook or Teams, but do not send it.  For example:
 ```
 use option 1 and open in outlook
 ```
-2. Experiment with the follow-up prompts that Copilot suggests.
+3. Experiment with the follow-up prompts that Copilot suggests.
    
 ### Step 3 - List action items from a meeting.
 1. Click on or enter this prompt, then hit send.
