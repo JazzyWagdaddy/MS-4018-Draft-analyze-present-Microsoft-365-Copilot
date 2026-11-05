@@ -1,6 +1,6 @@
 # Microsoft 365 Copilot in Teams: A 45-Minute Hands-On Lab for Higher Education
 
-A beginner-friendly, GitHub-ready lab for university faculty and staff who are new to Microsoft 365 Copilot. Learners use one fictional Teams workspace to practice catching up on conversations, extracting decisions and action items, preparing for a meeting, drafting a follow-up message, and checking Copilot's work.
+Learners use one fictional Teams workspace to practice catching up on conversations, extracting decisions and action items, preparing for a meeting, drafting a follow-up message, and checking Copilot's work.
 
 ## Lab at a glance
 
@@ -54,13 +54,20 @@ Use the same fictional source material throughout the lab so each exercise build
 
 ## Fictional Teams conversation
 
+> [!Note]
+> Since Teams environments can vary, we are providing a sample conversation that all learners can use.
+>
+> If you would like to use a real conversation located in your Teams environment, please go ahead and do so!
+> 
+
 Copy the following conversation when an exercise asks you to provide the source:
 
 ```text
 STUDENT CONNECTION PILOT — FICTIONAL TEAMS CONVERSATION
 
 Monday, 9:05 a.m. — Maya, Student Success:
-We need a small pilot that helps students understand where to go for academic advising, tutoring, financial wellness education, and general student-support questions. The pilot should run for four weeks.
+We need a small pilot that helps students understand where to go for academic advising, tutoring, financial wellness education,
+and general student-support questions. The pilot should run for four weeks.
 
 Monday, 9:18 a.m. — Daniel, Academic Advising:
 Advising can provide a short “Start Here” guide. We need to avoid language that suggests every question belongs with an academic advisor.
@@ -69,28 +76,34 @@ Monday, 9:32 a.m. — Priya, Tutoring Services:
 Tutoring can offer two 30-minute online orientation sessions during the first week. The dates and facilitators are not confirmed.
 
 Monday, 10:04 a.m. — Elena, Communications:
-I can draft a student announcement after the group confirms the audience, launch date, and call to action. We should use plain language and keep the message short.
+I can draft a student announcement after the group confirms the audience, launch date, and call to action. We should use plain
+language and keep the message short.
 
 Monday, 11:20 a.m. — Marcus, Student Affairs:
-Proposed audience: first-year undergraduate students in the College of Arts and Sciences. I suggest a four-week pilot beginning in October, but the exact start date still needs approval.
+Proposed audience: first-year undergraduate students in the College of Arts and Sciences. I suggest a four-week pilot beginning in October,
+but the exact start date still needs approval.
 
 Tuesday, 8:47 a.m. — Maya, Student Success:
-For measurement, we can track visits to the Start Here guide, attendance at the tutoring orientations, and a short optional feedback form. We should not claim that these measures prove an improvement in retention or academic performance.
+For measurement, we can track visits to the Start Here guide, attendance at the tutoring orientations, and a short optional feedback form.
+We should not claim that these measures prove an improvement in retention or academic performance.
 
 Tuesday, 9:15 a.m. — Daniel, Academic Advising:
-Agreed. Decision: keep the pilot limited to first-year students in the College of Arts and Sciences. Open question: who owns the Start Here guide after the pilot?
+Agreed. Decision: keep the pilot limited to first-year students in the College of Arts and Sciences.
+Open question: who owns the Start Here guide after the pilot?
 
 Tuesday, 9:41 a.m. — Priya, Tutoring Services:
 Action for me: propose two orientation times and identify facilitators by Friday.
 
 Tuesday, 10:10 a.m. — Elena, Communications:
-Action for me: prepare a draft announcement after I receive the approved start date and final resource link. Who will approve the student-facing message?
+Action for me: prepare a draft announcement after I receive the approved start date and final resource link.
+Who will approve the student-facing message?
 
 Tuesday, 10:36 a.m. — Marcus, Student Affairs:
 I will ask the associate dean to confirm the launch date and message approver. I will report back by Friday.
 
 Tuesday, 11:02 a.m. — Maya, Student Success:
-For our next meeting, we need to settle the Start Here guide owner, review the proposed orientation times, confirm the launch date and message approval process, and agree on the feedback-form owner.
+For our next meeting, we need to settle the Start Here guide owner, review the proposed orientation times,
+confirm the launch date and message approval process, and agree on the feedback-form owner.
 ```
 
 ---
@@ -205,7 +218,8 @@ Do not assign owners to unresolved questions. After the table, list any work tha
 Ask Copilot to identify dependencies between the action items:
 
 ```text
-Show the action-item dependencies as an ordered sequence. Explain which tasks can begin now and which tasks are waiting for another decision or deliverable.
+Show the action-item dependencies as an ordered sequence. Explain which tasks can begin now and which tasks are
+waiting for another decision or deliverable.
 ```
 
 ### Checkpoint
@@ -267,7 +281,8 @@ Organize it into:
 - During the meeting
 - Immediately after the meeting
 
-Separate source-supported tasks from suggested facilitation practices. Do not state that Maya accepted work that she did not explicitly accept in the conversation.
+Separate source-supported tasks from suggested facilitation practices. Do not state that Maya accepted work that
+she did not explicitly accept in the conversation.
 ```
 
 ### Mini-challenge
@@ -318,7 +333,8 @@ The message should:
 - Keep the message under 220 words
 - Use plain, professional language appropriate for university faculty and staff
 
-Use only the meeting outcomes and earlier conversation. Do not invent deadlines or claim that the final resource link or facilitators are confirmed.
+Use only the meeting outcomes and earlier conversation. Do not invent deadlines or claim that the final resource
+link or facilitators are confirmed.
 ```
 
 ### Step 2: Evaluate the draft
@@ -339,7 +355,8 @@ Run:
 ```text
 Rewrite the message as a brief update for the associate dean.
 
-Keep it under 140 words. Emphasize readiness, remaining dependencies, and any item that could delay the student announcement. Use a concise, decision-focused tone.
+Keep it under 140 words. Emphasize readiness, remaining dependencies, and any item that could delay the student announcement.
+Use a concise, decision-focused tone.
 ```
 
 ### Checkpoint
