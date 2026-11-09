@@ -37,19 +37,17 @@ Create a presentation about Contoso's Chai Tea based on
    
  ![new](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/PromotionPlan.png)
 
-5. After a few moments, Copilot displays a presentation outline showing the potential slides and bulleted points to be included on each slide. Review the suggested content and click on **Generate Slides** in the lower right hand corner.  After a few moments, Copilot generates slides and content. Click **Keep it** to retain the presentation.
+5. After a few moments, Copilot displays a presentation based upon the Word document you referenced.  Scroll through the slides to see what Copilot created!
    
-6. While this is a great start, you want to personalize the presentation a bit more for your delivery. Let's see how to improve the content.
+6. While this is a great start, you may want to personalize the presentation a bit more for your delivery. Let's see how to improve the content.
 
 ## Exercise 2 - Ask Copilot to help you create an icebreaker slide
 Copilot can help generate an idea and then a slide for a fun icebreaker to keep our audience occupied while others join.
 
-1. Let's change the view in PowerPoint. Select **View -> Normal** and then return to the **Home** ribbon view.
-
-1. If not already, open the Copilot pane and enter the following prompt:
+1. Enter the following prompt:
 
 ```
-Can you help me brainstorm an icebreaker question that would be good for a global audience?
+Can you help me brainstorm an icebreaker question that would be good for a global audience based upon this content?
 Provide three options for me to choose from
 ```
 
