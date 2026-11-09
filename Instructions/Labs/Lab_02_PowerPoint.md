@@ -14,8 +14,9 @@ Please complete the following exercises as part of this lab:
 #### Exercise 2 - Ask Copilot to help you create an icebreaker slide
 #### Exercise 3 - Insert an Image
 #### Exercise 4 - Edit Text
-#### Exercise 5 - Organize the presentation
-#### Exercise 6 - Review content with an explain prompt
+#### Exercise 5 - Critique the presentation
+#### Exercise 6 - Review a chart or table with an explain prompt
+#### Exercise 7 - Send a draft for review
 
 
 
@@ -120,7 +121,7 @@ Missing or unclear information
 Five highest-priority revisions
 ```
 
-## Exercise 6 - Review a chart with an explain prompt
+## Exercise 6 - Review a chart or table with an explain prompt
 Navigate to a slide that contains a chart or content that you are not familiar with and enter the following prompt in the Copilot pane:
 
 ```
