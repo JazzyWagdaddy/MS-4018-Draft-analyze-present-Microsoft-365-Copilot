@@ -95,9 +95,9 @@ As you're reviewing the presentation, you may decide the text Copilot generated 
 Edit this text to make it more conversational
 ```
 
-1. Copy and paste the text you want to edit in the Copilot prompt dialog, then select **Send**.
+2. Copy and paste the text you want to edit in the Copilot prompt dialog, then select **Send**.
 
-1. Review the suggestions provided by Copilot, then choose **Yes, please update the slide with this text**
+3. Review the suggestions provided by Copilot, then choose **Yes, please update the slide with this text**
 
 > [!NOTE]
 > Depending on the security settings within your environment and any data sensitivity labels your organization has established, Copilot may repond with the following message:
@@ -132,23 +132,31 @@ Review Copilot's plain-language breakdown of the content and how it fits the nar
 
 ## Exercise 7 - Send a draft for review
 
-Once you're satisfied with your presentation, use Copilot in Outlook to draft an email to your manager for review.
+Once you're satisfied with your presentation, use Copilot to draft an email to your manager for review.
 
 1. Launch Microsoft Outlook from your browser [outlook.office.com](https://outlook.office.com) or desktop application and select **New mail**.
 
-1. Select the **Copilot** icon in the email composition window.
+2. Select the **Copilot** icon in the email composition window.
 
-1. Enter the following prompt:
+3. Enter the following prompt:
 
 ```
-Draft an email asking for a review of the presentation that I attached to this email.
+Create a draft email asking for a review of the presentation that I attached to this email.
 Write the email in a casual tone
 ```
+> [!NOTE]
+> Copilot inside PowerPoint is designed around the presentation you have open. Microsoft documents its PowerPoint capabilities as creating/refining presentations,
+> summarizing slides, answering questions about the deck, generating images, and creating or rewriting slide text.
+>
+> It does not document PowerPoint Copilot as an Outlook email-creation experience.
+>
 
-1. Select **Draft with Copilot**.
+## Exercise 8 - If Time Permits - Have Copilot create a presentation
+You can use Copilot to create a PowerPoint from scratch, just coach Copilot on the audience, purpose, subject, and desired outcome, then let Copilot build the first draft and narrative.
 
-1. Review the email draft, make any necessary edits, and send it to your intended recipient.
-
-And just like that, you're all set to impress your manager with a polished presentation! Happy presenting.
-
+1. Click on File, and then enter the following prompt at the top of the screen:
+```
+Create a 7-slide presentation introducing Microsoft 365 Copilot to university staff who are new to AI.
+```
+ ![new](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/PPT-New-Pres.png)
 ## End of Lab ##
