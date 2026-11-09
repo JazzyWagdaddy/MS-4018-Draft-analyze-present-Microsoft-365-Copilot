@@ -103,7 +103,7 @@ Edit this text to make it more conversational
 > *It looks like I wasn’t able to update the slide directly because I don’t have access to modify your open PowerPoint file.*
 > Click on the option to provide the updated text in a separate file.
 
-## Exercise 5 - Organize the presentation
+## Exercise 5 - Critique the presentation
 
 Ok, great, Copilot generated all the content. Neat stuff.  How do I make sure it's readable for my target audience?  Ask Copilot!
 
