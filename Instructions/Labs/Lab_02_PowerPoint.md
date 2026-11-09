@@ -17,6 +17,7 @@ Please complete the following exercises as part of this lab:
 #### Exercise 5 - Critique the presentation
 #### Exercise 6 - Review a chart or table with an explain prompt
 #### Exercise 7 - Send a draft for review
+#### Exercise 8 - If Time Permits - Have Copilot create a presentation
 
 
 
@@ -159,4 +160,6 @@ You can use Copilot to create a PowerPoint from scratch, just coach Copilot on t
 Create a 7-slide presentation introducing Microsoft 365 Copilot to university staff who are new to AI.
 ```
  ![new](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/PPT-New-Pres.png)
+
+ 2. Respond to any follow-up prompts that Copilot may ask.
 ## End of Lab ##
