@@ -135,11 +135,7 @@ Review Copilot's plain-language breakdown of the content and how it fits the nar
 
 Once you're satisfied with your presentation, use Copilot to draft an email to your manager for review.
 
-1. Launch Microsoft Outlook from your browser [outlook.office.com](https://outlook.office.com) or desktop application and select **New mail**.
-
-2. Select the **Copilot** icon in the email composition window.
-
-3. Enter the following prompt:
+1. Enter the following prompt:
 
 ```
 Create a draft email asking for a review of the presentation that I attached to this email.
