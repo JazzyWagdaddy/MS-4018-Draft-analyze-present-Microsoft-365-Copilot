@@ -88,7 +88,7 @@ Replace the image on the Title slide with an image of a person sipping a warm cu
 
 As you're reviewing the presentation, you may decide the text Copilot generated isn't right for you. Use Copilot to help you refine the text on your slides. For instance, you can type *Edit the text on this slide to make it more concise* or *Make this text more engaging for the reader* Let's see how:
 
-1. Navigate to the slide containing the text you may want to edit. Select the slide, and in the Copilot pane, enter the following prompt:
+1. Navigate to a slide containing the text you may want to edit. Select the slide, and in the Copilot pane, enter the following prompt:
 
 ```
 Edit this text to make it more conversational
