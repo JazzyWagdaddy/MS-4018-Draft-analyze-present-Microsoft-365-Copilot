@@ -58,7 +58,7 @@ Please suggest two different options
 
 The first question looks great for our audience, so let's ask Copilot to generate a slide with this question, a corresponding image, and to insert this as the first slide in the presentation.
 
-1. Enter the following prompt:
+2. Enter the following prompt:
 
 ```
 Use question 1 as the icebreaker, and generate a slide that includes a complementary image and add that into the presentation
@@ -68,13 +68,13 @@ Use question 1 as the icebreaker, and generate a slide that includes a complemen
 
    Now, you've got a great way to start a conversation among your meeting participants. Let's look at the presentation now, and see how we can make it even more powerful.
 
-1. If Copilot can't directly insert the slide into your current presentation, enter this prompt
+3. If Copilot can't directly insert the slide into your current presentation, enter this prompt
 ```
 Yes, please provide the slide file
 ```
 Noting it will take several moments for Copilot to complete this action
    
-3. Once Copilot finishes rendering, download the icebreaker slide.
+4. Once Copilot finishes rendering, download the icebreaker slide.
 
 ## Exercise 3 - Insert an image
 
