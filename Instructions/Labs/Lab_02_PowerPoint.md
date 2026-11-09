@@ -1,6 +1,9 @@
 # Build a presentation from start to finish with Copilot in PowerPoint
 
-Please download this file to Onedrive: https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Promotion_Plan_for_Chai_Tea_in_Latin_America.docx
+> Note
+> Rendering powerpoints with Copilot that include graphics and images is a potentially time-consuming process.
+> 
+We will be using the following file in the lab to generate content. Please download this file to Onedrive: [Promotion_Plan_for_Chai_Tea_in_Latin_America](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Promotion_Plan_for_Chai_Tea_in_Latin_America.docx)
 
 ## Exercises
 Please complete the following exercises as part of this lab:
@@ -17,7 +20,7 @@ Please complete the following exercises as part of this lab:
 ## Exercise 1 - Create a new presentation based on a Word document
 
 > [!NOTE]
-> Please note that due to the fluid changes with the User Interface, some commands may need to be entered differently depending on the UI version you have.
+> Please note that due to the fluid changes with the User Interface, some commands may need to be entered differently depending on the Copilot UI version you have.
 
 
 1. Open the desktop version of PowerPoint and click on the second choice, **Blank Presentation**. For the purposes of this exercise, please **do not** choose the option to "Create with Copilot".
