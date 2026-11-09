@@ -105,17 +105,20 @@ Edit this text to make it more conversational
 
 ## Exercise 5 - Organize the presentation
 
-As you're reviewing the presentation, you may find that the topics in your presentation need to be more clearly identified. You can use Copilot in PowerPoint to inject this clarity.
+Ok, great, Copilot generated all the content. Neat stuff.  How do I make sure it's readable for my target audience?  Ask Copilot!
 
-1. In the Copilot pane, enter the following prompt: 
+```text
+Critique this document as an experienced editor. Evaluate its organization, clarity, accuracy, tone, grammar, repetition, and
+suitability for the intended audience. Identify what works well and what needs improvement.
+Provide specific examples from the document and recommend precise changes.
+Do not rewrite the document yet. Organize your response into:
 
+Overall assessment
+Strengths
+Areas for improvement
+Missing or unclear information
+Five highest-priority revisions
 ```
-Organize this presentation
-```
-
-1. Copilot responds, providing suggestions for each slide. You can select to update the content as you'd like or iterate your prompt to receive additional suggestions. 
-
-1. Ensure that your presentation has a logical sequence and smooth transitions between slides.
 
 ## Exercise 6 - Review a chart with an explain prompt
 Navigate to a slide that contains a chart or content that you are not familiar with and enter the following prompt in the Copilot pane:
@@ -126,7 +129,7 @@ Explain the content on this slide so I can more easily understand and discuss th
 
 Review Copilot's plain-language breakdown of the content and how it fits the narrative of the surrounding slide.
 
-## (Optional) Exercise - Send a draft for review
+## Exercise 7 - Send a draft for review
 
 Once you're satisfied with your presentation, use Copilot in Outlook to draft an email to your manager for review.
 
