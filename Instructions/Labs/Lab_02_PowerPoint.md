@@ -1,8 +1,10 @@
 # Build a presentation from start to finish with Copilot in PowerPoint
 
-> Note
-> Rendering powerpoints with Copilot that include graphics and images is a potentially time-consuming process.
+> [!NOTE]
 > 
+> Rendering powerpoints with Copilot that include graphics and images is a potentially time-consuming process.
+
+## Before You Begin
 We will be using the following file in the lab to generate content. Please download this file to Onedrive: [Promotion_Plan_for_Chai_Tea_in_Latin_America](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Promotion_Plan_for_Chai_Tea_in_Latin_America.docx)
 
 ## Exercises
@@ -12,8 +14,9 @@ Please complete the following exercises as part of this lab:
 #### Exercise 2 - Ask Copilot to help you create an icebreaker slide
 #### Exercise 3 - Insert an Image
 #### Exercise 4 - Edit Text
-#### Exercise 5 - Organize the presentation
-#### Exercise 6 - Review content with an explain prompt
+#### Exercise 5 - Critique the presentation
+#### Exercise 6 - Review a chart or table with an explain prompt
+#### Exercise 7 - Send a draft for review
 
 
 
@@ -23,7 +26,7 @@ Please complete the following exercises as part of this lab:
 > Please note that due to the fluid changes with the User Interface, some commands may need to be entered differently depending on the Copilot UI version you have.
 
 
-1. Open the desktop version of PowerPoint and click on the second choice, **Blank Presentation**. For the purposes of this exercise, please **do not** choose the option to "Create with Copilot".
+1. Open the desktop version of PowerPoint and click on the option **Blank Presentation**. For the purposes of this exercise, please **do not** choose the option to "Create with Copilot".
 2. Once a blank presentation renders, click on the **Copilot** icon.
 3. From within the Copilot chat window enter the following prompt, noting you may have to remove a backslash or omit the "based on" verbiage:
    
@@ -31,22 +34,21 @@ Please complete the following exercises as part of this lab:
 Create a presentation about Contoso's Chai Tea based on
 ```
    
-5. Next, In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(Promotion Plan for Chai Tea in Latin America.docx)** and press the right-arrow. If the file doesn't populate in the MRU or Most Recently Used list, select the Upload button then **Attach Cloud Files**. Navigate to **My files** and select the document from your OneDrive folder.  Once all steps are completed, click the right arrow.
-
-
-5. After a few moments, Copilot displays a presentation outline showing the potential slides and bulleted points to be included on each slide. Review the suggested content and click on **Generate Slides** in the lower right hand corner.  After a few moments, Copilot generates slides and content. Click **Keep it** to retain the presentation.
+5. Next, In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(Promotion Plan for Chai Tea in Latin America.docx)** and press the right-arrow. If the file doesn't populate in the MRU or Most Recently Used list, exit the existing dialogue box, remove the forward slash (/), and then click on the **Plus** select the **Upload images and file**. Navigate to **My files** and select the document from your OneDrive folder.  Once all steps are completed, click **Send**.
    
-6. While this is a great start, you want to personalize the presentation a bit more for your delivery. Let's see how to improve the content.
+ ![new](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/PromotionPlan.png)
+
+5. After a few moments, Copilot displays a presentation based upon the Word document you referenced.  Scroll through the slides to see what Copilot created!
+   
+6. While this is a great start, you may want to personalize the presentation a bit more for your delivery. Let's see how to improve the content.
 
 ## Exercise 2 - Ask Copilot to help you create an icebreaker slide
 Copilot can help generate an idea and then a slide for a fun icebreaker to keep our audience occupied while others join.
 
-1. Let's change the view in PowerPoint. Select **View -> Normal** and then return to the **Home** ribbon view.
-
-1. If not already, open the Copilot pane and enter the following prompt:
+1. Enter the following prompt:
 
 ```
-Can you help me brainstorm an icebreaker question that would be good for a global audience?
+Can you help me brainstorm an icebreaker question that would be good for a global audience based upon this content?
 Provide three options for me to choose from
 ```
 
@@ -57,7 +59,7 @@ Please suggest two different options
 
 The first question looks great for our audience, so let's ask Copilot to generate a slide with this question, a corresponding image, and to insert this as the first slide in the presentation.
 
-1. Enter the following prompt:
+2. Enter the following prompt:
 
 ```
 Use question 1 as the icebreaker, and generate a slide that includes a complementary image and add that into the presentation
@@ -67,13 +69,7 @@ Use question 1 as the icebreaker, and generate a slide that includes a complemen
 
    Now, you've got a great way to start a conversation among your meeting participants. Let's look at the presentation now, and see how we can make it even more powerful.
 
-1. If Copilot can't directly insert the slide into your current presentation, enter this prompt
-```
-Yes, please provide the slide file
-```
-Noting it will take several moments for Copilot to complete this action
-   
-3. Once Copilot finishes rendering, download the icebreaker slide.
+
 
 ## Exercise 3 - Insert an image
 
@@ -93,7 +89,7 @@ Replace the image on the Title slide with an image of a person sipping a warm cu
 
 As you're reviewing the presentation, you may decide the text Copilot generated isn't right for you. Use Copilot to help you refine the text on your slides. For instance, you can type *Edit the text on this slide to make it more concise* or *Make this text more engaging for the reader* Let's see how:
 
-1. Navigate to the slide containing the text you may want to edit. Select the slide, and in the Copilot pane, enter the following prompt:
+1. Navigate to a slide containing the text you may want to edit. Select the slide, and in the Copilot pane, enter the following prompt:
 
 ```
 Edit this text to make it more conversational
@@ -108,21 +104,24 @@ Edit this text to make it more conversational
 > *It looks like I wasn’t able to update the slide directly because I don’t have access to modify your open PowerPoint file.*
 > Click on the option to provide the updated text in a separate file.
 
-## Exercise 5 - Organize the presentation
+## Exercise 5 - Critique the presentation
 
-As you're reviewing the presentation, you may find that the topics in your presentation need to be more clearly identified. You can use Copilot in PowerPoint to inject this clarity.
+Ok, great, Copilot generated all the content. Neat stuff.  How do I make sure it's readable for my target audience?  Ask Copilot!
 
-1. In the Copilot pane, enter the following prompt: 
+```text
+Critique this document as an experienced editor. Evaluate its organization, clarity, accuracy, tone, grammar, repetition, and
+suitability for the intended audience. Identify what works well and what needs improvement.
+Provide specific examples from the document and recommend precise changes.
+Do not rewrite the document yet. Organize your response into:
 
+Overall assessment
+Strengths
+Areas for improvement
+Missing or unclear information
+Five highest-priority revisions
 ```
-Organize this presentation
-```
 
-1. Copilot responds, providing suggestions for each slide. You can select to update the content as you'd like or iterate your prompt to receive additional suggestions. 
-
-1. Ensure that your presentation has a logical sequence and smooth transitions between slides.
-
-## Exercise 6 - Review a chart with an explain prompt
+## Exercise 6 - Review a chart or table with an explain prompt
 Navigate to a slide that contains a chart or content that you are not familiar with and enter the following prompt in the Copilot pane:
 
 ```
@@ -131,7 +130,7 @@ Explain the content on this slide so I can more easily understand and discuss th
 
 Review Copilot's plain-language breakdown of the content and how it fits the narrative of the surrounding slide.
 
-## (Optional) Exercise - Send a draft for review
+## Exercise 7 - Send a draft for review
 
 Once you're satisfied with your presentation, use Copilot in Outlook to draft an email to your manager for review.
 
