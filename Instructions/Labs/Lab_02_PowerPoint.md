@@ -1,8 +1,10 @@
 # Build a presentation from start to finish with Copilot in PowerPoint
 
-> Note
-> Rendering powerpoints with Copilot that include graphics and images is a potentially time-consuming process.
+> Note:
 > 
+> Rendering powerpoints with Copilot that include graphics and images is a potentially time-consuming process.
+
+## Before You Begin
 We will be using the following file in the lab to generate content. Please download this file to Onedrive: [Promotion_Plan_for_Chai_Tea_in_Latin_America](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Promotion_Plan_for_Chai_Tea_in_Latin_America.docx)
 
 ## Exercises
@@ -23,7 +25,7 @@ Please complete the following exercises as part of this lab:
 > Please note that due to the fluid changes with the User Interface, some commands may need to be entered differently depending on the Copilot UI version you have.
 
 
-1. Open the desktop version of PowerPoint and click on the second choice, **Blank Presentation**. For the purposes of this exercise, please **do not** choose the option to "Create with Copilot".
+1. Open the desktop version of PowerPoint and click on the option **Blank Presentation**. For the purposes of this exercise, please **do not** choose the option to "Create with Copilot".
 2. Once a blank presentation renders, click on the **Copilot** icon.
 3. From within the Copilot chat window enter the following prompt, noting you may have to remove a backslash or omit the "based on" verbiage:
    
@@ -31,8 +33,9 @@ Please complete the following exercises as part of this lab:
 Create a presentation about Contoso's Chai Tea based on
 ```
    
-5. Next, In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(Promotion Plan for Chai Tea in Latin America.docx)** and press the right-arrow. If the file doesn't populate in the MRU or Most Recently Used list, select the Upload button then **Attach Cloud Files**. Navigate to **My files** and select the document from your OneDrive folder.  Once all steps are completed, click the right arrow.
-
+5. Next, In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(Promotion Plan for Chai Tea in Latin America.docx)** and press the right-arrow. If the file doesn't populate in the MRU or Most Recently Used list, exit the existing dialogue box, remove the forward slash (/), and then click on the **Plus** select the **Upload images and file**. Navigate to **My files** and select the document from your OneDrive folder.  Once all steps are completed, click **Send**.
+   
+ ![new](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/master/Instructions/Labs/Media/PromotionPlan.png)
 
 5. After a few moments, Copilot displays a presentation outline showing the potential slides and bulleted points to be included on each slide. Review the suggested content and click on **Generate Slides** in the lower right hand corner.  After a few moments, Copilot generates slides and content. Click **Keep it** to retain the presentation.
    
