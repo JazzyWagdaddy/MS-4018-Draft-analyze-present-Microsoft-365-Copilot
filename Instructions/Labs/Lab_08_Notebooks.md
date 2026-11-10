@@ -4,7 +4,7 @@
 
 ## Lab at a glance
 
-> Microsoft states the Copilot app still calls them Notebooks (OneNote unchanged), and “workspace” is just the new project-hub redesign rolling out mid-2026.
+> Microsoft renamed *Notebooks* to in late 2026, so depending on your version of Copilot, you may see the term **Notebooks** or **Workspaces**.  They are interchangeable terms used throughout this lab.
 
 | Item | Details |
 |---|---|
