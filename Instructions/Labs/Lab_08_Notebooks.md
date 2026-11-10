@@ -4,7 +4,7 @@
 
 ## Lab at a glance
 
-> Microsoft renamed *Notebooks* to in late 2026, so depending on your version of Copilot, you may see the term **Notebooks** or **Workspaces**.  They are interchangeable terms used throughout this lab.
+> Microsoft renamed *Notebooks* to *Workspaces* in late 2026, so depending on your version of Copilot, you may see the term **Notebooks** or **Workspaces**.  They are the same technology and interchangeable terms used throughout this lab.
 
 | Item | Details |
 |---|---|
