@@ -53,7 +53,7 @@ On campus, a notebook works best when it maps to one initiative, course, committ
 - A SharePoint or OneDrive service plan to create notebooks.
 - Access to the Microsoft Copilot app from your desktop.
 - Two sample files:
-  - **Contoso University – First-Year Success Pilot Proposal**
+  - Instructions/Labs/Media/Contoso University - First-Year Student Voice Findings.docx
   - **Contoso University – First-Year Student Voice Findings**
 
 Download both files and save them to your OneDrive folder before you continue. Both files describe a fictional university and contain no real student data.
