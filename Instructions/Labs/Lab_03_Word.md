@@ -5,11 +5,12 @@ This lab teaches university faculty and staff how to use Microsoft 365 Copilot i
 ## Learning objectives
 By the end of this lab, participants will be able to:
 
-1. Draft a new Word document from a short brief using Copilot.
-1. Summarize a longer document for a specific university audience.
-1. Rewrite and improve text for clarity, tone, accessibility, and usefulness.
-1. Transform existing content into a different document format or structure.
-1. Review and refine a document against defined requirements using Copilot.
+- Draft a new Word document from a short brief using Copilot.
+-  Summarize a longer document for a specific university audience.
+- Rewrite and improve text for clarity, tone, accessibility, and usefulness.
+- Transform existing content into a different document format or structure.
+- Review and refine a document against defined requirements using Copilot.
+- Draft a new Word document from a short description using Copilot.
 
 
 ## Sample file
@@ -153,5 +154,13 @@ Five highest-priority revisions
 ```
 Rewrite this document to target the faculty and staff of a university
 ```
+### Exercise 5 - Draft a new Word document from a short description using Copilot.
 
+1. Within Word, click **File**, and then in the text box at the top of the page, enter a brief description of a document that targets everyday regular peopl that you'd want Copilot to create.  For example:
+```
+Write a document about [insert topic] that talks to regular everyday people.
+Include as many pictures as you can, and limit it to 1000 words.
+```
+3. Click create, then review and edit your document using only prompts.
+    
 ## End of Lab  ##
