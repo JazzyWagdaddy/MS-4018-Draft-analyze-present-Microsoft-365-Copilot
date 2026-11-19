@@ -127,7 +127,7 @@ You need to present this deck but are unsure that to say, so try this:
 
 ```
 Create a fun and energetic speaker talk track that is 90 seconds per slide.
-Do not use the same words are you see in the slide, and use my style and tone.
+Do not use the same words that are used  in the slide, and use my style and tone.
 Do not include timing marks and insert a line break between each key point.
 ```
 
