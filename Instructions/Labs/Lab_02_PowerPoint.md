@@ -122,14 +122,13 @@ Missing or unclear information
 Five highest-priority revisions
 ```
 
-## Exercise 6 - Review a chart or table with an explain prompt
+## Exercise 6 - Create a speaker talk track   
 Navigate to a slide that contains a chart or content that you are not familiar with and enter the following prompt in the Copilot pane:
 
 ```
-Explain the content on this slide so I can more easily understand and discuss the content as I present it to leadership.
+Create a fun and energetic speaker talk track that is 90 seconds per slide.  do not include timing marks and insert a line break between each key point.
 ```
 
-Review Copilot's plain-language breakdown of the content and how it fits the narrative of the surrounding slide.
 
 ## Exercise 7 - Send a draft for review
 
