@@ -126,7 +126,8 @@ Five highest-priority revisions
 Navigate to a slide that contains a chart or content that you are not familiar with and enter the following prompt in the Copilot pane:
 
 ```
-Create a fun and energetic speaker talk track that is 90 seconds per slide.  do not include timing marks and insert a line break between each key point.
+Create a fun and energetic speaker talk track that is 90 seconds per slide.
+Do not include timing marks and insert a line break between each key point.
 ```
 
 
