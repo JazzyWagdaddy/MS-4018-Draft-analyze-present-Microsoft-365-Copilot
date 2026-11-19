@@ -123,7 +123,7 @@ Five highest-priority revisions
 ```
 
 ## Exercise 6 - Create a speaker talk track   
-Navigate to a slide that contains a chart or content that you are not familiar with and enter the following prompt in the Copilot pane:
+You need to present this deck but are unsure that to say, so try this:
 
 ```
 Create a fun and energetic speaker talk track that is 90 seconds per slide.
