@@ -85,9 +85,7 @@ In today's digital age, social media engagement can significantly impact sales. 
 ```
     Identify any correlations between Online Searches for Chai and Total Chai Sales (units)
 ```
-Copilot generates a chart showing trends. Additionally, Copilot responds with text indicating there's a high correlation, allowing you instant insight to complicated sales data.
 
-1. Select **Add to sheet** to include these insights to your table.
 
 ## Exercise 6 - Generate insights
 
