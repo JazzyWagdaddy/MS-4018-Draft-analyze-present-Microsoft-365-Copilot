@@ -54,9 +54,9 @@ On campus, a notebook works best when it maps to one initiative, course, committ
 - Access to the Microsoft Copilot app from your desktop.
 - Two sample files:
   
-  [First-Year Student Voice Findings](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/e9a93a362ae5009fdf1f8334468da55827c9692a/Instructions/Labs/Media/Contoso%20University%20-%20First-Year%20Student%20Voice%20Findings.docx)
+  [First-Year Student Voice Findings](https://netorgft18972711-my.sharepoint.com/:f:/g/personal/jeff_cloudadvisors_us/IgBWiMsRHevdSq-IPheppJBcAajk1veVk-9EWL6C7TF1hv0?e=M7dc3F)
   
-  [First-Year Success Pilot Proposal](https://github.com/JazzyWagdaddy/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/blob/e9a93a362ae5009fdf1f8334468da55827c9692a/Instructions/Labs/Media/Contoso%20University%20-%20First-Year%20Success%20Pilot%20Proposal.docx)
+  [First-Year Success Pilot Proposal](https://netorgft18972711-my.sharepoint.com/:f:/g/personal/jeff_cloudadvisors_us/IgBWiMsRHevdSq-IPheppJBcAajk1veVk-9EWL6C7TF1hv0?e=M7dc3F)
   
 
 Download both files and save them to your OneDrive folder before you continue. Both files describe a fictional university and contain no real student data.
