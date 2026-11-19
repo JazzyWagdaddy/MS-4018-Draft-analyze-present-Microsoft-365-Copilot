@@ -89,10 +89,13 @@ You have just joined the fictional **Contoso University** First-Year Success wor
 1. Ensure that you have downloaded the required files, then sign in to the Microsoft Copilot app on your desktop with your institutional account.
 2. In the left navigation, open **Notebooks**. If you do not see it, check the app launcher.
 3. Select **All notebooks**, and then select **New notebook**.
-4. Name the Notebook by copying and pasting this text: `Contoso First-Year Success Lab`
-5. Notice the options to add content or previous chats to this Notebook. You'll work with these later.
-6. When ready, click **Create**.
-7. Keep the notebook open for the rest of the lab.
+4. Name the Notebook by copying and pasting this text:
+```
+Contoso First-Year Success Lab
+```
+6. Notice the options to add content or previous chats to this Notebook. You'll work with these later.
+7. When ready, click **Create**.
+8. Keep the notebook open for the rest of the lab.
 
 ### Check your work
 
