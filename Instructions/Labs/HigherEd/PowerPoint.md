@@ -1,28 +1,4 @@
----
-lab:
-    title: 'Lab 2: Build a presentation from start to finish with Copilot in PowerPoint (Higher Education – Franklin University)'
-    description: 'Microsoft 365 Copilot – Explore how Copilot in PowerPoint can help faculty, academic leaders, and staff build a governance-ready presentation from start to finish.'
-    level: 'Lab 200'
-    duration: '30'
-    islab: true
-    primarytopics:
-        - Microsoft 365
-        - Microsoft 365 Copilot
-        - Higher Education
----
-
-# Lab 2 – Build a presentation from start to finish with Copilot in PowerPoint
-
-**Higher Education edition for Franklin University faculty and staff**
-
-## Lab at a glance
-
-| Item | Details |
-|---|---|
-| Audience | Franklin University faculty, program chairs, deans, academic and student-success staff, advisors, institutional research, and Center for Teaching and Learning / IT teams who present to councils, committees, and leadership |
-| Duration | 30 minutes, plus optional self-paced challenges |
-| Outcome | A polished, evidence-based presentation built from two campus documents, with speaker notes prepared for a skeptical leadership audience |
-| Prerequisite | Lab 1, or basic familiarity with Microsoft 365 Copilot Chat |
+# PowerPoint in Higher Education
 
 ## Scenario
 
@@ -49,8 +25,9 @@ By the end of this lab, you will plan a narrative with Idea Coach, create a pres
 
 Throughout this lab, you craft prompts that reference these files. Download both files and save them to your OneDrive folder before you continue.
 
-- **Contoso University – First-Year Success Pilot Proposal.docx**
-- **Contoso University – First-Year Student Voice Findings.docx**
+  [First-Year Student Voice Findings](https://netorgft18972711-my.sharepoint.com/:w:/g/personal/jeff_cloudadvisors_us/IQARpN_rPcK-RJ2gU0NjLUY6AYE4pWE0KSgPuE0iJ2f70a0?e=U43M1V)
+  
+  [First-Year Success Pilot Proposal](https://netorgft18972711-my.sharepoint.com/:w:/g/personal/jeff_cloudadvisors_us/IQCh1bOCR-oQTZW1rbz2dCLAATupfLXwUgTZJe6aE_9Vuhs?e=GTk5Qn)
 
 Both files describe a fictional university, all figures are illustrative, and they contain no real student data. They are the same files used in the Higher Education Copilot Notebooks lab, so you can reuse them if you completed that lab.
 
@@ -77,8 +54,7 @@ Copilot in PowerPoint capabilities vary by license (faculty, staff, and student 
 
 Before you open PowerPoint, use Idea Coach to define your narrative. A focused planning prompt now produces a stronger first draft and requires less revision later.
 
-1. Open the Microsoft Copilot app by navigating to `https://m365.cloud.microsoft` and signing in with your Franklin account.
-2. Select **Idea Coach** from the left navigation pane. If it doesn't appear, select **More agents**, then in the search bar type **Idea Coach**, select the agent, and select **Add** to add it.
+1. Open the Microsoft Copilot app and select **Idea Coach** from the left navigation pane. If it doesn't appear, select **More agents**, then in the search bar type **Idea Coach**, select the agent, and select **Add** to add it.
 3. In the **Message Idea Coach** box, enter the following prompt:
 
     ```
@@ -105,8 +81,7 @@ Leadership audiences on campus rarely want a tour of a proposal. They want to kn
 
 With your narrative plan ready, create the presentation by referencing both source files. Specifying your output parameters in the prompt means Copilot builds to your requirements from the start.
 
-1. Open a blank PowerPoint presentation from your browser by navigating to `https://powerpoint.cloud.microsoft/new`.
-2. Select the **Copilot** icon in the bottom-right corner of the canvas.
+1. Open a blank PowerPoint presentation and select the **Copilot** icon in the bottom-right corner of the canvas.
 3. Enter the following creation prompt:
 
     ```
@@ -125,7 +100,7 @@ With your narrative plan ready, create the presentation by referencing both sour
     End with a slide listing the decisions requested of the Council.
     ```
 
-4. Attach **Contoso University – First-Year Success Pilot Proposal.docx** and **Contoso University – First-Year Student Voice Findings.docx** using **Add work content** (type `/` or select **+** → **Add work content**).
+4. Attach **First-Year Success Pilot Proposal.docx** and **First-Year Student Voice Findings.docx** using **Add work content** (type `/` or select **+** → **Add work content**).
 5. Once both documents are attached, send the prompt so that Copilot uses them as the primary sources for the task.
 6. If Copilot asks clarifying questions, answer using the key messages from your Idea Coach session.
 7. Review the generated slides.
@@ -235,19 +210,3 @@ Your finished deck should:
 
 ---
 
-# Optional self-paced challenges for Franklin University
-
-Each challenge uses the same plan → create → refine → review workflow. Use only non-sensitive, permitted content, and apply the same rule: tell Copilot what it must not invent.
-
-| Challenge | Suggested source files | Starter creation prompt |
-|---|---|---|
-| Program review presentation | Your program review self-study and an aggregate (non-identifiable) enrollment and completion summary | Create a 10-slide presentation for the curriculum committee summarizing this program review. Include strengths, gaps, and three recommendations. Use only the attached files and label anything unsupported as "To be confirmed." |
-| Accreditation or assessment update | Your assessment report and the accreditor's published standard | Create a 6-slide update for academic leadership showing how our evidence maps to this standard. Include one slide on gaps and next steps. Do not invent evidence. |
-| Course or module redesign pitch | Your current syllabus, course outcomes, and an anonymized end-of-term evaluation summary | Create a 7-slide proposal to redesign this online course for working adult learners. Show the outcomes, the proposed changes, and how we will measure the impact. |
-| New faculty or adjunct orientation | Faculty handbook sections, LMS guidance, and teaching-and-learning resources | Create a 12-slide orientation deck for new adjunct faculty teaching online. Use a welcoming, practical tone and end with a checklist for the first week of the term. |
-| Board or advisory council update | An approved strategic plan summary and a published annual report | Create a 6-slide update for an industry advisory board. Use plain language for an external audience and include only information approved for external sharing. |
-| Student-facing workshop | A study-skills or career-services handout you own | Create an 8-slide workshop presentation for adult learners balancing work, family, and school. Keep each slide to three short bullets and add speaker notes with one discussion question per slide. |
-
-## Quick reference: the creation prompt formula
-
-> Create a **[number]**-slide **[type]** presentation for **[audience]** on **[topic]**. Use **[file A]** for **[content]** and **[file B]** for **[content]**. Tone: **[tone]**. Audience: **[what they care about]**. **[Quality rule – for example, do not invent figures; label gaps as "To be confirmed."]** End with **[a call to action or decision]**.
