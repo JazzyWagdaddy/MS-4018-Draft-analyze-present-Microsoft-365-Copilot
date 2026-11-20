@@ -21,14 +21,14 @@ To get an idea of market trends, you must first understand  the overall performa
 
 1. Open the sample file you downloaded from your OneDrive.
 
-1. Select the **Copilot** icon on the **Home** to open the Copilot pane.
+2. Select the **Copilot** icon on the **Home** to open the Copilot pane.
 
-1. Enter the following prompt:
+3. Enter the following prompt:
 
 ```
     Summarize the dataset and provide an overview of the key metrics
 ```
-1. Review the robust data Copilot provided
+4. Review the robust data Copilot provided.
 
 ## Exercise 2 - Identify sales trends
 
