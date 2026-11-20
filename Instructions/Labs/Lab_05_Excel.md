@@ -28,7 +28,7 @@ To get an idea of market trends, you must first understand  the overall performa
 ```
     Summarize the dataset and provide an overview of the key metrics
 ```
-1. Review the robust data Copilot providewd
+1. Review the robust data Copilot provided
 
 ## Exercise 2 - Identify sales trends
 
