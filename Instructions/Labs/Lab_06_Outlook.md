@@ -11,7 +11,7 @@ Please complete the following exercises as part of this lab:
 #### Exercise 2 - Get coaching on your email
 #### Exercise 3 - How can AI help me be productive?
 #### Exercise 4 - Triage your inbox with Copilot in Outlook
-
+#### Exercise 5 - Schedule a meeting
 
 ## Exercise 1 - Draft an email with Copilot in Outlook ###
 1. Open Microsoft Outlook on the desktop and select **New Email**.
@@ -100,5 +100,10 @@ say "I didn't find any unread threads that require a reply."
    and for 🔴 items a suggested next step; keep it punchy,
    put the 🔴 list first, and end with a 2-line TLDR of what needs me most.
    ```
-   
+
+## Exercise 5 - Triage your inbox with Copilot in Outlook
+1. Open Outlook and select the Copilot Chat icon.
+2. Type the following:
+3. 
+
 ## End of Lab ##
