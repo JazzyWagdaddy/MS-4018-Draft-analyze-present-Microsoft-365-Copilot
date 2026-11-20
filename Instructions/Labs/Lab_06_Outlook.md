@@ -104,6 +104,8 @@ say "I didn't find any unread threads that require a reply."
 ## Exercise 5 - Triage your inbox with Copilot in Outlook
 1. Open Outlook and select the Copilot Chat icon.
 2. Type the following:
-3. 
+```
+Schedule a meeting with / about your promotion
+```
 
 ## End of Lab ##
